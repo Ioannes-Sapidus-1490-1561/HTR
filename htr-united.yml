@@ -1,0 +1,42 @@
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: HTR
+url: https://github.com/Johann-Sapidus-1490-1561/HTR
+authors:
+  - name: Marie
+    surname: Jeannot-Tirole
+    orcid: 0000-0002-6607-653X
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - digitization
+  - name: Simon
+    surname: Gabay
+    orcid: 0000-0001-9094-4475
+    roles:
+      - quality-control
+      - support
+institutions: []
+description: Données HTR
+project-name: Johann Sapidus (1490-1561)
+project-website: FoNDUE
+language:
+  - lat
+production-software: eScriptorium + Kraken
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1536'
+  notAfter: '1536'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: lines
+    count: 200
+citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
