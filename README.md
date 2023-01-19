@@ -5,11 +5,13 @@
 ## Data
 
 Les données sont issues de transcription effectuées par Marie Jeannot-Tirole.
-Lien vers numérisation.
+Le dépôt est encore en cours de réalisation, merci de ne pas utiliser les données avant leur finalisation.
+Lien vers numérisation à ajouter
 
 ## Licence
 
 For the images, see the [....'s policy](lien).
+
 For the transcription, [CC-BY](https://creativecommons.org/licenses/by/4.0/).
 CC-BY, sauf les données prises chez les collègues (indiquées dans les ```.Rmd```).
 
