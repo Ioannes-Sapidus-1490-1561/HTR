@@ -40,6 +40,12 @@ transcription-guidelines: >-
   Cf. Ariane Pinche, Guide de transcription pour les manuscrits du Xe au XVe
   siècle, 2022, https://hal.science/hal-03697382.
 volume:
-  - metric: lines
-    count: 200
+- metric: characters
+  count: 0
+- metric: files
+  count: 0
+- metric: lines
+  count: 0
+- metric: regions
+  count: 0
 citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
