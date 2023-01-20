@@ -96,13 +96,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="146.0"
-                   VPOS="490.0"
-                   WIDTH="855.0"
-                   HEIGHT="1446.0"
+        <TextBlock HPOS="146"
+                   VPOS="490"
+                   WIDTH="855"
+                   HEIGHT="1446"
                    ID="eSc_textblock_c8d078eb"
                    TAGREFS="BT655">
-          <Shape><Polygon POINTS="146 495 161 1936 1001 1908 978 490"/></Shape>
+          <Shape><Polygon POINTS="146 495 161 1936 776 1915 1001 1908 978 490"/></Shape>
           
         </TextBlock>
         

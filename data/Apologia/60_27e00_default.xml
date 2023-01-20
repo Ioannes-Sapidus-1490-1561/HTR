@@ -538,13 +538,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="741.0"
-                   VPOS="1845.0"
-                   WIDTH="147.0"
-                   HEIGHT="41.0"
+        <TextBlock HPOS="741"
+                   VPOS="1844"
+                   WIDTH="117"
+                   HEIGHT="42"
                    ID="eSc_textblock_f5e3c327"
                    TAGREFS="BT653">
-          <Shape><Polygon POINTS="850 1886 799 1882 742 1878 741 1876 741 1845 888 1845 858 1845 858 1877"/></Shape>
+          <Shape><Polygon POINTS="850 1886 799 1882 742 1878 741 1876 741 1845 857 1844 858 1845 858 1877"/></Shape>
           
         </TextBlock>
         
