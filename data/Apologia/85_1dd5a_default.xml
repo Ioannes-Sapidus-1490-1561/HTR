@@ -511,33 +511,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="337.0"
-                   VPOS="1112.0"
-                   WIDTH="194.0"
-                   HEIGHT="77.0"
-                   ID="eSc_textblock_4910e011"
-                   TAGREFS="BT652">
-          <Shape><Polygon POINTS="352 1189 337 1151 376 1112 507 1120 531 1173"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_64bb1435"
-                    TAGREFS="LT210"
-                    BASELINE="343 1173 523 1169" 
-                    HPOS="343"
-                    VPOS="1112"
-                    WIDTH="180"
-                    HEIGHT="88">
-            <Shape><Polygon POINTS="517 1151 499 1124 488 1118 478 1118 458 1116 439 1114 419 1114 399 1112 380 1112 360 1124 343 1157 343 1173 343 1189 413 1200 415 1200 417 1200 419 1200 435 1187 437 1187 523 1187 523 1169 521 1161 517 1151"/></Shape>
-	    <String CONTENT="Absurda"
-                    HPOS="343"
-                    VPOS="1112"
-                    WIDTH="180"
-                    HEIGHT="88"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="855.0"
                    VPOS="431.0"
                    WIDTH="287.0"

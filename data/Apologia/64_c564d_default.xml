@@ -562,33 +562,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="896"
-                   VPOS="1057"
-                   WIDTH="350"
-                   HEIGHT="241"
-                   ID="eSc_textblock_71d3202f"
-                   TAGREFS="BT652">
-          <Shape><Polygon POINTS="1016 1057 1246 1079 1245 1252 1080 1274 999 1298 896 1287 896 1080"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_43333eed"
-                    TAGREFS="LT210"
-                    BASELINE="940 1277 996 1285" 
-                    HPOS="934"
-                    VPOS="1240"
-                    WIDTH="65"
-                    HEIGHT="70">
-            <Shape><Polygon POINTS="938 1275 934 1289 987 1310 995 1283 999 1240 940 1240 938 1275"/></Shape>
-	    <String CONTENT="nis."
-                    HPOS="934"
-                    VPOS="1240"
-                    WIDTH="65"
-                    HEIGHT="70"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="156"
                    VPOS="493"
                    WIDTH="780"

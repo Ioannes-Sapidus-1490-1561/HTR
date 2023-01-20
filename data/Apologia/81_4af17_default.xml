@@ -25,33 +25,6 @@
                   WIDTH="1545"
                   HEIGHT="2351">
         
-        <TextBlock HPOS="643.0"
-                   VPOS="329.0"
-                   WIDTH="288.0"
-                   HEIGHT="60.0"
-                   ID="eSc_textblock_7ffe0361"
-                   TAGREFS="BT652">
-          <Shape><Polygon POINTS="674 389 643 374 674 329 907 329 931 374"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_ae7cb513"
-                    TAGREFS="LT210"
-                    BASELINE="652 378 919 370" 
-                    HPOS="652"
-                    VPOS="329"
-                    WIDTH="267"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="874 329 866 329 847 329 827 329 821 329 768 340 686 329 676 329 666 335 652 368 652 378 652 391 737 385 750 393 754 397 756 397 758 397 760 397 817 395 819 395 825 393 856 380 917 391 919 370 917 356 907 336"/></Shape>
-	    <String CONTENT="Arte opꝰ ħōī."
-                    HPOS="652"
-                    VPOS="329"
-                    WIDTH="267"
-                    HEIGHT="68"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="611.0"
                    VPOS="517.0"
                    WIDTH="798.0"
@@ -613,16 +586,6 @@
                    ID="eSc_textblock_c51f673a"
                    TAGREFS="BT654">
           <Shape><Polygon POINTS="862 454 1096 462 1089 500 1029 500 1029 495 865 495"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="313.0"
-                   VPOS="1129.0"
-                   WIDTH="303.0"
-                   HEIGHT="224.0"
-                   ID="eSc_textblock_e890980c"
-                   TAGREFS="BT652">
-          <Shape><Polygon POINTS="611 1347 313 1345 321 1136 523 1151 616 1129 616 1353 611 1353"/></Shape>
           
         </TextBlock>
         

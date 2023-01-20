@@ -25,104 +25,53 @@
                   WIDTH="1546"
                   HEIGHT="2351">
         
-        <TextBlock HPOS="313"
-                   VPOS="1622"
-                   WIDTH="474"
-                   HEIGHT="123"
-                   ID="eSc_textblock_017627a2"
+        <TextBlock HPOS="247"
+                   VPOS="534"
+                   WIDTH="637"
+                   HEIGHT="155"
+                   ID="eSc_textblock_206b991b"
                    TAGREFS="BT651">
-          <Shape><Polygon POINTS="703 1698 646 1745 423 1737 413 1698 313 1682 313 1630 344 1622 772 1637 787 1682"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_9c91963e"
-                    TAGREFS="LT210"
-                    BASELINE="315 1671 775 1679" 
-                    HPOS="313"
-                    VPOS="1628"
-                    WIDTH="462"
-                    HEIGHT="74">
-            <Shape><Polygon POINTS="746 1635 726 1635 717 1633 315 1628 315 1671 313 1688 654 1688 772 1702 775 1679 772 1653 766 1635"/></Shape>
-	    <String CONTENT="BARBA VIRI ORNA¬"
-                    HPOS="313"
-                    VPOS="1628"
-                    WIDTH="462"
-                    HEIGHT="74"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_bd568da0"
-                    TAGREFS="LT210"
-                    BASELINE="423 1731 656 1731" 
-                    HPOS="423"
-                    VPOS="1688"
-                    WIDTH="233"
-                    HEIGHT="69">
-            <Shape><Polygon POINTS="423 1688 423 1731 423 1749 568 1747 572 1747 609 1757 611 1757 613 1757 615 1757 656 1745 656 1731 654 1726 642 1688"/></Shape>
-	    <String CONTENT="MENTVM."
-                    HPOS="423"
-                    VPOS="1688"
-                    WIDTH="233"
-                    HEIGHT="69"></String>
-          </TextLine>
-
+          <Shape><Polygon POINTS="247 534 247 689 884 689 884 534"/></Shape>
           
         </TextBlock>
         
-        <TextBlock HPOS="715.0"
-                   VPOS="1744.0"
-                   WIDTH="136.0"
-                   HEIGHT="79.0"
-                   ID="eSc_textblock_7bbdb102"
-                   TAGREFS="BT653">
-          <Shape><Polygon POINTS="851 1819 850 1744 715 1744 715 1823"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_70a100e2"
-                    TAGREFS="LT210"
-                    BASELINE="732 1787 827 1787" 
-                    HPOS="730"
-                    VPOS="1745"
-                    WIDTH="96"
-                    HEIGHT="59">
-            <Shape><Polygon POINTS="730 1786 730 1804 826 1800 826 1786 824 1753 772 1755 742 1745 730 1745"/></Shape>
-	    <String CONTENT="D 3"
-                    HPOS="730"
-                    VPOS="1745"
-                    WIDTH="96"
-                    HEIGHT="59"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="146"
-                   VPOS="490"
-                   WIDTH="855"
-                   HEIGHT="1446"
-                   ID="eSc_textblock_c8d078eb"
-                   TAGREFS="BT655">
-          <Shape><Polygon POINTS="146 495 161 1936 776 1915 1001 1908 978 490"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="250"
-                   VPOS="556"
-                   WIDTH="608"
+        <TextBlock HPOS="299"
+                   VPOS="1627"
+                   WIDTH="484"
                    HEIGHT="115"
-                   ID="eSc_textblock_be4f82d0"
+                   ID="eSc_textblock_0ae5aa55"
                    TAGREFS="BT651">
-          <Shape><Polygon POINTS="352 664 319 617 250 593 258 556 803 556 850 564 858 609 772 671"/></Shape>
+          <Shape><Polygon POINTS="299 1627 299 1742 783 1742 783 1627"/></Shape>
           
         </TextBlock>
         
-        <TextBlock HPOS="263"
-                   VPOS="696"
-                   WIDTH="654"
-                   HEIGHT="930"
-                   ID="eSc_textblock_df250726"
+        <TextBlock HPOS="703"
+                   VPOS="1751"
+                   WIDTH="153"
+                   HEIGHT="52"
+                   ID="eSc_textblock_6e05f39b"
+                   TAGREFS="BT653">
+          <Shape><Polygon POINTS="856 1803 856 1751 703 1751 703 1803"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="315"
+                   VPOS="691"
+                   WIDTH="484"
+                   HEIGHT="914"
+                   ID="eSc_textblock_08a6b53b"
                    TAGREFS="BT673">
-          <Shape><Polygon POINTS="917 1626 888 705 269 696 263 1603"/></Shape>
+          <Shape><Polygon POINTS="315 691 315 1605 799 1605 799 691"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="151"
+                   VPOS="454"
+                   WIDTH="911"
+                   HEIGHT="1422"
+                   ID="eSc_textblock_fe53a409"
+                   TAGREFS="BT655">
+          <Shape><Polygon POINTS="151 454 151 1876 1062 1876 1062 454"/></Shape>
           
         </TextBlock>
         
@@ -161,6 +110,57 @@
                     VPOS="601.0"
                     WIDTH="444.0"
                     HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c91963e"
+                    TAGREFS="LT210"
+                    BASELINE="315 1671 775 1679" 
+                    HPOS="313"
+                    VPOS="1628"
+                    WIDTH="462"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="746 1635 726 1635 717 1633 315 1628 315 1671 313 1688 654 1688 772 1702 775 1679 772 1653 766 1635"/></Shape>
+	    <String CONTENT="BARBA VIRI ORNA¬"
+                    HPOS="313"
+                    VPOS="1628"
+                    WIDTH="462"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd568da0"
+                    TAGREFS="LT210"
+                    BASELINE="423 1731 656 1731" 
+                    HPOS="423"
+                    VPOS="1688"
+                    WIDTH="233"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="423 1688 423 1731 423 1749 568 1747 572 1747 609 1757 611 1757 613 1757 615 1757 656 1745 656 1731 654 1726 642 1688"/></Shape>
+	    <String CONTENT="MENTVM."
+                    HPOS="423"
+                    VPOS="1688"
+                    WIDTH="233"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70a100e2"
+                    TAGREFS="LT210"
+                    BASELINE="732 1787 827 1787" 
+                    HPOS="730"
+                    VPOS="1745"
+                    WIDTH="96"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="730 1786 730 1804 826 1800 826 1786 824 1753 772 1755 742 1745 730 1745"/></Shape>
+	    <String CONTENT="D 3"
+                    HPOS="730"
+                    VPOS="1745"
+                    WIDTH="96"
+                    HEIGHT="59"></String>
           </TextLine>
 
           

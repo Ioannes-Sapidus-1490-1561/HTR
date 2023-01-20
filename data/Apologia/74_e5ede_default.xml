@@ -511,60 +511,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="899.0"
-                   VPOS="815.0"
-                   WIDTH="255.0"
-                   HEIGHT="76.0"
-                   ID="eSc_textblock_a5e9e49c"
-                   TAGREFS="BT652">
-          <Shape><Polygon POINTS="915 822 1024 815 1138 822 1154 875 977 891 899 867"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_c177e245"
-                    TAGREFS="LT210"
-                    BASELINE="907 862 1144 867" 
-                    HPOS="905"
-                    VPOS="820"
-                    WIDTH="239"
-                    HEIGHT="83">
-            <Shape><Polygon POINTS="1142 848 1130 832 1109 824 1107 824 1105 824 1103 824 1077 834 1073 836 1052 834 956 820 954 820 920 824 907 842 907 862 905 877 950 879 956 883 981 901 983 901 985 901 987 901 989 901 1018 891 1032 887 1140 903 1144 867 1144 854 1142 848"/></Shape>
-	    <String CONTENT="Ceτge6æd."
-                    HPOS="905"
-                    VPOS="820"
-                    WIDTH="239"
-                    HEIGHT="83"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="938.0"
-                   VPOS="1567.0"
-                   WIDTH="247.0"
-                   HEIGHT="61.0"
-                   ID="eSc_textblock_4514479a"
-                   TAGREFS="BT652">
-          <Shape><Polygon POINTS="1030 1567 1161 1575 1185 1628 938 1628 946 1583"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_c2c08ebe"
-                    TAGREFS="LT210"
-                    BASELINE="946 1624 1179 1618" 
-                    HPOS="946"
-                    VPOS="1573"
-                    WIDTH="233"
-                    HEIGHT="84">
-            <Shape><Polygon POINTS="1165 1588 1107 1573 1105 1573 1103 1573 1101 1573 1099 1573 1077 1590 1022 1581 1020 1581 956 1594 946 1624 946 1643 971 1655 973 1655 975 1655 977 1655 1007 1645 1022 1641 1054 1647 1099 1657 1101 1657 1177 1651 1179 1618 1177 1610 1165 1588"/></Shape>
-	    <String CONTENT="Fax laveſsE."
-                    HPOS="946"
-                    VPOS="1573"
-                    WIDTH="233"
-                    HEIGHT="84"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="335.0"
                    VPOS="446.0"
                    WIDTH="412.0"
