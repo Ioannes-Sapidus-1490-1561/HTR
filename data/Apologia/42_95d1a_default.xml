@@ -33,32 +33,6 @@
                    TAGREFS="BT654">
           <Shape><Polygon POINTS="228 424 228 492 849 492 849 424"/></Shape>
           
-        </TextBlock>
-        
-        <TextBlock HPOS="146"
-                   VPOS="489"
-                   WIDTH="790"
-                   HEIGHT="1342"
-                   ID="eSc_textblock_636428e5"
-                   TAGREFS="BT651">
-          <Shape><Polygon POINTS="146 489 146 1831 936 1831 936 489"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="722"
-                   VPOS="1836"
-                   WIDTH="117"
-                   HEIGHT="44"
-                   ID="eSc_textblock_4a4a4de3"
-                   TAGREFS="BT653">
-          <Shape><Polygon POINTS="839 1880 839 1836 722 1836 722 1880"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="eSc_line_666c0e9c"
                     TAGREFS="LT210"
@@ -75,6 +49,16 @@
                     HEIGHT="60"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="146"
+                   VPOS="489"
+                   WIDTH="790"
+                   HEIGHT="1342"
+                   ID="eSc_textblock_636428e5"
+                   TAGREFS="BT651">
+          <Shape><Polygon POINTS="146 489 146 1831 936 1831 936 489"/></Shape>
           
           
           <TextLine ID="eSc_line_8bc8b212"
@@ -518,6 +502,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="722"
+                   VPOS="1836"
+                   WIDTH="117"
+                   HEIGHT="44"
+                   ID="eSc_textblock_4a4a4de3"
+                   TAGREFS="BT653">
+          <Shape><Polygon POINTS="839 1880 839 1836 722 1836 722 1880"/></Shape>
+          
           
           <TextLine ID="eSc_line_39150c9b"
                     TAGREFS="LT210"
@@ -536,6 +530,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>

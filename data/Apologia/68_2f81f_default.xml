@@ -25,26 +25,6 @@
                   WIDTH="1546"
                   HEIGHT="2351">
         
-        <TextBlock HPOS="816"
-                   VPOS="1809"
-                   WIDTH="35"
-                   HEIGHT="44"
-                   ID="eSc_textblock_1341acf7"
-                   TAGREFS="BT653">
-          <Shape><Polygon POINTS="816 1813 816 1853 851 1853 851 1809"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="334"
-                   VPOS="410"
-                   WIDTH="402"
-                   HEIGHT="60"
-                   ID="eSc_textblock_2f3b7ec1"
-                   TAGREFS="BT654">
-          <Shape><Polygon POINTS="334 410 334 462 736 470 736 410"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="143"
                    VPOS="470"
                    WIDTH="857"
@@ -52,29 +32,6 @@
                    ID="eSc_textblock_8a65819a"
                    TAGREFS="BT651">
           <Shape><Polygon POINTS="143 470 143 1802 1000 1802 949 493"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_46e2e47c"
-                    TAGREFS="LT210"
-                    BASELINE="337 452 728 458" 
-                    HPOS="335"
-                    VPOS="415"
-                    WIDTH="393"
-                    HEIGHT="53">
-            <Shape><Polygon POINTS="709 419 689 415 670 415 650 415 630 415 611 415 591 415 572 415 552 415 532 415 513 415 493 415 474 415 454 415 434 415 415 415 395 415 376 415 356 415 337 415 337 452 335 468 726 468 728 458 721 438 709 419"/></Shape>
-	    <String CONTENT="IOANNIS SAPIDI"
-                    HPOS="335"
-                    VPOS="415"
-                    WIDTH="393"
-                    HEIGHT="53"></String>
-          </TextLine>
-
           
           
           <TextLine ID="eSc_line_5e458cda"
@@ -518,6 +475,43 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="334"
+                   VPOS="410"
+                   WIDTH="402"
+                   HEIGHT="60"
+                   ID="eSc_textblock_2f3b7ec1"
+                   TAGREFS="BT654">
+          <Shape><Polygon POINTS="334 410 334 462 736 470 736 410"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_46e2e47c"
+                    TAGREFS="LT210"
+                    BASELINE="337 452 728 458" 
+                    HPOS="335"
+                    VPOS="415"
+                    WIDTH="393"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="709 419 689 415 670 415 650 415 630 415 611 415 591 415 572 415 552 415 532 415 513 415 493 415 474 415 454 415 434 415 415 415 395 415 376 415 356 415 337 415 337 452 335 468 726 468 728 458 721 438 709 419"/></Shape>
+	    <String CONTENT="IOANNIS SAPIDI"
+                    HPOS="335"
+                    VPOS="415"
+                    WIDTH="393"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="816"
+                   VPOS="1809"
+                   WIDTH="35"
+                   HEIGHT="44"
+                   ID="eSc_textblock_1341acf7"
+                   TAGREFS="BT653">
+          <Shape><Polygon POINTS="816 1813 816 1853 851 1853 851 1809"/></Shape>
+          
           
           <TextLine ID="eSc_line_5f3ba86f"
                     TAGREFS="LT210"
@@ -536,6 +530,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
