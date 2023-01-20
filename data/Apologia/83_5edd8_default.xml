@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT649" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -545,16 +545,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="556.0"
-                   VPOS="995.0"
-                   WIDTH="14.0"
-                   HEIGHT="6.0"
-                   ID="eSc_textblock_1bacc46f"
-                   >
-          <Shape><Polygon POINTS="556 1001 556 995 570 995 570 1001"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="869.0"
                    VPOS="421.0"
                    WIDTH="266.0"
@@ -565,13 +555,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="329.0"
-                   VPOS="961.0"
-                   WIDTH="304.0"
-                   HEIGHT="94.0"
+        <TextBlock HPOS="307"
+                   VPOS="910"
+                   WIDTH="334"
+                   HEIGHT="145"
                    ID="eSc_textblock_50891d56"
                    TAGREFS="BT652">
-          <Shape><Polygon POINTS="627 1018 548 985 531 1055 376 1055 345 1048 329 963 633 961 633 1022 627 1022"/></Shape>
+          <Shape><Polygon POINTS="619 1022 562 1024 531 1055 376 1055 345 1048 307 910 632 923 641 1017 620 1021"/></Shape>
           
         </TextBlock>
         

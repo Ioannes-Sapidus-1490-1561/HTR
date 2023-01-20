@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT649" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -37,16 +37,16 @@
           <TextLine ID="eSc_line_95dcd722"
                     TAGREFS="LT210"
                     BASELINE="823 476 1252 462" 
-                    HPOS="823"
+                    HPOS="819"
                     VPOS="423"
-                    WIDTH="429"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="1213 423 1194 423 1174 423 1154 423 1135 423 1115 423 1105 423 839 429 825 458 823 476 823 481 1250 478 1252 462 1246 429 1233 423"/></Shape>
+                    WIDTH="431"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="1231 423 1211 423 1192 423 1172 423 1152 423 1133 423 1113 423 1094 423 1074 423 1054 423 1035 423 1015 425 996 425 976 425 956 427 937 427 917 427 897 429 878 429 858 429 839 429 837 427 819 427 821 474 821 483 1056 485 1058 485 1103 481 1207 472 1246 479 1250 460 1241 427 1231 423"/></Shape>
 	    <String CONTENT="IOANNES PIERIVS"
-                    HPOS="823"
+                    HPOS="819"
                     VPOS="423"
-                    WIDTH="429"
-                    HEIGHT="58"></String>
+                    WIDTH="431"
+                    HEIGHT="62"></String>
           </TextLine>
 
           

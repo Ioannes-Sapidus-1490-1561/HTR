@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT649" LABEL="DecorationZone" DESCRIPTION="block type DecorationZone"/><OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -41,7 +41,7 @@
                     VPOS="329"
                     WIDTH="267"
                     HEIGHT="68">
-            <Shape><Polygon POINTS="907 336 874 329 866 329 847 329 827 329 821 329 768 340 686 329 676 329 666 335 652 368 652 378 652 391 737 385 750 393 754 397 756 397 758 397 760 397 817 395 819 395 825 393 856 380 917 391 919 370 917 356 907 336"/></Shape>
+            <Shape><Polygon POINTS="874 329 866 329 847 329 827 329 821 329 768 340 686 329 676 329 666 335 652 368 652 378 652 391 737 385 750 393 754 397 756 397 758 397 760 397 817 395 819 395 825 393 856 380 917 391 919 370 917 356 907 336"/></Shape>
 	    <String CONTENT="Arte opꝰ ħōī."
                     HPOS="652"
                     VPOS="329"
@@ -613,16 +613,6 @@
                    ID="eSc_textblock_c51f673a"
                    TAGREFS="BT654">
           <Shape><Polygon POINTS="862 454 1096 462 1089 500 1029 500 1029 495 865 495"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1029.0"
-                   VPOS="507.0"
-                   WIDTH="59.0"
-                   HEIGHT="0.0"
-                   ID="eSc_textblock_de471cb6"
-                   >
-          <Shape><Polygon POINTS="1088 507 1029 507 1029 507 1088 507"/></Shape>
           
         </TextBlock>
         
