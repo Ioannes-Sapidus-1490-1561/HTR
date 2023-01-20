@@ -6,7 +6,7 @@
 
 ## Data
 
-Les données sont issues de transcription effectuées par Marie Jeannot-Tirole.
+Les données sont issues de transcriptions effectuées par Marie Jeannot-Tirole.
 Le dépôt est encore en cours de réalisation, merci de ne pas utiliser les données avant leur finalisation.
 Lien vers numérisation à ajouter
 
