@@ -14,14 +14,14 @@ Lien vers numérisation à ajouter
 
 ## Licence
 
-For the images, see the [....'s policy](lien).
+- For the images, see the [_Universitäts- und Landesbibliothek Sachsen-Anhalt_](https://bibliothek.uni-halle.de/).
 
-For the transcription, [CC-BY](https://creativecommons.org/licenses/by/4.0/).
-CC-BY, sauf les données prises chez les collègues (indiquées dans les ```.Rmd```).
+- For the transcription, <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>.
+## How to cite
 
 Marie Jeannot-Tirole, _Données entraînement pour HTR_, université de Strasbourg et de Genève, Genève, 2023.
+
 ```bibtex
  @misc{jeannotHTR2023,
     autor = {Jeannot-Tirole, Marie},
