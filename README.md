@@ -4,7 +4,7 @@
 
 ## Project
 
-My thesis work concerns the Alsatian poem _Sylua epistolaris seu Barba_, written by Johann Sapidus (1490-1561). My aim is to give an edition, translation and commentary, but my research leads me to study other aspects of this poet. Thus, for each work of Sapidus transcribed for my own purposes, I will share the transcription data in this repository. 
+My thesis work concerns the Alsatian poem _Sylua epistolaris seu Barba_ written by Johann Sapidus (1490-1561). My aim is to give an edition, translation and commentary, but my research leads me to study other aspects of this poet. Thus, for each work of Sapidus transcribed for my own purposes, I will share the transcription data in this repository. 
 
 ## Data
 
