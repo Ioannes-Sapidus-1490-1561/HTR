@@ -4,6 +4,6 @@ authors:
   - family-names: Jeannot-Tirole
     given-names: Marie
     orcid: https://orcid.org/0000-0002-6607-653X
-title: "Dépôt entraînement pour données HTR"
+title: "Data repository for HTR model training"
 version: 0.0.1
 date-released: 2023-01-19
