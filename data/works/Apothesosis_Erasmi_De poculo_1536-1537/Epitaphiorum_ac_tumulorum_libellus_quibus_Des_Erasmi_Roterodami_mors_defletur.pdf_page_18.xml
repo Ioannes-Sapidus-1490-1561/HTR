@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT656" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT657" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT658" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT659" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
+    <OtherTag ID="BT656" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT657" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT658" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT659" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT693" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
     <OtherTag ID="LT214" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT215" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT216" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
   </Tags>
   
@@ -655,7 +655,7 @@
                    WIDTH="300"
                    HEIGHT="64"
                    ID="eSc_textblock_4fb353a4"
-                   TAGREFS="BT656">
+                   TAGREFS="BT693">
           <Shape><Polygon POINTS="916 1998 957 1998 957 1987 1205 1995 1213 2051 920 2051 913 2025 913 1990 916 1990"/></Shape>
           
         </TextBlock>

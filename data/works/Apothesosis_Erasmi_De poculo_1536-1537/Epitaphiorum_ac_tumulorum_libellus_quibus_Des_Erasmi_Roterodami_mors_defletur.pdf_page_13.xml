@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT656" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT657" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT658" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT659" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
+    <OtherTag ID="BT656" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT657" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT658" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT659" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT693" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
     <OtherTag ID="LT214" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT215" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT216" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
   </Tags>
   
@@ -25,77 +25,6 @@
                   WIDTH="1748"
                   HEIGHT="2464">
         
-        <TextBlock HPOS="527"
-                   VPOS="275"
-                   WIDTH="1155"
-                   HEIGHT="1710"
-                   ID="eSc_textblock_69f7a482"
-                   TAGREFS="BT657">
-          <Shape><Polygon POINTS="1289 433 1263 468 1273 492 1600 517 1600 556 1542 583 1517 720 1476 755 1460 852 1493 975 1452 1002 1411 1108 1534 1141 1542 1197 1404 1213 1353 1264 1452 1297 1444 1410 1493 1478 1427 1618 1429 1650 1501 1675 1493 1944 1460 1985 542 1977 527 834 530 834 530 638 547 638 547 492 944 490 891 445 891 441 887 441 868 425 731 425 663 375 542 367 542 275 796 275 813 279 1682 287 1665 367 1476 425"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_677be263"
-                    TAGREFS="LT216"
-                    BASELINE="552 593 629 595" 
-                    HPOS="552"
-                    VPOS="593"
-                    WIDTH="77"
-                    HEIGHT="2">
-            
-	    <String CONTENT="S"
-                    HPOS="552"
-                    VPOS="593"
-                    WIDTH="77"
-                    HEIGHT="2"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_745caab1"
-                    
-                    BASELINE="547 1962 1425 1974" 
-                    HPOS="544"
-                    VPOS="1926"
-                    WIDTH="879"
-                    HEIGHT="92">
-            <Shape><Polygon POINTS="546 1960 544 1991 616 2008 618 2010 675 2010 675 2008 677 2008 679 2008 692 1995 694 1995 737 2010 739 2010 741 2012 809 2012 809 2010 811 2010 813 2010 827 1999 831 1997 836 1999 864 2012 866 2012 868 2012 946 2004 977 1999 983 2004 996 2012 998 2012 1000 2012 1002 2012 1066 2006 1111 2002 1121 2008 1133 2016 1135 2016 1137 2016 1140 2016 1193 2010 1218 2006 1222 2010 1228 2014 1228 2016 1230 2016 1232 2016 1339 2018 1341 2018 1343 2018 1345 2018 1351 2014 1361 2006 1419 2014 1423 1973 1421 1926 546 1926 546 1960"/></Shape>
-	    <String CONTENT="Ad teſtudinea octipedis curuamina Cancri."
-                    HPOS="544"
-                    VPOS="1926"
-                    WIDTH="879"
-                    HEIGHT="92"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1528"
-                   VPOS="1979"
-                   WIDTH="146"
-                   HEIGHT="64"
-                   ID="eSc_textblock_1418a49b"
-                   TAGREFS="BT656">
-          <Shape><Polygon POINTS="1657 1987 1674 2034 1528 2043 1528 1979"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_034fbfc8"
-                    
-                    BASELINE="1526 2034 1665 2034" 
-                    HPOS="1512"
-                    VPOS="1977"
-                    WIDTH="153"
-                    HEIGHT="98">
-            <Shape><Polygon POINTS="1628 2032 1608 2032 1589 1989 1581 1981 1567 1981 1546 1979 1536 1977 1526 1977 1526 2034 1512 2075 1665 2069 1665 2034 1665 2030 1649 2030"/></Shape>
-	    <String CONTENT="Nunc"
-                    HPOS="1512"
-                    VPOS="1977"
-                    WIDTH="153"
-                    HEIGHT="98"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="534"
                    VPOS="216"
                    WIDTH="71"
@@ -103,22 +32,6 @@
                    ID="eSc_textblock_3ff77ef8"
                    TAGREFS="BT656">
           <Shape><Polygon POINTS="534 216 534 258 605 258 605 216"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="544"
-                   VPOS="497"
-                   WIDTH="88"
-                   HEIGHT="118"
-                   ID="eSc_textblock_93208f74"
-                   TAGREFS="BT658">
-          <Shape><Polygon POINTS="544 497 544 615 632 615 632 497"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
           
           
           <TextLine ID="eSc_line_d4fe7611"
@@ -136,6 +49,16 @@
                     HEIGHT="88"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="527"
+                   VPOS="275"
+                   WIDTH="1155"
+                   HEIGHT="1710"
+                   ID="eSc_textblock_69f7a482"
+                   TAGREFS="BT657">
+          <Shape><Polygon POINTS="1289 433 1263 468 1273 492 1600 517 1600 556 1542 583 1517 720 1476 755 1460 852 1493 975 1452 1002 1411 1108 1534 1141 1542 1197 1404 1213 1353 1264 1452 1297 1444 1410 1493 1478 1427 1618 1429 1650 1501 1675 1493 1944 1460 1985 542 1977 527 834 530 834 530 638 547 638 547 492 944 490 891 445 891 441 887 441 868 425 731 425 663 375 542 367 542 275 796 275 813 279 1682 287 1665 367 1476 425"/></Shape>
           
           
           <TextLine ID="eSc_line_cab1bbaa"
@@ -647,7 +570,80 @@
           </TextLine>
 
           
+          
+          <TextLine ID="eSc_line_745caab1"
+                    
+                    BASELINE="547 1962 1425 1974" 
+                    HPOS="544"
+                    VPOS="1926"
+                    WIDTH="879"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="546 1960 544 1991 616 2008 618 2010 675 2010 675 2008 677 2008 679 2008 692 1995 694 1995 737 2010 739 2010 741 2012 809 2012 809 2010 811 2010 813 2010 827 1999 831 1997 836 1999 864 2012 866 2012 868 2012 946 2004 977 1999 983 2004 996 2012 998 2012 1000 2012 1002 2012 1066 2006 1111 2002 1121 2008 1133 2016 1135 2016 1137 2016 1140 2016 1193 2010 1218 2006 1222 2010 1228 2014 1228 2016 1230 2016 1232 2016 1339 2018 1341 2018 1343 2018 1345 2018 1351 2014 1361 2006 1419 2014 1423 1973 1421 1926 546 1926 546 1960"/></Shape>
+	    <String CONTENT="Ad teſtudinea octipedis curuamina Cancri."
+                    HPOS="544"
+                    VPOS="1926"
+                    WIDTH="879"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
         </TextBlock>
+        
+        <TextBlock HPOS="544"
+                   VPOS="497"
+                   WIDTH="88"
+                   HEIGHT="118"
+                   ID="eSc_textblock_93208f74"
+                   TAGREFS="BT658">
+          <Shape><Polygon POINTS="544 497 544 615 632 615 632 497"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_677be263"
+                    TAGREFS="LT216"
+                    BASELINE="552 593 629 595" 
+                    HPOS="552"
+                    VPOS="593"
+                    WIDTH="77"
+                    HEIGHT="2">
+            
+	    <String CONTENT="S"
+                    HPOS="552"
+                    VPOS="593"
+                    WIDTH="77"
+                    HEIGHT="2"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1528"
+                   VPOS="1979"
+                   WIDTH="146"
+                   HEIGHT="64"
+                   ID="eSc_textblock_1418a49b"
+                   TAGREFS="BT693">
+          <Shape><Polygon POINTS="1657 1987 1674 2034 1528 2043 1528 1979"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_034fbfc8"
+                    
+                    BASELINE="1526 2034 1665 2034" 
+                    HPOS="1512"
+                    VPOS="1977"
+                    WIDTH="153"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1628 2032 1608 2032 1589 1989 1581 1981 1567 1981 1546 1979 1536 1977 1526 1977 1526 2034 1512 2075 1665 2069 1665 2034 1665 2030 1649 2030"/></Shape>
+	    <String CONTENT="Nunc"
+                    HPOS="1512"
+                    VPOS="1977"
+                    WIDTH="153"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
