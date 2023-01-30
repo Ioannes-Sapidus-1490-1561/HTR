@@ -9,17 +9,17 @@ authors:
       - transcriber
       - aligner
       - project-manager
-      - digitization
   - name: Simon
     surname: Gabay
     orcid: 0000-0001-9094-4475
     roles:
       - quality-control
       - support
-institutions: []
+institutions: 
+  - Université de Strasbourg
+  - Université de Genève
 description: >-
   The data is based on transcriptions by me (Marie Jeannot-Tirole). 
-
   As long as my work is not finished, the repository will evolve. Please do not
   use the data until the repository has been finalised. If you are interested in
   certain datasets, please contact me.
@@ -44,4 +44,5 @@ volume:
   - metric: lines
     count: 2000
 citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
-transcription-guidelines: Normes de transcription à compléter
+transcription-guidelines: Normes de transcription à compléter "Cf. Ariane Pinche, Guide de transcription pour les manuscrits\
+  \ du Xe au XVe si\xE8cle, 2022, https://hal.science/hal-03697382."
