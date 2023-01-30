@@ -13,7 +13,7 @@ As long as my work is not finished, the repository will evolve. Please do not us
 
 ## Table of contents
 
-| Type |  Poem name| Folder name | Composition | Publication | Reference | Pages | Images licence |
+| Type |  Poem name| Folder name | Composit° | Publicat° | Reference | Pages | Images licence |
 | :-- | :------ | :---- | :-- |:------------| :---------| :---| ----:|
 |print| Consolatorium ad Iacobum Vuinphelingum | Ad Leonem Pontificem 1514 | 1514 | 1514 | Ad Leonem Decimvm Pontificem Maximum Carmen Iacob. Vuinphelingij contra prodigos in scorta in tanta pauperum, pustulatorum & puerorum expositorum multitudine, [Strasbourg, Matthias Schürer, 1514] (VD16 W 3331) [Augsburg, Staats- und Stadtbibliothek, 4 NL 550](http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11220220-4) |7 |  <a rel="license" href="https://creativecommons.org/publicdomain/mark/1.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://licensebuttons.net/p/mark/1.0/88x31.png" /></a><br /> |
 | print | Sylua epistolaris seu Barba| Apologia 1534 | 1526| 1534 | _Apologia Ioan. Pierii Valeriani Belunen. Medicum familiæ Rhetoris. Pro sacerdotum Barbis. Sylua epistolaris seu Barba Ioan. Sapidi, propter argumenti cognationem adiecta_, Strasbourg, Johann Albrecht, 1534 (VD16 ZV 15141) [Halle, Universitäts- und Landesbibliothek Sachsen-Anhalt, Ung III A 170 (2)](http://dx.doi.org/10.25673/opendata2-175) | 88 | <a rel="license" href="https://creativecommons.org/publicdomain/mark/1.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://licensebuttons.net/p/mark/1.0/88x31.png" /></a><br /> |
