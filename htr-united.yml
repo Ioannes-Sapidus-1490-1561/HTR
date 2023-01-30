@@ -29,13 +29,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 105001
+  count: 109469
 - metric: files
-  count: 102
+  count: 109
 - metric: lines
-  count: 2840
+  count: 2979
 - metric: regions
-  count: 333
+  count: 353
 citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
 transcription-guidelines: "\xE0 compl\xE9ter\nMettre donn\xE9es"
 characters:
@@ -59,28 +59,28 @@ characters:
   - p
   - b
   - q
-  - g
   - .
+  - g
   - f
   - h
   - "\xE6"
   - "\uE8BF"
-  - A
   - I
-  - "\xAC"
-  - "\u0303"
+  - A
   - S
+  - "\u0303"
+  - "\xAC"
   - x
   - '&'
   - E
   - "\u0301"
   - N
-  - "\u0300"
   - P
-  - Q
   - C
-  - D
+  - "\u0300"
+  - Q
   - V
+  - D
   - R
   - O
   - "\xDF"
@@ -96,6 +96,7 @@ characters:
   - '?'
   - F
   - G
+  - v
   - (
   - )
   - X
@@ -105,14 +106,16 @@ characters:
   - '3'
   - '4'
   - '2'
+  - z
   - "\u0308"
   - '5'
   - '9'
-  - v
+  - "\u0328"
   - '7'
-  - z
   - '6'
   - '-'
+  - "\uA775"
+  - J
   - Y
   - '8'
   - "\u0327"
@@ -121,13 +124,15 @@ characters:
   - k
   - "\uA757"
   - "\uA759"
-  - J
   - "\u0304"
   - Z
   - /
   - "\u03B1"
+  - "\u2079"
+  - "\uA753"
+  - W
+  - K
   - "\u2019"
-  - "\u0328"
   - "\u03C4"
   - "\u03C2"
   - "\uA770"
