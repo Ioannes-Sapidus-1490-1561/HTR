@@ -40,13 +40,13 @@ transcription-guidelines: "Cf. Ariane Pinche, Guide de transcription pour les ma
   \ du Xe au XVe si\xE8cle, 2022, https://hal.science/hal-03697382."
 volume:
 - metric: characters
-  count: 89160
+  count: 89015
 - metric: files
   count: 88
 - metric: lines
-  count: 2352
+  count: 2359
 - metric: regions
-  count: 254
+  count: 274
 citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
 characters:
   mode: NFD
@@ -88,7 +88,6 @@ characters:
   - "\u0300"
   - P
   - D
-  - "\xA3"
   - C
   - Q
   - R
@@ -125,15 +124,19 @@ characters:
   - "\u0302"
   - "\uA751"
   - k
+  - '6'
   - '9'
   - "\uA757"
   - "\uA759"
   - J
+  - "\u0304"
   - Z
   - "\u2019"
-  - '6'
   - '8'
   - '0'
   - "\u0328"
+  - "\u03C4"
   - "\u03C2"
+  - "\uA770"
+  - "\u0127"
   - ;
