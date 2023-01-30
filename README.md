@@ -13,14 +13,15 @@ As long as my work is not finished, the repository will evolve. Please do not us
 
 ## Table of contents
 
-| Type |  Folder name | Date|  Reference | Source | Pages | Images licence |
-| :----- | :----- | :-- | :--------- | :------| :------| ----:|
-| print | Apologia | 1534 | _Apologia Ioan. Pierii Valeriani Belunen. Medicum familiæ Rhetoris. Pro sacerdotum Barbis. Sylua epistolaris seu Barba Ioan. Sapidi, propter argumenti cognationem adiecta_, Strasbourg, Johann Albrecht, 1534 (VD16 ZV 15141) | [Universitäts- und Landesbibliothek Sachsen-Anhalt, Ung III A 170 (2)](http://dx.doi.org/10.25673/opendata2-175) | 88| <a rel="license" href="https://creativecommons.org/publicdomain/mark/1.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://licensebuttons.net/p/mark/1.0/88x31.png" /></a><br />
+| Type |  Poem name| Folder name | Composition | Publication | Reference | Pages | Images licence |
+| :-- | :------ | :---- | :-- |:------------| :---------| :---| ----:|
+| print | Sylua epistolaris seu Barba| Apologia_1534 | 1526| 1534 | _Apologia Ioan. Pierii Valeriani Belunen. Medicum familiæ Rhetoris. Pro sacerdotum Barbis. Sylua epistolaris seu Barba Ioan. Sapidi, propter argumenti cognationem adiecta_, Strasbourg, Johann Albrecht, 1534 (VD16 ZV 15141) [Universitäts- und Landesbibliothek Sachsen-Anhalt, Ung III A 170 (2)](http://dx.doi.org/10.25673/opendata2-175) | 88 | <a rel="license" href="https://creativecommons.org/publicdomain/mark/1.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://licensebuttons.net/p/mark/1.0/88x31.png" /></a><br /> |
+| print | Erasmus, siue Apotheosis Erasmi | Apotheosis_Erasmi_Poculo_1536-1537 | 1536 | 1536-1537 | Catalogi duo operum Des. Erasmi... Epitaphiorum ac tumulorum libellus quibus Erasmi mors defletur, Basel, Johann Froben, 1536-1537 (VD16 E 2126) [Universitätsbibliothek Basel, UBH BL II 18](https://doi.org/10.3931/e-rara-3884) |13|<a rel="license" href="https://creativecommons.org/publicdomain/mark/1.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://licensebuttons.net/p/mark/1.0/88x31.png" /></a><br />|
+| print | De poculo Pauli Volsii, quod ab Erasmo Roterodami dono accepit | Apotheosis_Erasmi_Poculo_1536-1537 | 1536 | 1536-1537 | Catalogi duo operum Des. Erasmi... Epitaphiorum ac tumulorum libellus quibus Erasmi mors defletur, Basel, Johann Froben, 1536-1537 (VD16 E 2126) [Universitätsbibliothek Basel, UBH BL II 18](https://doi.org/10.3931/e-rara-3884) |2|<a rel="license" href="https://creativecommons.org/publicdomain/mark/1.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://licensebuttons.net/p/mark/1.0/88x31.png" /></a><br />|
 
 ## Licence
 
-- For the images, see the [_Universitäts- und Landesbibliothek Sachsen-Anhalt_](https://bibliothek.uni-halle.de/).
-
+- For the images, see Table of contents.
 - For the transcription, <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International Licence</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
 ## How to cite
