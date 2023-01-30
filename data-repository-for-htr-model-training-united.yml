@@ -1,0 +1,47 @@
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: Data repository for HTR model training
+url: https://github.com/Johann-Sapidus-1490-1561/HTR
+authors:
+  - name: Marie
+    surname: Jeannot-Tirole
+    orcid: 0000-0002-6607-653X
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - digitization
+  - name: Simon
+    surname: Gabay
+    orcid: 0000-0001-9094-4475
+    roles:
+      - quality-control
+      - support
+institutions: []
+description: >-
+  The data is based on transcriptions by me (Marie Jeannot-Tirole). 
+
+  As long as my work is not finished, the repository will evolve. Please do not
+  use the data until the repository has been finalised. If you are interested in
+  certain datasets, please contact me.
+project-name: https://github.com/Johann-Sapidus-1490-1561
+language:
+  - lat
+production-software: eScriptorium + Kraken
+script:
+  - iso: Latn
+script-type: mainly-typed
+time:
+  notBefore: '1500'
+  notAfter: '1561'
+hands:
+  count: 1-per-folder
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: lines
+    count: 2000
+citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
+transcription-guidelines: Normes de transcription à compléter
