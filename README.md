@@ -9,7 +9,7 @@ My thesis work concerns the Alsatian poem _Sylua epistolaris seu Barba_ written 
 ## Data
 
 The data is based on transcriptions by me (Marie Jeannot-Tirole). 
-As long as my work is not finished, the repository will evolve. Please do not use the data until the repository has been finalised. If you are interested in certain datasets, please contact me.
+As long as my work is not finished, the repository will evolve. Please do not use the data until the repository has been finalised. If you want to use some datasets, please contact me.
 
 ## Table of contents
 
