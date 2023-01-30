@@ -35,7 +35,7 @@ volume:
 - metric: lines
   count: 2840
 - metric: regions
-  count: 336
+  count: 333
 citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
 transcription-guidelines: "\xE0 compl\xE9ter\nMettre donn\xE9es"
 characters:
