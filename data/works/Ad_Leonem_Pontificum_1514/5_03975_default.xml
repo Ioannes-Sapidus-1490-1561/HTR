@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT694" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT695" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT696" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT697" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT698" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT699" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
+    <OtherTag ID="BT694" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT695" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT696" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT697" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT698" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT699" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT700" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
     <OtherTag ID="LT234" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT235" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -440,26 +440,6 @@
                     HEIGHT="124"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="264"
-                   VPOS="1903"
-                   WIDTH="84"
-                   HEIGHT="60"
-                   ID="eSc_textblock_f827b67f"
-                   >
-          <Shape><Polygon POINTS="264 1948 272 1911 311 1903 348 1911 340 1963"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="536"
-                   VPOS="1934"
-                   WIDTH="53"
-                   HEIGHT="22"
-                   ID="eSc_textblock_d1044f57"
-                   >
-          <Shape><Polygon POINTS="581 1934 589 1956 536 1948 552 1934"/></Shape>
           
         </TextBlock>
         
