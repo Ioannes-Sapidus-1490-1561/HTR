@@ -34,23 +34,6 @@
           <Shape><Polygon POINTS="638 221 640 222 640 267 547 267 550 213"/></Shape>
           
           
-          <TextLine ID="eSc_line_3422d651"
-                    TAGREFS="LT215"
-                    BASELINE="893 258 1255 258" 
-                    HPOS="893"
-                    VPOS="213"
-                    WIDTH="362"
-                    HEIGHT="66">
-            <Shape><Polygon POINTS="1242 213 1222 213 1201 213 1181 213 1160 213 1140 213 1119 213 1098 213 1078 213 1057 213 1037 213 1016 213 996 213 975 213 955 213 934 213 914 213 893 223 893 258 893 279 985 268 1252 279 1255 258 1252 221 1242 213"/></Shape>
-	    <String CONTENT="APOTHEOSIS"
-                    HPOS="893"
-                    VPOS="213"
-                    WIDTH="362"
-                    HEIGHT="66"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_c18f9e0a"
                     TAGREFS="LT215"
                     BASELINE="544 256 632 256" 
@@ -64,6 +47,23 @@
                     VPOS="213"
                     WIDTH="88"
                     HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3422d651"
+                    TAGREFS="LT215"
+                    BASELINE="893 258 1255 258" 
+                    HPOS="893"
+                    VPOS="213"
+                    WIDTH="362"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1242 213 1222 213 1201 213 1181 213 1160 213 1140 213 1119 213 1098 213 1078 213 1057 213 1037 213 1016 213 996 213 975 213 955 213 934 213 914 213 893 223 893 258 893 279 985 268 1252 279 1255 258 1252 221 1242 213"/></Shape>
+	    <String CONTENT="APOTHEOSIS"
+                    HPOS="893"
+                    VPOS="213"
+                    WIDTH="362"
+                    HEIGHT="66"></String>
           </TextLine>
 
           
@@ -657,16 +657,6 @@
                    ID="eSc_textblock_9b51f350"
                    TAGREFS="BT693">
           <Shape><Polygon POINTS="1553 1987 1657 2004 1657 2051 1462 2051 1449 2033 1449 1987"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="147"
-                   VPOS="558"
-                   WIDTH="1"
-                   HEIGHT="1"
-                   ID="eSc_textblock_959a5016"
-                   >
-          <Shape><Polygon POINTS="147 558 148 558 148 559"/></Shape>
           
         </TextBlock>
         
