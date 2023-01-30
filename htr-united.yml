@@ -15,9 +15,7 @@ authors:
   roles:
   - quality-control
   - support
-institutions:
-- "Universit\xE9 de Strasbourg"
-- "Universit\xE9 de Gen\xE8ve"
+institutions:[]
 description: The data is based on transcriptions by me (Marie Jeannot-Tirole).  As
   long as my work is not finished, the repository will evolve. Please do not use the
   data until the repository has been finalised. If you are interested in certain datasets,
