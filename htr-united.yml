@@ -29,7 +29,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 109468
+  count: 109526
 - metric: files
   count: 109
 - metric: lines
@@ -71,13 +71,13 @@ characters:
   - "\u0303"
   - "\xAC"
   - x
+  - "\u0301"
   - '&'
   - E
-  - "\u0301"
   - N
   - P
-  - C
   - "\u0300"
+  - C
   - Q
   - V
   - D
@@ -107,6 +107,7 @@ characters:
   - '4'
   - '2'
   - z
+  - "\u0302"
   - "\u0308"
   - '5'
   - '9'
@@ -119,14 +120,12 @@ characters:
   - Y
   - '8'
   - "\u0327"
-  - "\u0302"
   - "\uA751"
   - k
   - "\uA757"
   - "\uA759"
   - "\u0304"
   - Z
-  - /
   - "\u03B1"
   - "\uA753"
   - "\u2079"
