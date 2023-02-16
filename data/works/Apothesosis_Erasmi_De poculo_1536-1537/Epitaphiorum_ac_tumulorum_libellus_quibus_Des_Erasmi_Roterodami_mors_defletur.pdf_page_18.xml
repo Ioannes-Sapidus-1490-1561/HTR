@@ -239,7 +239,7 @@
                     WIDTH="793"
                     HEIGHT="59">
             <Shape><Polygon POINTS="71 813 71 829 864 827 864 813 864 770 71 770 71 813"/></Shape>
-	    <String CONTENT="At qui ſe ſibi ſubiecit, motus rebelles"
+	    <String CONTENT="At qui ſe ſibi ſubiecit, motus́ rebelles"
                     HPOS="71"
                     VPOS="770"
                     WIDTH="793"
@@ -409,7 +409,7 @@
                     WIDTH="942"
                     HEIGHT="66">
             <Shape><Polygon POINTS="550 1295 529 1295 509 1295 488 1295 468 1295 447 1295 427 1295 406 1295 386 1295 365 1295 345 1295 334 1295 316 1295 304 1297 283 1297 78 1303 80 1349 80 1359 1018 1357 1020 1342 1016 1299 554 1293 550 1295"/></Shape>
-	    <String CONTENT="Sed quod ego ſum purpureo uelamine tectus,"
+	    <String CONTENT="Sed quòd ego ſum purpureo uelamine tectus,"
                     HPOS="78"
                     VPOS="1293"
                     WIDTH="942"

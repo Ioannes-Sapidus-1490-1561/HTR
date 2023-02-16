@@ -76,7 +76,7 @@
                     WIDTH="804"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1331 285 1310 281 1294 279 1283 283 1057 273 1055 273 1053 273 1051 273 1043 279 1037 285 936 285 907 277 883 271 881 271 879 271 821 275 727 281 532 268 532 330 529 338 1328 344 1333 334 1333 285 1331 285"/></Shape>
-	    <String CONTENT="Vnde dies toto plus menſe fuére ſereni"
+	    <String CONTENT="Vnde dies toto plus menſe fuêre ſereni"
                     HPOS="529"
                     VPOS="268"
                     WIDTH="804"
@@ -195,7 +195,7 @@
                     WIDTH="824"
                     HEIGHT="64">
             <Shape><Polygon POINTS="916 652 914 652 912 652 536 661 521 704 519 712 1339 716 1343 708 1341 665 936 665 934 663 918 652 916 652"/></Shape>
-	    <String CONTENT="Naturæ ſuæ ſubituras congrua regna."
+	    <String CONTENT="Naturæ́ ſuæ ſubituras congrua regna."
                     HPOS="519"
                     VPOS="652"
                     WIDTH="824"
@@ -212,7 +212,7 @@
                     WIDTH="1003"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1507 724 1487 720 1474 716 1316 708 1314 708 1312 708 1289 718 1287 718 1283 718 1240 708 1240 708 1220 708 1199 708 1179 708 1158 708 1137 708 1119 708 790 714 774 714 772 714 723 706 706 706 686 706 665 706 644 706 640 706 538 712 521 755 519 765 1517 782 1522 763 1517 745 1507 724"/></Shape>
-	    <String CONTENT="Hæc mihi commemoranda, tibi ſcienda putaui,"
+	    <String CONTENT="Hæc mihi commemoranda, tibi́ ſcienda putaui,"
                     HPOS="519"
                     VPOS="706"
                     WIDTH="1003"
@@ -433,7 +433,7 @@
                     WIDTH="998"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1507 1404 1503 1402 1483 1410 1433 1400 1427 1400 1425 1400 1343 1400 1343 1402 1322 1402 1314 1402 887 1408 877 1404 864 1400 850 1400 829 1400 809 1400 790 1398 536 1406 521 1447 519 1457 1513 1466 1517 1453 1511 1406 1507 1404"/></Shape>
-	    <String CONTENT="Carnificis fugiſſe manum, mortem pudendam ?"
+	    <String CONTENT="Carnificis fugiſſe manum, mortem́ pudendam ?"
                     HPOS="519"
                     VPOS="1398"
                     WIDTH="998"
@@ -603,7 +603,7 @@
                     WIDTH="861"
                     HEIGHT="97">
             <Shape><Polygon POINTS="1037 1932 1016 1932 996 1932 975 1932 955 1930 934 1930 914 1930 893 1930 872 1930 852 1930 831 1930 811 1930 790 1930 770 1930 749 1930 731 1928 560 1934 525 1923 523 1979 521 1997 577 1999 591 2014 593 2014 595 2014 597 2014 599 2014 601 2014 618 2002 714 2012 716 2012 766 2002 770 2002 772 2002 792 2016 794 2016 796 2016 879 2018 881 2018 955 2008 1094 2020 1096 2020 1098 2020 1137 2008 1144 2006 1150 2008 1179 2020 1181 2020 1183 2020 1380 2010 1382 1985 1380 1940 1045 1932 1037 1932"/></Shape>
-	    <String CONTENT="In uidere mihi ſortem crudelis opimam."
+	    <String CONTENT="In́ uidere mihi ſortem crudelis opimam."
                     HPOS="521"
                     VPOS="1923"
                     WIDTH="861"

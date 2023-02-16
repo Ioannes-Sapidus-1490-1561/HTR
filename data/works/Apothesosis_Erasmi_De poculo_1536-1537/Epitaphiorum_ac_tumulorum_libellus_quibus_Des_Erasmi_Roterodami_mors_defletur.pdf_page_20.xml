@@ -25,6 +25,33 @@
                   WIDTH="1748"
                   HEIGHT="2464">
         
+        <TextBlock HPOS="1142"
+                   VPOS="229"
+                   WIDTH="71"
+                   HEIGHT="52"
+                   ID="eSc_textblock_e0a7ce0f"
+                   TAGREFS="BT656">
+          <Shape><Polygon POINTS="1213 232 1203 281 1147 281 1142 277 1150 229"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_250e895b"
+                    TAGREFS="LT215"
+                    BASELINE="1146 264 1208 269" 
+                    HPOS="1144"
+                    VPOS="234"
+                    WIDTH="81"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="1172 238 1156 236 1148 238 1146 264 1144 283 1187 287 1225 263 1216 246 1218 234"/></Shape>
+	    <String CONTENT="103"
+                    HPOS="1144"
+                    VPOS="234"
+                    WIDTH="81"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="73"
                    VPOS="279"
                    WIDTH="1034"
@@ -127,7 +154,7 @@
                     WIDTH="891"
                     HEIGHT="68">
             <Shape><Polygon POINTS="920 498 899 498 879 498 858 498 838 498 817 498 796 498 776 498 755 498 735 498 714 498 694 498 673 498 653 498 632 498 612 498 591 498 571 498 550 498 529 498 78 498 78 548 76 556 963 566 967 552 965 498 940 498 920 498"/></Shape>
-	    <String CONTENT="Pone igitur ſæuos luctus mentem reſume,"
+	    <String CONTENT="Pone igitur ſæuos luctus mentem́ reſume,"
                     HPOS="76"
                     VPOS="498"
                     WIDTH="891"
@@ -331,7 +358,7 @@
                     WIDTH="733"
                     HEIGHT="68">
             <Shape><Polygon POINTS="367 1141 347 1141 326 1141 306 1141 285 1141 264 1141 244 1141 223 1141 203 1141 182 1141 162 1141 141 1141 121 1141 100 1141 98 1137 80 1137 80 1192 80 1205 813 1205 813 1192 813 1147 371 1141 367 1141"/></Shape>
-	    <String CONTENT="O uos o animæ felices ducite me me"
+	    <String CONTENT="O uos ò animæ felices ducite me me"
                     HPOS="80"
                     VPOS="1137"
                     WIDTH="733"
@@ -348,7 +375,7 @@
                     WIDTH="971"
                     HEIGHT="66">
             <Shape><Polygon POINTS="1045 1236 1024 1201 1004 1192 1002 1190 992 1201 973 1190 971 1190 969 1190 883 1201 879 1201 864 1190 862 1190 860 1190 858 1190 815 1201 809 1201 801 1201 764 1195 757 1195 737 1195 716 1195 698 1195 657 1199 626 1201 610 1199 591 1195 573 1195 552 1195 550 1197 548 1199 544 1197 536 1195 532 1195 511 1195 490 1195 470 1195 466 1195 451 1197 427 1199 423 1195 408 1195 396 1195 390 1199 182 1195 182 1195 162 1195 141 1195 121 1195 100 1195 80 1195 80 1244 78 1252 1045 1256 1049 1248 1045 1234 1045 1236"/></Shape>
-	    <String CONTENT="Ducite me comitem, laribus adiungite ueſtris."
+	    <String CONTENT="Ducite me comitem, laribus́ adiungite ueſtris."
                     HPOS="78"
                     VPOS="1190"
                     WIDTH="971"
@@ -518,7 +545,7 @@
                     WIDTH="873"
                     HEIGHT="68">
             <Shape><Polygon POINTS="285 1728 264 1728 244 1728 223 1728 203 1728 182 1728 162 1728 141 1728 121 1728 100 1728 98 1726 80 1726 80 1774 78 1784 946 1794 951 1780 948 1735 295 1728 285 1728"/></Shape>
-	    <String CONTENT="His itur ducibus, cœli petuntur honores."
+	    <String CONTENT="His itur ducibus, cœli́ petuntur honores."
                     HPOS="78"
                     VPOS="1726"
                     WIDTH="873"
@@ -591,33 +618,6 @@
                     VPOS="1938"
                     WIDTH="702"
                     HEIGHT="98"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1142"
-                   VPOS="229"
-                   WIDTH="71"
-                   HEIGHT="52"
-                   ID="eSc_textblock_e0a7ce0f"
-                   TAGREFS="BT656">
-          <Shape><Polygon POINTS="1213 232 1203 281 1147 281 1142 277 1150 229"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_250e895b"
-                    TAGREFS="LT215"
-                    BASELINE="1146 264 1208 269" 
-                    HPOS="1144"
-                    VPOS="234"
-                    WIDTH="81"
-                    HEIGHT="53">
-            <Shape><Polygon POINTS="1172 238 1156 236 1148 238 1146 264 1144 283 1187 287 1225 263 1216 246 1218 234"/></Shape>
-	    <String CONTENT="103"
-                    HPOS="1144"
-                    VPOS="234"
-                    WIDTH="81"
-                    HEIGHT="53"></String>
           </TextLine>
 
           

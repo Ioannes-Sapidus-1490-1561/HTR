@@ -331,7 +331,7 @@
                     WIDTH="850"
                     HEIGHT="65">
             <Shape><Polygon POINTS="813 1078 792 1078 772 1078 751 1078 731 1078 710 1078 690 1078 669 1078 649 1078 628 1078 608 1078 587 1078 566 1078 546 1078 548 1129 548 1139 1392 1143 1396 1127 1392 1082 827 1078 813 1078"/></Shape>
-	    <String CONTENT="Vobiſcum, uos inſtituens alit atq ſaginat,"
+	    <String CONTENT="Vobiſcum, uos inſtituens alit at ſaginat,"
                     HPOS="546"
                     VPOS="1078"
                     WIDTH="850"
@@ -348,7 +348,7 @@
                     WIDTH="795"
                     HEIGHT="61">
             <Shape><Polygon POINTS="540 1182 540 1192 1335 1192 1335 1182 1335 1139 540 1131 540 1182"/></Shape>
-	    <String CONTENT="Omnis doctrinæ potu cibo ſalubri."
+	    <String CONTENT="Omnis doctrinæ potu́ cibo́ ſalubri."
                     HPOS="540"
                     VPOS="1131"
                     WIDTH="795"
@@ -450,7 +450,7 @@
                     WIDTH="926"
                     HEIGHT="58">
             <Shape><Polygon POINTS="1464 1470 1460 1459 540 1459 540 1503 540 1517 1466 1515 1466 1503 1466 1478 1464 1470"/></Shape>
-	    <String CONTENT="Concilio diuum placet &amp; ueneratur ab omni."
+	    <String CONTENT="Concilio diuûm placet &amp; ueneratur ab omni."
                     HPOS="540"
                     VPOS="1459"
                     WIDTH="926"
@@ -501,7 +501,7 @@
                     WIDTH="869"
                     HEIGHT="66">
             <Shape><Polygon POINTS="1402 1642 1394 1609 1300 1609 1300 1611 1279 1611 1259 1611 1238 1611 1218 1611 1197 1611 1176 1611 1156 1611 1135 1611 1115 1611 1094 1611 1074 1611 1053 1611 1033 1611 1012 1611 992 1611 971 1611 969 1611 540 1611 540 1659 538 1669 1402 1675 1407 1665 1402 1622 1402 1642"/></Shape>
-	    <String CONTENT="Scripta nil niſi Sicelides ſpirantia gerras."
+	    <String CONTENT="Scripta́ nil niſi Sicelides ſpirantia gerras."
                     HPOS="538"
                     VPOS="1609"
                     WIDTH="869"

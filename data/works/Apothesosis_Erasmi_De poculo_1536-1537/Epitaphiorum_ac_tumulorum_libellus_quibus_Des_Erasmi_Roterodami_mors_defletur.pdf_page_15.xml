@@ -34,23 +34,6 @@
           <Shape><Polygon POINTS="614 213 626 240 623 240 623 262 541 262 542 205"/></Shape>
           
           
-          <TextLine ID="eSc_line_b385524f"
-                    TAGREFS="LT215"
-                    BASELINE="864 248 1226 248" 
-                    HPOS="864"
-                    VPOS="205"
-                    WIDTH="362"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="1213 205 1193 205 1172 205 1152 205 1131 205 1111 205 1090 205 1070 205 1049 205 1029 205 1008 205 988 205 967 205 946 205 926 205 905 205 885 205 864 209 864 248 864 260 1224 273 1226 248 1226 205 1213 205"/></Shape>
-	    <String CONTENT="APOTHEOSIS"
-                    HPOS="864"
-                    VPOS="205"
-                    WIDTH="362"
-                    HEIGHT="68"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_8d453d88"
                     TAGREFS="LT215"
                     BASELINE="542 252 603 252" 
@@ -64,6 +47,23 @@
                     VPOS="205"
                     WIDTH="61"
                     HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b385524f"
+                    TAGREFS="LT215"
+                    BASELINE="864 248 1226 248" 
+                    HPOS="864"
+                    VPOS="205"
+                    WIDTH="362"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1213 205 1193 205 1172 205 1152 205 1131 205 1111 205 1090 205 1070 205 1049 205 1029 205 1008 205 988 205 967 205 946 205 926 205 905 205 885 205 864 209 864 248 864 260 1224 273 1226 248 1226 205 1213 205"/></Shape>
+	    <String CONTENT="APOTHEOSIS"
+                    HPOS="864"
+                    VPOS="205"
+                    WIDTH="362"
+                    HEIGHT="68"></String>
           </TextLine>
 
           
@@ -127,7 +127,7 @@
                     WIDTH="951"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1480 447 1464 439 536 435 536 476 534 488 564 501 566 501 568 501 725 492 733 492 741 492 854 503 856 505 1483 505 1485 482 1483 464 1480 447"/></Shape>
-	    <String CONTENT="Quemlibet aſpernante cibum potum palato."
+	    <String CONTENT="Quemlibet aſpernante cibum potum́ palato."
                     HPOS="534"
                     VPOS="435"
                     WIDTH="951"
@@ -297,7 +297,7 @@
                     WIDTH="801"
                     HEIGHT="69">
             <Shape><Polygon POINTS="529 1012 527 1024 663 1036 665 1036 889 1028 926 1038 928 1038 930 1038 1326 1028 1328 1016 1326 973 529 969 529 1012"/></Shape>
-	    <String CONTENT="Suaue diuini pariter ſpiramen odoris"
+	    <String CONTENT="Suaue́ diuini pariter ſpiramen odoris"
                     HPOS="527"
                     VPOS="969"
                     WIDTH="801"
@@ -467,7 +467,7 @@
                     WIDTH="925"
                     HEIGHT="78">
             <Shape><Polygon POINTS="983 1500 979 1500 959 1500 938 1500 926 1500 774 1507 755 1507 751 1507 710 1496 694 1496 527 1505 527 1548 525 1564 1446 1574 1450 1556 1450 1511 992 1511 992 1509 985 1500 983 1500"/></Shape>
-	    <String CONTENT="Claudebat dextra, roſeum ferebat amictum"
+	    <String CONTENT="Claudebat dextra, roſeum́ ferebat amictum"
                     HPOS="525"
                     VPOS="1496"
                     WIDTH="925"
@@ -484,7 +484,7 @@
                     WIDTH="884"
                     HEIGHT="80">
             <Shape><Polygon POINTS="1232 1556 998 1558 708 1560 653 1550 649 1550 647 1550 642 1550 587 1558 542 1550 532 1550 532 1601 529 1611 1409 1630 1413 1611 1411 1568 1234 1556 1232 1556"/></Shape>
-	    <String CONTENT="Tertius, ornatum paribus pictum lapillis."
+	    <String CONTENT="Tertius, ornatum paribus pictum́ lapillis."
                     HPOS="529"
                     VPOS="1550"
                     WIDTH="884"
@@ -518,7 +518,7 @@
                     WIDTH="822"
                     HEIGHT="76">
             <Shape><Polygon POINTS="527 1710 525 1722 1343 1730 1347 1720 1345 1665 856 1669 527 1654 527 1710"/></Shape>
-	    <String CONTENT="Signa lætitiæ præ ſe certiſſima ferrent."
+	    <String CONTENT="Signa́ lætitiæ præ ſe certiſſima ferrent."
                     HPOS="525"
                     VPOS="1654"
                     WIDTH="822"
@@ -569,7 +569,7 @@
                     WIDTH="992"
                     HEIGHT="78">
             <Shape><Polygon POINTS="833 1819 813 1819 799 1819 706 1825 690 1825 686 1825 653 1817 649 1817 628 1817 618 1817 525 1823 525 1868 523 1876 764 1891 766 1891 833 1882 838 1882 840 1882 850 1893 852 1893 854 1893 856 1895 1513 1895 1515 1880 1513 1829 856 1829 850 1825 842 1819 833 1819"/></Shape>
-	    <String CONTENT="Ne timeas noſter Sapide, hic (dextram ſiniſtro"
+	    <String CONTENT="Ne timeas noſter Sapide, hic (dextram́ ſiniſtro"
                     HPOS="523"
                     VPOS="1817"
                     WIDTH="992"

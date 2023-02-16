@@ -34,23 +34,6 @@
           <Shape><Polygon POINTS="605 221 653 262 525 262 525 213"/></Shape>
           
           
-          <TextLine ID="eSc_line_09cf49d9"
-                    TAGREFS="LT215"
-                    BASELINE="948 258 1312 258" 
-                    HPOS="948"
-                    VPOS="213"
-                    WIDTH="364"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="1298 213 1277 213 1257 213 1236 213 1216 213 1195 213 1174 213 1154 213 1133 213 1113 213 1092 213 1072 213 1051 213 1031 213 1010 213 990 213 969 213 948 217 948 258 948 281 1312 281 1312 258 1312 219 1298 213"/></Shape>
-	    <String CONTENT="APOTHEOSIS"
-                    HPOS="948"
-                    VPOS="213"
-                    WIDTH="364"
-                    HEIGHT="68"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_e2998335"
                     TAGREFS="LT215"
                     BASELINE="527 260 610 260" 
@@ -64,6 +47,23 @@
                     VPOS="215"
                     WIDTH="83"
                     HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_09cf49d9"
+                    TAGREFS="LT215"
+                    BASELINE="948 258 1312 258" 
+                    HPOS="948"
+                    VPOS="213"
+                    WIDTH="364"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1298 213 1277 213 1257 213 1236 213 1216 213 1195 213 1174 213 1154 213 1133 213 1113 213 1092 213 1072 213 1051 213 1031 213 1010 213 990 213 969 213 948 217 948 258 948 281 1312 281 1312 258 1312 219 1298 213"/></Shape>
+	    <String CONTENT="APOTHEOSIS"
+                    HPOS="948"
+                    VPOS="213"
+                    WIDTH="364"
+                    HEIGHT="68"></String>
           </TextLine>
 
           
@@ -263,7 +263,7 @@
                     WIDTH="1027"
                     HEIGHT="68">
             <Shape><Polygon POINTS="527 919 527 932 1552 936 1554 919 1534 872 527 868 527 919"/></Shape>
-	    <String CONTENT="Quod ſit ad Ambroſias epulas Nectar perhenne"
+	    <String CONTENT="Quod ſit ad Ambroſias epulas Nectar́ perhenne"
                     HPOS="527"
                     VPOS="868"
                     WIDTH="1027"
@@ -535,7 +535,7 @@
                     WIDTH="843"
                     HEIGHT="74">
             <Shape><Polygon POINTS="716 1716 714 1716 702 1716 581 1724 540 1716 529 1716 529 1765 527 1778 1365 1790 1370 1769 1368 1728 718 1716 716 1716"/></Shape>
-	    <String CONTENT="E tenebris, carie, mendis, ſquallore, ſitu:"
+	    <String CONTENT="E tenebris, carie, mendis, ſquallore, ſitu́:"
                     HPOS="527"
                     VPOS="1716"
                     WIDTH="843"
@@ -620,7 +620,7 @@
                     WIDTH="158"
                     HEIGHT="76">
             <Shape><Polygon POINTS="1641 2002 1635 1999 1497 1989 1497 2045 1497 2065 1655 2059 1655 2045 1651 2028 1641 2002"/></Shape>
-	    <String CONTENT="His ta/"
+	    <String CONTENT="His ta¬"
                     HPOS="1497"
                     VPOS="1989"
                     WIDTH="158"

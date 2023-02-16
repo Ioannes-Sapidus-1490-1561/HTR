@@ -188,7 +188,7 @@
                     WIDTH="936"
                     HEIGHT="62">
             <Shape><Polygon POINTS="78 655 78 665 1012 657 1012 646 1008 605 76 603 78 655"/></Shape>
-	    <String CONTENT="Donec erit genus humanum diſcet, docebit."
+	    <String CONTENT="Donec erit genus humanum diſcet́, docebit."
                     HPOS="76"
                     VPOS="603"
                     WIDTH="936"
@@ -562,7 +562,7 @@
                     WIDTH="793"
                     HEIGHT="76">
             <Shape><Polygon POINTS="821 1776 801 1776 794 1776 784 1780 780 1784 624 1784 618 1778 614 1774 595 1774 581 1774 556 1776 513 1780 503 1776 495 1772 492 1772 472 1772 451 1772 431 1772 410 1772 390 1772 193 1780 117 1769 102 1769 102 1823 100 1831 199 1843 201 1843 470 1835 501 1845 503 1845 505 1845 891 1835 893 1827 891 1784 838 1776 821 1776"/></Shape>
-	    <String CONTENT="Vt tandem recipi digni fiamus eodem."
+	    <String CONTENT="Vt tandem recipi digni fiamus eôdem."
                     HPOS="100"
                     VPOS="1769"
                     WIDTH="793"
@@ -579,7 +579,7 @@
                     WIDTH="953"
                     HEIGHT="74">
             <Shape><Polygon POINTS="1043 1845 1022 1837 1020 1835 98 1827 98 1876 96 1887 133 1899 135 1899 137 1901 1047 1901 1049 1882 1047 1845 1043 1845"/></Shape>
-	    <String CONTENT="Quem fouet tellus gelidis complexa lacertis,"
+	    <String CONTENT="Quem́ fouet tellus gelidis complexa lacertis,"
                     HPOS="96"
                     VPOS="1827"
                     WIDTH="953"
@@ -630,7 +630,7 @@
                     WIDTH="290"
                     HEIGHT="107">
             <Shape><Polygon POINTS="1201 2002 1172 1981 1170 1981 1168 1981 1094 1979 1092 1979 1090 1979 1088 1979 1053 2004 1051 2006 1047 2004 1033 1995 1031 1995 1029 1995 1027 1995 1014 2002 1004 2006 928 1997 928 2041 926 2067 1002 2063 1022 2075 1041 2084 1043 2084 1045 2084 1092 2077 1125 2073 1133 2080 1142 2086 1144 2086 1146 2086 1148 2086 1213 2082 1216 2047 1216 2038 1201 2002"/></Shape>
-	    <String CONTENT="o 2 Ipse"
+	    <String CONTENT="o 2 Ipse́"
                     HPOS="926"
                     VPOS="1979"
                     WIDTH="290"

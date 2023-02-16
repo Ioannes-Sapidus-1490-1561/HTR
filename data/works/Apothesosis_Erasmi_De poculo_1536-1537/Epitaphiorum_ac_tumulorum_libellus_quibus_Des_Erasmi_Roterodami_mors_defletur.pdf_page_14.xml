@@ -25,6 +25,33 @@
                   WIDTH="1748"
                   HEIGHT="2464">
         
+        <TextBlock HPOS="1158"
+                   VPOS="213"
+                   WIDTH="66"
+                   HEIGHT="55"
+                   ID="eSc_textblock_c52c8fca"
+                   TAGREFS="BT656">
+          <Shape><Polygon POINTS="1158 268 1161 213 1224 219 1222 260"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3e7257e2"
+                    TAGREFS="LT215"
+                    BASELINE="1159 260 1214 260" 
+                    HPOS="1158"
+                    VPOS="211"
+                    WIDTH="55"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1197 213 1179 213 1168 211 1158 215 1158 258 1158 287 1213 277 1213 258 1211 254 1199 215"/></Shape>
+	    <String CONTENT="97"
+                    HPOS="1158"
+                    VPOS="211"
+                    WIDTH="55"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="82"
                    VPOS="279"
                    WIDTH="1173"
@@ -144,7 +171,7 @@
                     WIDTH="859"
                     HEIGHT="63">
             <Shape><Polygon POINTS="429 548 408 548 388 548 367 548 347 548 326 548 306 548 285 548 264 548 244 550 223 550 203 550 182 550 162 550 141 550 121 550 100 550 100 599 98 605 953 609 957 603 955 550 443 546 429 548"/></Shape>
-	    <String CONTENT="Ventis, compoſuit fluctus, ſolem refecit,"
+	    <String CONTENT="Ventis, compoſuit fluctus, ſolem́ refecit,"
                     HPOS="98"
                     VPOS="546"
                     WIDTH="859"
@@ -178,7 +205,7 @@
                     WIDTH="852"
                     HEIGHT="66">
             <Shape><Polygon POINTS="583 652 562 652 542 652 521 652 505 652 480 661 478 663 90 663 92 708 92 718 940 716 942 704 938 661 599 652 583 652"/></Shape>
-	    <String CONTENT="Sic ſubito, mirum auditu, mirum relatu,"
+	    <String CONTENT="Sic ſubito, mirum auditu, mirum́ relatu,"
                     HPOS="90"
                     VPOS="652"
                     WIDTH="852"
@@ -382,7 +409,7 @@
                     WIDTH="859"
                     HEIGHT="68">
             <Shape><Polygon POINTS="776 1297 755 1297 735 1297 714 1297 696 1297 661 1303 657 1303 649 1303 540 1295 529 1295 509 1295 488 1295 472 1295 359 1301 332 1301 324 1301 289 1293 283 1293 262 1293 256 1293 242 1299 98 1299 98 1344 96 1355 951 1361 955 1353 953 1307 788 1297 776 1297"/></Shape>
-	    <String CONTENT="Quam fierem certus, prædicere uiſa fuere,"
+	    <String CONTENT="Quam fierem certus, prædicere uiſa fuêre,"
                     HPOS="96"
                     VPOS="1293"
                     WIDTH="859"
@@ -518,7 +545,7 @@
                     WIDTH="740"
                     HEIGHT="64">
             <Shape><Polygon POINTS="632 1724 612 1724 591 1724 571 1722 550 1722 529 1722 509 1722 488 1722 468 1722 447 1722 427 1722 406 1722 386 1722 365 1722 345 1722 324 1722 318 1722 112 1726 100 1747 98 1774 96 1782 831 1786 836 1778 833 1730 649 1724 632 1724"/></Shape>
-	    <String CONTENT="Inuaſit, ſeſe medullis miſcuit imis."
+	    <String CONTENT="Inuaſit, ſeſe́  medullis miſcuit imis."
                     HPOS="96"
                     VPOS="1722"
                     WIDTH="740"
@@ -552,7 +579,7 @@
                     WIDTH="760"
                     HEIGHT="74">
             <Shape><Polygon POINTS="632 1829 630 1829 628 1829 626 1829 614 1837 603 1829 591 1829 589 1829 571 1837 564 1841 451 1841 443 1835 431 1829 427 1829 406 1827 386 1827 365 1827 345 1827 324 1827 304 1827 299 1827 297 1827 295 1827 293 1827 293 1829 287 1835 281 1839 269 1833 248 1827 246 1827 244 1827 98 1831 98 1882 98 1897 856 1901 858 1882 858 1841 665 1841 659 1837 634 1829 632 1829"/></Shape>
-	    <String CONTENT="Heliades dum fraterna doluere ruina"
+	    <String CONTENT="Heliades dum fraterna doluere ruina,"
                     HPOS="98"
                     VPOS="1827"
                     WIDTH="760"
@@ -608,33 +635,6 @@
                     VPOS="1993"
                     WIDTH="224"
                     HEIGHT="87"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1158"
-                   VPOS="213"
-                   WIDTH="66"
-                   HEIGHT="55"
-                   ID="eSc_textblock_c52c8fca"
-                   TAGREFS="BT656">
-          <Shape><Polygon POINTS="1158 268 1161 213 1224 219 1222 260"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_3e7257e2"
-                    TAGREFS="LT215"
-                    BASELINE="1159 260 1214 260" 
-                    HPOS="1158"
-                    VPOS="211"
-                    WIDTH="55"
-                    HEIGHT="76">
-            <Shape><Polygon POINTS="1197 213 1179 213 1168 211 1158 215 1158 258 1158 287 1213 277 1213 258 1211 254 1199 215"/></Shape>
-	    <String CONTENT="97"
-                    HPOS="1158"
-                    VPOS="211"
-                    WIDTH="55"
-                    HEIGHT="76"></String>
           </TextLine>
 
           
