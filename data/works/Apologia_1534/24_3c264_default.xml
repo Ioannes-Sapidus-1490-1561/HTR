@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -127,7 +127,7 @@
                     WIDTH="768"
                     HEIGHT="64">
             <Shape><Polygon POINTS="176 707 174 717 938 726 942 717 938 671 483 675 176 662 176 707"/></Shape>
-	    <String CONTENT="barba pingere pientißimũ arbitramur. Sed enim mi"
+	    <String CONTENT="barba pingere pientißimũ arbitramur. Sed enim mi£"
                     HPOS="174"
                     VPOS="662"
                     WIDTH="768"
@@ -212,7 +212,7 @@
                     WIDTH="770"
                     HEIGHT="67">
             <Shape><Polygon POINTS="834 918 832 918 830 918 822 918 821 918 756 926 654 918 605 914 603 914 176 914 176 956 174 967 940 981 944 969 942 920 846 928 836 920 836 918 834 918"/></Shape>
-	    <String CONTENT="lo unquàm uitæ tempore tonſorẽ admiſerit. Nos infe"
+	    <String CONTENT="lo unquàm uitæ tempore tonſorẽ admiſerit. Nos infe£"
                     HPOS="174"
                     VPOS="914"
                     WIDTH="770"
@@ -229,7 +229,7 @@
                     WIDTH="768"
                     HEIGHT="67">
             <Shape><Polygon POINTS="176 1008 174 1020 938 1034 942 1022 940 985 176 967 176 1008"/></Shape>
-	    <String CONTENT="lices id, uel uitio cuipiam dabimus, uel ſub execratio"
+	    <String CONTENT="lices id, uel uitio cuipiam dabimus, uel ſub execratio£"
                     HPOS="174"
                     VPOS="967"
                     WIDTH="768"
@@ -331,7 +331,7 @@
                     WIDTH="768"
                     HEIGHT="57">
             <Shape><Polygon POINTS="180 1314 178 1322 942 1334 946 1326 944 1289 180 1277 180 1314"/></Shape>
-	    <String CONTENT="morum bonorum ſemitam amiſimus. Iacobo cui per"
+	    <String CONTENT="morum bonorum ſemitam amiſimus. Iacobo cui per£"
                     HPOS="178"
                     VPOS="1277"
                     WIDTH="768"
@@ -450,7 +450,7 @@
                     WIDTH="766"
                     HEIGHT="80">
             <Shape><Polygon POINTS="188 1671 186 1684 948 1706 952 1686 952 1643 188 1626 188 1671"/></Shape>
-	    <String CONTENT="lus, ſi Apostoli reliqui barbati eſſe uoluerunt. Si con"
+	    <String CONTENT="lus, ſi Apostoli reliqui barbati eſſe uoluerunt. Si con£"
                     HPOS="186"
                     VPOS="1626"
                     WIDTH="766"

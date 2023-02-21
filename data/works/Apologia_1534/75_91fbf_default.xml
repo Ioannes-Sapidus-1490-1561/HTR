@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -572,16 +572,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="321.0"
-                   VPOS="752.0"
-                   WIDTH="254.0"
-                   HEIGHT="115.0"
-                   ID="eSc_textblock_c30d086c"
-                   TAGREFS="BT652">
-          <Shape><Polygon POINTS="570 867 360 867 321 836 321 783 345 752 575 773 575 857"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="1256"
                    VPOS="1850"
                    WIDTH="130"
@@ -589,16 +579,6 @@
                    ID="eSc_textblock_c1420703"
                    TAGREFS="BT674">
           <Shape><Polygon POINTS="1386 1850 1386 1894 1270 1894 1256 1878 1256 1850"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1215.0"
-                   VPOS="734.0"
-                   WIDTH="160.0"
-                   HEIGHT="36.0"
-                   ID="eSc_textblock_9d02d1b1"
-                   TAGREFS="BT652">
-          <Shape><Polygon POINTS="1375 770 1375 734 1215 734 1215 770"/></Shape>
           
         </TextBlock>
         

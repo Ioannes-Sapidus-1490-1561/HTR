@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -59,7 +59,7 @@
                     WIDTH="762"
                     HEIGHT="76">
             <Shape><Polygon POINTS="954 527 938 521 382 515 380 513 358 503 356 503 354 503 307 511 272 501 270 501 268 501 248 503 248 505 229 513 209 521 209 548 207 566 289 560 305 570 307 572 309 572 311 572 313 572 325 570 366 562 474 572 546 577 548 577 967 575 969 566 969 530 954 527"/></Shape>
-	    <String CONTENT="quàm officere arcani myſterij noſtri reuerentiæ com"
+	    <String CONTENT="quàm officere arcani myſterij noſtri reuerentiæ com£"
                     HPOS="207"
                     VPOS="501"
                     WIDTH="762"
@@ -280,7 +280,7 @@
                     WIDTH="768"
                     HEIGHT="85">
             <Shape><Polygon POINTS="877 1167 858 1167 850 1167 799 1173 785 1175 775 1173 748 1165 746 1165 744 1165 628 1167 531 1169 513 1163 497 1157 495 1157 493 1157 450 1161 389 1165 192 1151 192 1200 190 1208 954 1236 958 1218 958 1181 883 1167 877 1167"/></Shape>
-	    <String CONTENT="poſterum Sacris initiatus barbam tollat, ſanctißimo"
+	    <String CONTENT="poſterum Sacris initiatus barbam tollat, ſanctißimo£"
                     HPOS="190"
                     VPOS="1151"
                     WIDTH="768"
@@ -331,7 +331,7 @@
                     WIDTH="772"
                     HEIGHT="79">
             <Shape><Polygon POINTS="186 1347 184 1357 952 1381 956 1369 956 1334 922 1322 920 1322 472 1322 454 1308 452 1308 450 1308 448 1308 397 1316 252 1302 250 1302 186 1312 186 1347"/></Shape>
-	    <String CONTENT="ciliare procurabãt. Quippe, ne Deum rurſus aduer"
+	    <String CONTENT="ciliare procurabãt. Quippe, ne Deum rurſus aduer£"
                     HPOS="184"
                     VPOS="1302"
                     WIDTH="772"
@@ -365,7 +365,7 @@
                     WIDTH="772"
                     HEIGHT="71">
             <Shape><Polygon POINTS="184 1449 182 1467 950 1481 954 1471 954 1428 184 1410 184 1449"/></Shape>
-	    <String CONTENT="quæ hinc reſultant, effœminationes, ob luxum hoc ge"
+	    <String CONTENT="quæ hinc reſultant, effœminationes, ob luxum hoc ge£"
                     HPOS="182"
                     VPOS="1410"
                     WIDTH="772"
@@ -382,7 +382,7 @@
                     WIDTH="772"
                     HEIGHT="75">
             <Shape><Polygon POINTS="186 1498 184 1510 952 1534 956 1522 954 1477 186 1459 186 1498"/></Shape>
-	    <String CONTENT="nus, &amp; molliciẽ, ob huiuſmodi cutis curationes, uſtu"
+	    <String CONTENT="nus, &amp; molliciẽ, ob huiuſmodi cutis curationes, uſtu£"
                     HPOS="184"
                     VPOS="1459"
                     WIDTH="772"
@@ -416,7 +416,7 @@
                     WIDTH="770"
                     HEIGHT="82">
             <Shape><Polygon POINTS="184 1600 182 1612 489 1633 491 1633 801 1633 815 1643 817 1643 819 1643 821 1643 950 1633 952 1622 952 1579 184 1561 184 1600"/></Shape>
-	    <String CONTENT="mas eas in urbẽ Romã, quas adhuc ꝑpetimur, calami"
+	    <String CONTENT="mas eas in urbẽ Romã, quas adhuc ꝑpetimur, calami£"
                     HPOS="182"
                     VPOS="1561"
                     WIDTH="770"
@@ -433,7 +433,7 @@
                     WIDTH="772"
                     HEIGHT="74">
             <Shape><Polygon POINTS="184 1651 182 1665 389 1680 950 1686 954 1675 954 1635 184 1612 184 1651"/></Shape>
-	    <String CONTENT="tates immiſiſſe, facile credendũ. Ideo iußiße bona diri"
+	    <String CONTENT="tates immiſiſſe, facile credendũ. Ideo iußiße bona diri£"
                     HPOS="182"
                     VPOS="1612"
                     WIDTH="772"

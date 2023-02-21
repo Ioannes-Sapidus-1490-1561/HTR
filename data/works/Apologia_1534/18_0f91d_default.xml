@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -76,7 +76,7 @@
                     WIDTH="764"
                     HEIGHT="76">
             <Shape><Polygon POINTS="162 550 160 562 920 583 924 572 922 527 783 532 162 507 162 550"/></Shape>
-	    <String CONTENT="mus. Sed enim dicant prius, utrum naturæ leges ci"
+	    <String CONTENT="mus. Sed enim dicant prius, utrum naturæ leges ci£"
                     HPOS="160"
                     VPOS="507"
                     WIDTH="764"
@@ -110,7 +110,7 @@
                     WIDTH="770"
                     HEIGHT="86">
             <Shape><Polygon POINTS="905 623 903 623 758 626 703 628 699 624 695 621 691 621 672 621 656 621 642 623 615 626 583 621 574 621 554 621 534 619 515 619 495 617 485 617 374 621 162 605 162 650 160 664 529 683 531 683 821 681 848 691 850 691 852 691 928 681 930 671 930 632 907 623 905 623"/></Shape>
-	    <String CONTENT="exẽplis ſumptas, an diuini ſpiritus admonitu conſtitu"
+	    <String CONTENT="exẽplis ſumptas, an diuini ſpiritus admonitu conſtitu£"
                     HPOS="160"
                     VPOS="605"
                     WIDTH="770"
@@ -178,7 +178,7 @@
                     WIDTH="766"
                     HEIGHT="66">
             <Shape><Polygon POINTS="162 848 160 862 922 875 926 865 924 826 162 809 162 848"/></Shape>
-	    <String CONTENT="uſ tempus exigere ſua cum laude &amp; animorum ſa"
+	    <String CONTENT="uſ tempus exigere ſua cum laude &amp; animorum ſa£"
                     HPOS="160"
                     VPOS="809"
                     WIDTH="766"
@@ -246,7 +246,7 @@
                     WIDTH="772"
                     HEIGHT="71">
             <Shape><Polygon POINTS="156 1050 154 1061 922 1083 926 1073 924 1032 156 1012 156 1050"/></Shape>
-	    <String CONTENT="nunc ſunt, quot́ ab hominum memoria fuerunt. Na"
+	    <String CONTENT="nunc ſunt, quot́ ab hominum memoria fuerunt. Na£"
                     HPOS="154"
                     VPOS="1012"
                     WIDTH="772"
@@ -263,7 +263,7 @@
                     WIDTH="768"
                     HEIGHT="79">
             <Shape><Polygon POINTS="901 1073 899 1073 858 1083 856 1083 854 1083 842 1071 840 1071 838 1071 836 1071 738 1077 713 1079 156 1057 156 1103 154 1112 918 1136 922 1124 922 1083 903 1073 901 1073"/></Shape>
-	    <String CONTENT="turã glabellas fœminas, hirſutos mares effeciſſe, por"
+	    <String CONTENT="turã glabellas fœminas, hirſutos mares effeciſſe, por£"
                     HPOS="154"
                     VPOS="1057"
                     WIDTH="768"
@@ -280,7 +280,7 @@
                     WIDTH="774"
                     HEIGHT="77">
             <Shape><Polygon POINTS="154 1151 152 1163 223 1177 225 1177 278 1169 289 1179 291 1179 293 1179 434 1183 436 1183 487 1175 527 1185 529 1185 531 1187 924 1187 926 1173 924 1136 154 1110 154 1151"/></Shape>
-	    <String CONTENT="tentoſum́ eſſe, ſiqua barbatula mulier ſit, uti de An"
+	    <String CONTENT="tentoſum́ eſſe, ſiqua barbatula mulier ſit, uti de An£"
                     HPOS="152"
                     VPOS="1110"
                     WIDTH="774"
@@ -365,7 +365,7 @@
                     WIDTH="772"
                     HEIGHT="75">
             <Shape><Polygon POINTS="746 1373 513 1377 493 1377 489 1377 456 1367 454 1367 452 1367 411 1375 409 1375 407 1375 374 1365 372 1365 370 1365 368 1365 335 1373 319 1363 317 1363 315 1363 313 1363 162 1369 150 1391 150 1408 148 1418 491 1438 493 1438 918 1436 920 1426 920 1387 748 1373 746 1373"/></Shape>
-	    <String CONTENT="At multa ſunt, inquiẽt, quæ natura temerè feciße uide"
+	    <String CONTENT="At multa ſunt, inquiẽt, quæ natura temerè feciße uide£"
                     HPOS="148"
                     VPOS="1363"
                     WIDTH="772"

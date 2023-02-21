@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -222,7 +222,7 @@
                     WIDTH="474.0"
                     HEIGHT="57.0">
             <Shape><Polygon POINTS="450 956 448 969 918 971 922 961 920 926 450 914 450 956"/></Shape>
-	    <String CONTENT="boratam, anteacta ætate per an"
+	    <String CONTENT="boratam, anteacta ætate per an£"
                     HPOS="448.0"
                     VPOS="914.0"
                     WIDTH="474.0"
@@ -256,7 +256,7 @@
                     WIDTH="776.0"
                     HEIGHT="71.0">
             <Shape><Polygon POINTS="152 1055 150 1063 772 1085 773 1085 924 1073 926 1065 926 1028 152 1014 152 1055"/></Shape>
-	    <String CONTENT="temerè deſtitutam, iterum tentant apud ſummũ Pon"
+	    <String CONTENT="temerè deſtitutam, iterum tentant apud ſummũ Pon£"
                     HPOS="150.0"
                     VPOS="1014.0"
                     WIDTH="776.0"
@@ -273,7 +273,7 @@
                     WIDTH="774.0"
                     HEIGHT="57.0">
             <Shape><Polygon POINTS="152 1108 150 1126 920 1128 924 1118 922 1079 152 1071 152 1108"/></Shape>
-	    <String CONTENT="tificem, nulla eius, qua nunc grauißime uexatur, uale"
+	    <String CONTENT="tificem, nulla eius, qua nunc grauißime uexatur, uale£"
                     HPOS="150.0"
                     VPOS="1071.0"
                     WIDTH="774.0"
@@ -324,7 +324,7 @@
                     WIDTH="776.0"
                     HEIGHT="63.0">
             <Shape><Polygon POINTS="150 1261 148 1275 920 1285 924 1271 924 1232 150 1222 150 1261"/></Shape>
-	    <String CONTENT="tuis uiuimus, incipiamus, at́  ita exemplo reliquis fu"
+	    <String CONTENT="tuis uiuimus, incipiamus, at ita exemplo reliquis fu£"
                     HPOS="148.0"
                     VPOS="1222.0"
                     WIDTH="776.0"
@@ -358,7 +358,7 @@
                     WIDTH="772.0"
                     HEIGHT="73.0">
             <Shape><Polygon POINTS="693 1318 691 1318 689 1318 609 1328 597 1328 589 1326 538 1316 536 1316 534 1316 507 1326 505 1326 497 1318 497 1316 495 1316 493 1316 491 1316 489 1316 456 1324 454 1324 415 1314 413 1314 411 1314 409 1314 384 1324 380 1324 366 1322 282 1312 280 1312 152 1318 152 1359 150 1373 918 1385 922 1373 922 1334 777 1320 775 1320 715 1330 707 1330 705 1330 695 1320 695 1318 693 1318"/></Shape>
-	    <String CONTENT="compellemur-id quod etiam, ſi nulla cogant leges,"
+	    <String CONTENT="compellemur. Id quod etiam, ſi nulla cogant leges,"
                     HPOS="150.0"
                     VPOS="1312.0"
                     WIDTH="772.0"
@@ -375,7 +375,7 @@
                     WIDTH="774.0"
                     HEIGHT="59.0">
             <Shape><Polygon POINTS="154 1412 152 1430 922 1432 926 1420 926 1377 154 1373 154 1412"/></Shape>
-	    <String CONTENT="tuo unius iudicio, &amp; autoritate moti, libentißime fa"
+	    <String CONTENT="tuo unius iudicio, &amp; autoritate moti, libentißime fa£"
                     HPOS="152.0"
                     VPOS="1373.0"
                     WIDTH="774.0"
@@ -409,7 +409,7 @@
                     WIDTH="770.0"
                     HEIGHT="68.0">
             <Shape><Polygon POINTS="156 1514 154 1524 188 1535 190 1535 192 1535 382 1530 668 1543 670 1543 762 1535 793 1545 795 1545 797 1545 922 1535 924 1526 924 1488 156 1477 156 1514"/></Shape>
-	    <String CONTENT="ctrina, addam etiam probitate, &amp; ſapientia præſtan"
+	    <String CONTENT="ctrina, addam etiam probitate, &amp; ſapientia præſtan£"
                     HPOS="154.0"
                     VPOS="1477.0"
                     WIDTH="770.0"
@@ -460,7 +460,7 @@
                     WIDTH="760.0"
                     HEIGHT="80.0">
             <Shape><Polygon POINTS="162 1663 160 1675 264 1688 266 1688 319 1680 329 1680 340 1682 415 1692 417 1692 525 1688 576 1686 917 1700 920 1680 917 1631 756 1639 713 1628 711 1628 709 1628 707 1628 670 1637 658 1626 656 1626 654 1626 652 1626 644 1626 591 1635 578 1626 576 1624 574 1624 572 1624 570 1624 556 1626 503 1633 491 1624 489 1622 487 1622 485 1622 483 1622 468 1624 415 1631 162 1620 162 1663"/></Shape>
-	    <String CONTENT="ba ipſa plurimum ſibi uendicat dignitatis-Quumo"
+	    <String CONTENT="ba ipſa plurimum ſibi uendicat dignitatis. Quum́"
                     HPOS="160.0"
                     VPOS="1620.0"
                     WIDTH="760.0"

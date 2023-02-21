@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -195,7 +195,7 @@
                     WIDTH="778"
                     HEIGHT="76">
             <Shape><Polygon POINTS="635 963 635 973 1411 956 1411 946 1405 897 633 920 635 963"/></Shape>
-	    <String CONTENT="tenebris, tanta́ rerum omnium perturbatione indi"
+	    <String CONTENT="tenebris, tanta́ rerum omnium perturbatione indi£"
                     HPOS="633"
                     VPOS="897"
                     WIDTH="778"
@@ -263,7 +263,7 @@
                     WIDTH="776"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1146 1101 1101 1108 1086 1110 1074 1108 1039 1103 1029 1103 1017 1103 1013 1110 1011 1112 997 1110 946 1104 931 1104 911 1106 907 1106 866 1114 864 1114 839 1106 833 1106 819 1106 807 1116 803 1116 747 1108 735 1108 721 1108 709 1118 709 1120 637 1120 639 1161 639 1169 1413 1159 1413 1146 1407 1101 1182 1108 1176 1106 1164 1101 1146 1101"/></Shape>
-	    <String CONTENT="apertis faucibus in Italiæ uiſcera:cuius quum iam ſan"
+	    <String CONTENT="apertis faucibus in Italiæ uiſcera:cuius quum iam ſan£"
                     HPOS="637"
                     VPOS="1101"
                     WIDTH="776"

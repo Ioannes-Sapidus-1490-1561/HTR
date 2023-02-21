@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -76,7 +76,7 @@
                     WIDTH="769"
                     HEIGHT="89">
             <Shape><Polygon POINTS="662 605 662 621 1427 583 1427 572 1421 532 658 556 662 605"/></Shape>
-	    <String CONTENT="perſuaſione, experientia, in melius ordinata, ita bar"
+	    <String CONTENT="perſuaſione, experientia, in melius ordinata, ita bar£"
                     HPOS="658"
                     VPOS="532"
                     WIDTH="769"
@@ -144,7 +144,7 @@
                     WIDTH="771"
                     HEIGHT="84">
             <Shape><Polygon POINTS="666 809 666 816 1433 789 1435 777 1429 732 664 766 666 809"/></Shape>
-	    <String CONTENT="uitatem importuno cantu, antelucanis horis intertur"
+	    <String CONTENT="uitatem importuno cantu, antelucanis horis intertur£"
                     HPOS="664"
                     VPOS="732"
                     WIDTH="771"
@@ -314,7 +314,7 @@
                     WIDTH="772"
                     HEIGHT="86">
             <Shape><Polygon POINTS="1227 1246 1207 1246 1188 1247 1168 1247 1148 1249 1129 1249 1109 1249 1090 1251 1086 1251 1064 1257 1056 1259 1048 1257 1033 1253 1031 1253 1011 1255 1003 1255 980 1261 970 1263 964 1261 946 1257 933 1259 913 1259 905 1259 843 1269 829 1269 821 1269 780 1265 776 1265 756 1267 748 1267 741 1273 727 1267 717 1269 699 1269 678 1275 682 1318 682 1326 1321 1308 1450 1291 1450 1283 1445 1240 1237 1244 1227 1246"/></Shape>
-	    <String CONTENT="magiſtri noſtri exemplo deſumpta eſt ad imtatio"
+	    <String CONTENT="magiſtri noſtri exemplo deſumpta eſt ad imtatio£"
                     HPOS="678"
                     VPOS="1240"
                     WIDTH="772"

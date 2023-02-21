@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -212,7 +212,7 @@
                     WIDTH="772"
                     HEIGHT="77">
             <Shape><Polygon POINTS="938 942 821 932 819 932 748 940 726 942 724 940 719 932 717 932 717 930 715 930 713 930 711 930 656 938 642 940 517 940 515 936 507 930 507 928 505 928 503 928 501 928 429 936 411 936 407 934 384 924 382 924 380 924 311 934 299 934 297 932 280 922 278 922 276 922 274 922 174 930 174 969 172 985 940 999 944 983 942 971 938 942"/></Shape>
-	    <String CONTENT="curatè cauendum. Idcirco, quam isti legẽ recitant, au"
+	    <String CONTENT="curatè cauendum. Idcirco, quam isti legẽ recitant, au£"
                     HPOS="172"
                     VPOS="922"
                     WIDTH="772"
@@ -416,7 +416,7 @@
                     WIDTH="774"
                     HEIGHT="73">
             <Shape><Polygon POINTS="182 1588 180 1598 950 1614 954 1598 954 1557 877 1549 875 1549 848 1553 822 1559 789 1553 760 1547 758 1547 756 1547 742 1551 726 1557 683 1551 644 1545 642 1545 640 1545 630 1549 619 1555 515 1547 480 1545 478 1545 456 1545 362 1553 321 1543 311 1541 309 1541 307 1541 293 1543 237 1551 182 1541 182 1588"/></Shape>
-	    <String CONTENT="uentur Ciuitatum commertia, uiolabuntur gentiũ fœ"
+	    <String CONTENT="uentur Ciuitatum commertia, uiolabuntur gentiũ fœ£"
                     HPOS="180"
                     VPOS="1541"
                     WIDTH="774"

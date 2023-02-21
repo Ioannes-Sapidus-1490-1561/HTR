@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -93,7 +93,7 @@
                     WIDTH="773"
                     HEIGHT="63">
             <Shape><Polygon POINTS="617 648 617 656 1386 654 1388 640 1384 603 1196 593 1194 593 1192 593 1150 603 886 597 884 597 803 607 635 599 633 599 631 599 629 599 615 607 617 648"/></Shape>
-	    <String CONTENT="diamur. Quod ornamenti cauſa ſit à natura pro"
+	    <String CONTENT="diamur. Quod ornamenti cauſa ſit à natura pro£"
                     HPOS="615"
                     VPOS="593"
                     WIDTH="773"
@@ -195,7 +195,7 @@
                     WIDTH="775"
                     HEIGHT="70">
             <Shape><Polygon POINTS="909 903 890 903 870 903 850 903 848 903 615 914 617 956 617 971 1388 956 1390 944 1386 905 925 901 909 903"/></Shape>
-	    <String CONTENT="plerique philoſophi admodum clari, barbam ſcri"
+	    <String CONTENT="plerique philoſophi admodum clari, barbam ſcri£"
                     HPOS="615"
                     VPOS="901"
                     WIDTH="775"
@@ -212,7 +212,7 @@
                     WIDTH="773"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1078 950 915 961 637 956 635 956 633 956 631 956 617 963 619 1007 619 1020 935 1008 1062 1010 1374 1014 1376 1014 1378 1014 1380 1014 1380 1012 1390 1003 1390 997 1386 958 1080 950 1078 950"/></Shape>
-	    <String CONTENT="pſere uiris à natura ornamẽti, dignitatis́ cauſa con"
+	    <String CONTENT="pſere uiris à natura ornamẽti, dignitatis́ cauſa con£"
                     HPOS="617"
                     VPOS="950"
                     WIDTH="773"
@@ -314,7 +314,7 @@
                     WIDTH="773"
                     HEIGHT="63">
             <Shape><Polygon POINTS="911 1259 907 1259 880 1267 876 1267 864 1267 770 1259 758 1259 748 1269 747 1271 617 1271 619 1312 619 1320 1388 1312 1390 1302 1386 1261 929 1257 911 1259"/></Shape>
-	    <String CONTENT="res ſunt, eò precioſiores æſtimantur, ita barbis ex ma"
+	    <String CONTENT="res ſunt, eò precioſiores æſtimantur, ita barbis ex ma£"
                     HPOS="617"
                     VPOS="1257"
                     WIDTH="773"

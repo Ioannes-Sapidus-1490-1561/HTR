@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -161,7 +161,7 @@
                     WIDTH="143"
                     HEIGHT="78">
             <Shape><Polygon POINTS="971 787 1114 787 1114 766 1112 713 1003 719 973 709 971 766 971 787"/></Shape>
-	    <String CONTENT="Barbe de"
+	    <String CONTENT="Barbe de£"
                     HPOS="971"
                     VPOS="709"
                     WIDTH="143"
@@ -399,7 +399,7 @@
                     WIDTH="772"
                     HEIGHT="64">
             <Shape><Polygon POINTS="201 1424 199 1436 967 1443 971 1430 971 1383 201 1379 201 1424"/></Shape>
-	    <String CONTENT="nem, tanti nominis Principem à militibus ſuis, à popu"
+	    <String CONTENT="nem, tanti nominis Principem à militibus ſuis, à popu£"
                     HPOS="199"
                     VPOS="1379"
                     WIDTH="772"
@@ -450,7 +450,7 @@
                     WIDTH="764"
                     HEIGHT="70">
             <Shape><Polygon POINTS="213 1541 207 1575 205 1583 664 1600 666 1600 967 1592 969 1584 967 1543 225 1530 213 1541"/></Shape>
-	    <String CONTENT="Nam eum raſuræ autorem fuiſſe, Athenæus ex Chry"
+	    <String CONTENT="Nam eum raſuræ autorem fuiſſe, Athenæus ex Chry£"
                     HPOS="205"
                     VPOS="1530"
                     WIDTH="764"
@@ -552,16 +552,6 @@
                    ID="eSc_textblock_fb89a02d"
                    TAGREFS="BT651">
           <Shape><Polygon POINTS="960 493 965 570 964 570 964 936 968 936 968 943 969 943 990 1806 828 1806 775 1806 763 1806 763 1808 219 1800 180 509 195 478 231 477 231 479 879 479"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="973.0"
-                   VPOS="714.0"
-                   WIDTH="149.0"
-                   HEIGHT="129.0"
-                   ID="eSc_textblock_1795d8a1"
-                   TAGREFS="BT652">
-          <Shape><Polygon POINTS="975 719 1122 736 1099 836 1012 843 1012 840 973 840 973 714 975 714"/></Shape>
           
         </TextBlock>
         

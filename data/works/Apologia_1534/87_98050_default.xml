@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -69,7 +69,7 @@
                     WIDTH="739"
                     HEIGHT="129">
             <Shape><Polygon POINTS="1327 432 1307 431 1314 431 1268 427 1248 425 1229 423 1217 423 1197 427 1188 429 1186 427 1180 423 1170 423 1150 423 1131 423 1111 423 1092 423 1072 423 1052 423 1035 423 988 431 984 431 980 431 954 425 935 425 915 425 896 425 876 427 874 427 837 432 817 427 797 427 778 427 770 427 745 434 715 429 699 429 680 429 660 429 621 436 623 538 623 552 1150 552 1150 550 1164 548 1211 538 1229 548 1231 548 1233 548 1235 548 1358 546 1360 528 1356 434 1346 434"/></Shape>
-	    <String CONTENT="IOANNES SA"
+	    <String CONTENT="IOANNES SA£"
                     HPOS="621"
                     VPOS="423"
                     WIDTH="739"
@@ -154,7 +154,7 @@
                     WIDTH="492"
                     HEIGHT="66">
             <Shape><Polygon POINTS="1345 764 1325 762 1305 760 1286 758 1266 756 1258 756 1246 756 1243 754 894 750 896 801 896 816 1384 811 1386 797 1382 764 1364 764"/></Shape>
-	    <String CONTENT="Ernimus inſuetum Nabatheis ſy"
+	    <String CONTENT="Ernimus inſuetum Nabatheis ſy£"
                     HPOS="894"
                     VPOS="750"
                     WIDTH="492"

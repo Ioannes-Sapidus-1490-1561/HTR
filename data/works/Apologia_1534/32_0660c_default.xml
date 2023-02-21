@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -297,7 +297,7 @@
                     WIDTH="778"
                     HEIGHT="63">
             <Shape><Polygon POINTS="156 1218 154 1228 928 1236 932 1226 932 1189 609 1177 607 1177 558 1185 554 1185 552 1185 523 1175 521 1175 519 1175 358 1183 354 1183 340 1173 338 1173 337 1173 335 1173 162 1181 156 1218"/></Shape>
-	    <String CONTENT="Enixam Peloponeſi, Habeat: &amp; tamen non iuris tan"
+	    <String CONTENT="Enixam Peloponeſi, Habeat: &amp; tamen non iuris tan£"
                     HPOS="154"
                     VPOS="1173"
                     WIDTH="778"
@@ -399,7 +399,7 @@
                     WIDTH="715"
                     HEIGHT="58">
             <Shape><Polygon POINTS="213 1520 211 1537 924 1537 926 1524 924 1487 213 1479 213 1520"/></Shape>
-	    <String CONTENT="Vetustũ tamen exemplar, illud quod habetur Flo"
+	    <String CONTENT="Vetustũ tamen exemplar, illud quod habetur Flo£"
                     HPOS="211"
                     VPOS="1479"
                     WIDTH="715"

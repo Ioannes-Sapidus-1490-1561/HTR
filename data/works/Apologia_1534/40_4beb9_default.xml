@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -433,7 +433,7 @@
                     WIDTH="766"
                     HEIGHT="82">
             <Shape><Polygon POINTS="154 1641 152 1657 315 1675 317 1675 715 1671 726 1680 728 1680 730 1680 732 1680 799 1673 809 1680 809 1682 811 1682 813 1682 815 1682 917 1669 918 1661 915 1612 854 1622 652 1610 650 1610 556 1618 154 1600 154 1641"/></Shape>
-	    <String CONTENT="adeant: at eos quidem, quorum ſententijs, at arbi"
+	    <String CONTENT="adeant: at eos quidem, quorum ſententijs, at arbi£"
                     HPOS="152"
                     VPOS="1600"
                     WIDTH="766"
@@ -450,7 +450,7 @@
                     WIDTH="764"
                     HEIGHT="76">
             <Shape><Polygon POINTS="529 1657 527 1657 525 1657 507 1671 395 1671 331 1655 327 1655 325 1655 323 1655 299 1667 156 1653 156 1694 154 1710 193 1722 195 1722 197 1722 199 1722 231 1714 282 1724 284 1724 327 1716 742 1729 744 1729 917 1718 918 1708 915 1665 615 1671 542 1659 532 1657 529 1657"/></Shape>
-	    <String CONTENT="trijs non plebs tantum uniuerſa, populus́ omnis, ue"
+	    <String CONTENT="trijs non plebs tantum uniuerſa, populus́ omnis, ue£"
                     HPOS="154"
                     VPOS="1653"
                     WIDTH="764"

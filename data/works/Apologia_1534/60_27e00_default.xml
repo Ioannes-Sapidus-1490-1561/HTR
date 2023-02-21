@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
     <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
@@ -499,50 +499,6 @@
                     VPOS="446"
                     WIDTH="400"
                     HEIGHT="63"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="936"
-                   VPOS="1542"
-                   WIDTH="302"
-                   HEIGHT="134"
-                   ID="eSc_textblock_ac50bee4"
-                   TAGREFS="BT652">
-          <Shape><Polygon POINTS="949 1542 936 1599 949 1676 1238 1676 1238 1542"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_4018c475"
-                    TAGREFS="LT210"
-                    BASELINE="966 1610 979 1608 1228 1614" 
-                    HPOS="962"
-                    VPOS="1547"
-                    WIDTH="264"
-                    HEIGHT="100">
-            <Shape><Polygon POINTS="962 1622 1071 1622 1083 1633 1093 1641 1093 1643 1095 1643 1097 1643 1099 1643 1101 1643 1114 1635 1132 1626 1146 1639 1152 1643 1152 1645 1154 1645 1156 1645 1158 1647 1224 1647 1226 1612 1224 1547 964 1547 964 1608"/></Shape>
-	    <String CONTENT=""
-                    HPOS="962"
-                    VPOS="1547"
-                    WIDTH="264"
-                    HEIGHT="100"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_1d32370d"
-                    TAGREFS="LT210"
-                    BASELINE="995 1659 1091 1659" 
-                    HPOS="995"
-                    VPOS="1610"
-                    WIDTH="96"
-                    HEIGHT="67">
-            <Shape><Polygon POINTS="1073 1612 1054 1610 995 1612 995 1659 995 1671 1089 1677 1091 1659 1089 1612 1073 1612"/></Shape>
-	    <String CONTENT=""
-                    HPOS="995"
-                    VPOS="1610"
-                    WIDTH="96"
-                    HEIGHT="67"></String>
           </TextLine>
 
           
