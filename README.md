@@ -29,7 +29,7 @@ As long as my work is not finished, the repository will evolve. Please do not us
 
 ## How to cite
 
-Marie Jeannot-Tirole, _Data repository for HTR model training_, université de Strasbourg et de Genève, Genève, 2023.
+Marie Jeannot-Tirole, _Data repository for HTR model training_, Université de Strasbourg et Université de Genève, Genève, 2023.
 
 ```bibtex
  @misc{jeannotHTR2023,
