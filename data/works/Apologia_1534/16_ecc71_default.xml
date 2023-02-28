@@ -144,7 +144,7 @@
                     WIDTH="770"
                     HEIGHT="65">
             <Shape><Polygon POINTS="184 767 182 779 707 781 711 783 760 793 762 793 950 783 952 775 950 736 184 728 184 767"/></Shape>
-	    <String CONTENT="negocium nostrum. Plinius iunior Euphratem philo£"
+	    <String CONTENT="negocium nostrum. Plinius iunior Euphratem philo"
                     HPOS="182"
                     VPOS="728"
                     WIDTH="770"
@@ -416,7 +416,7 @@
                     WIDTH="770"
                     HEIGHT="65">
             <Shape><Polygon POINTS="192 1581 190 1598 956 1600 960 1588 958 1549 192 1535 192 1581"/></Shape>
-	    <String CONTENT="fiunt edentuli, uel de dolore dentium plurimum labo£"
+	    <String CONTENT="fiunt edentuli, uel de dolore dentium plurimum labo"
                     HPOS="190"
                     VPOS="1535"
                     WIDTH="770"
