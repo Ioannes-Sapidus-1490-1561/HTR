@@ -29,7 +29,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 110662
+  count: 110476
 - metric: files
   count: 111
 - metric: lines
@@ -83,7 +83,6 @@ characters:
   - D
   - R
   - O
-  - "\xA3"
   - M
   - H
   - "\xDF"
