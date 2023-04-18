@@ -477,6 +477,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="334"
+                   VPOS="415"
+                   WIDTH="410"
+                   HEIGHT="54"
+                   ID="eSc_textblock_75ead641"
+                   TAGREFS="BT654">
+          <Shape><Polygon POINTS="740 423 744 469 334 458 360 415"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_488b232d"
+                    TAGREFS="LT210"
+                    BASELINE="338 456 738 464" 
+                    HPOS="337"
+                    VPOS="415"
+                    WIDTH="401"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="730 421 711 421 691 421 672 421 652 421 632 419 613 419 593 419 574 419 554 419 534 417 515 417 495 417 476 417 456 417 436 415 417 415 397 415 378 415 358 415 340 442 338 456 337 466 540 483 542 483 736 478 738 464 734 419 730 421"/></Shape>
+	    <String CONTENT="IOANNIS SAPIDI."
+                    HPOS="337"
+                    VPOS="415"
+                    WIDTH="401"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="825"
                    VPOS="1810"
                    WIDTH="80"
@@ -504,38 +531,7 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="334.0"
-                   VPOS="415.0"
-                   WIDTH="406.0"
-                   HEIGHT="43.0"
-                   ID="eSc_textblock_75ead641"
-                   TAGREFS="BT654">
-          <Shape><Polygon POINTS="740 423 740 458 334 458 360 415"/></Shape>
-          
-        </TextBlock>
-        
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_488b232d"
-                    TAGREFS="LT210"
-                    BASELINE="338 456 738 464" 
-                    HPOS="337"
-                    VPOS="415"
-                    WIDTH="401"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="730 421 711 421 691 421 672 421 652 421 632 419 613 419 593 419 574 419 554 419 534 417 515 417 495 417 476 417 456 417 436 415 417 415 397 415 378 415 358 415 340 442 338 456 337 466 540 483 542 483 736 478 738 464 734 419 730 421"/></Shape>
-	    <String CONTENT="IOANNIS SAPIDI."
-                    HPOS="337"
-                    VPOS="415"
-                    WIDTH="401"
-                    HEIGHT="68"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

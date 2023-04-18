@@ -25,16 +25,6 @@
                   WIDTH="1546"
                   HEIGHT="2351">
         
-        <TextBlock HPOS="742.0"
-                   VPOS="438.0"
-                   WIDTH="462.0"
-                   HEIGHT="55.0"
-                   ID="eSc_textblock_3505b801"
-                   TAGREFS="BT654">
-          <Shape><Polygon POINTS="1161 438 1204 493 746 493 742 454 781 438"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="578.0"
                    VPOS="507.0"
                    WIDTH="794.0"
@@ -42,39 +32,6 @@
                    ID="eSc_textblock_425e11f1"
                    TAGREFS="BT651">
           <Shape><Polygon POINTS="1357 517 1372 1794 1207 1794 1208 1792 1093 1792 1052 1831 960 1839 601 1831 578 532 748 509 748 507 1262 507"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1211"
-                   VPOS="1813"
-                   WIDTH="162"
-                   HEIGHT="58"
-                   ID="eSc_textblock_7f845615"
-                   TAGREFS="BT674">
-          <Shape><Polygon POINTS="1373 1871 1218 1871 1211 1863 1211 1813 1327 1813 1372 1813"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_ed9c9762"
-                    TAGREFS="LT210"
-                    BASELINE="746 485 1183 479" 
-                    HPOS="744"
-                    VPOS="438"
-                    WIDTH="439"
-                    HEIGHT="61">
-            <Shape><Polygon POINTS="1156 438 1136 438 1116 438 1097 438 1077 438 1058 438 1038 438 1018 438 999 438 979 438 960 438 940 438 920 438 901 438 881 438 862 438 842 438 822 438 803 438 783 438 764 444 744 450 746 485 746 499 1183 489 1183 479 1171 456 1156 438"/></Shape>
-	    <String CONTENT="IOANNES PIERIVS."
-                    HPOS="744"
-                    VPOS="438"
-                    WIDTH="439"
-                    HEIGHT="61"></String>
-          </TextLine>
-
           
           
           <TextLine ID="eSc_line_37bffc74"
@@ -518,6 +475,43 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="742.0"
+                   VPOS="438.0"
+                   WIDTH="462.0"
+                   HEIGHT="55.0"
+                   ID="eSc_textblock_3505b801"
+                   TAGREFS="BT654">
+          <Shape><Polygon POINTS="1161 438 1204 493 746 493 742 454 781 438"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ed9c9762"
+                    TAGREFS="LT210"
+                    BASELINE="746 485 1183 479" 
+                    HPOS="744"
+                    VPOS="438"
+                    WIDTH="439"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1156 438 1136 438 1116 438 1097 438 1077 438 1058 438 1038 438 1018 438 999 438 979 438 960 438 940 438 920 438 901 438 881 438 862 438 842 438 822 438 803 438 783 438 764 444 744 450 746 485 746 499 1183 489 1183 479 1171 456 1156 438"/></Shape>
+	    <String CONTENT="IOANNES PIERIVS."
+                    HPOS="744"
+                    VPOS="438"
+                    WIDTH="439"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1211"
+                   VPOS="1813"
+                   WIDTH="162"
+                   HEIGHT="58"
+                   ID="eSc_textblock_7f845615"
+                   TAGREFS="BT674">
+          <Shape><Polygon POINTS="1373 1871 1218 1871 1211 1863 1211 1813 1327 1813 1372 1813"/></Shape>
+          
           
           <TextLine ID="eSc_line_2dfa4877"
                     TAGREFS="LT210"
@@ -536,6 +530,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
