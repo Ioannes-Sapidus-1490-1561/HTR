@@ -29,13 +29,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 110476
+  count: 199683
 - metric: files
-  count: 111
+  count: 199
 - metric: lines
-  count: 3009
+  count: 5369
 - metric: regions
-  count: 336
+  count: 614
 citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
 transcription-guidelines: "\xE0 compl\xE9ter\nMettre donn\xE9es"
 characters:
@@ -65,77 +65,81 @@ characters:
   - h
   - "\xE6"
   - "\uE8BF"
-  - I
   - A
-  - S
+  - I
   - "\u0303"
   - "\xAC"
+  - S
   - x
-  - E
   - "\u0301"
   - '&'
+  - E
   - N
+  - "\u0300"
   - P
   - C
-  - "\u0300"
+  - D
   - Q
   - V
-  - D
   - R
   - O
+  - "\xDF"
+  - B
+  - j
   - M
   - H
-  - "\xDF"
-  - j
-  - B
-  - T
   - ':'
+  - T
   - "\u0153"
+  - "\xA3"
   - L
-  - y
   - '?'
+  - y
   - F
   - G
-  - v
   - (
   - )
-  - '1'
   - X
-  - '0'
-  - "\uE68B"
-  - '3'
-  - '5'
+  - v
+  - '1'
   - '4'
+  - '3'
+  - "\uE68B"
+  - "\u0308"
+  - '5'
   - '2'
+  - '0'
   - z
   - '9'
   - "\u0302"
-  - "\u0308"
   - "\u0328"
   - '7'
-  - "\u0327"
-  - "\uA775"
-  - J
   - Y
-  - '6'
-  - '8'
+  - J
+  - "\u0327"
   - "\uA751"
   - k
+  - '6'
+  - '8'
   - "\uA757"
   - "\uA759"
   - '-'
   - Z
+  - "\uA775"
+  - "\u2019"
+  - "\u03C2"
+  - ;
   - "\u03B1"
+  - "\u0304"
   - "\uA753"
   - "\u2079"
   - W
   - K
-  - "\u2019"
-  - "\u03C2"
-  - ;
   - "\u03B4"
   - "\u03B9"
   - "\u03C0"
   - "\u03C3"
   - "\u03C9"
   - "\u03BD"
+  - "\uA770"
+  - "\u0127"
