@@ -171,7 +171,7 @@
                     WIDTH="768"
                     HEIGHT="72">
             <Shape><Polygon POINTS="162 840 160 856 924 865 928 854 926 807 162 793 162 840"/></Shape>
-	    <String CONTENT="ſuperbiam eſſe, ne ſcilicet male aliquando ſenſiſſe ui"
+	    <String CONTENT="ſuperbiam eſſe, ne ſcilicet male aliquando ſenſiſſe ui£"
                     HPOS="160"
                     VPOS="793"
                     WIDTH="768"
@@ -358,7 +358,7 @@
                     WIDTH="768"
                     HEIGHT="75">
             <Shape><Polygon POINTS="160 1400 158 1412 503 1424 505 1424 562 1416 568 1416 574 1416 619 1426 621 1426 760 1418 768 1418 777 1426 777 1428 779 1428 781 1428 783 1428 924 1418 926 1410 924 1367 160 1353 160 1400"/></Shape>
-	    <String CONTENT="res, quorũ conſilio, prudentia, ſanctißimis́ iniſtitu"
+	    <String CONTENT="res, quorũ conſilio, prudentia, ſanctißimis́ iniſtitu£"
                     HPOS="158"
                     VPOS="1353"
                     WIDTH="768"

@@ -212,7 +212,7 @@
                     WIDTH="474"
                     HEIGHT="57">
             <Shape><Polygon POINTS="450 956 448 969 918 971 922 961 920 926 450 914 450 956"/></Shape>
-	    <String CONTENT="boratam, anteacta ætate per an"
+	    <String CONTENT="boratam, anteacta ætate per an£"
                     HPOS="448"
                     VPOS="914"
                     WIDTH="474"
@@ -246,7 +246,7 @@
                     WIDTH="776"
                     HEIGHT="71">
             <Shape><Polygon POINTS="152 1055 150 1063 772 1085 773 1085 924 1073 926 1065 926 1028 152 1014 152 1055"/></Shape>
-	    <String CONTENT="temerè deſtitutam, iterum tentant apud ſummũ Pon"
+	    <String CONTENT="temerè deſtitutam, iterum tentant apud ſummũ Pon£"
                     HPOS="150"
                     VPOS="1014"
                     WIDTH="776"
@@ -263,7 +263,7 @@
                     WIDTH="774"
                     HEIGHT="57">
             <Shape><Polygon POINTS="152 1108 150 1126 920 1128 924 1118 922 1079 152 1071 152 1108"/></Shape>
-	    <String CONTENT="tificem, nulla eius, qua nunc grauißime uexatur, uale"
+	    <String CONTENT="tificem, nulla eius, qua nunc grauißime uexatur, uale£"
                     HPOS="150"
                     VPOS="1071"
                     WIDTH="774"
@@ -314,7 +314,7 @@
                     WIDTH="776"
                     HEIGHT="63">
             <Shape><Polygon POINTS="150 1261 148 1275 920 1285 924 1271 924 1232 150 1222 150 1261"/></Shape>
-	    <String CONTENT="tuis uiuimus, incipiamus, at ita exemplo reliquis fu"
+	    <String CONTENT="tuis uiuimus, incipiamus, at ita exemplo reliquis fu£"
                     HPOS="148"
                     VPOS="1222"
                     WIDTH="776"
@@ -365,7 +365,7 @@
                     WIDTH="774"
                     HEIGHT="59">
             <Shape><Polygon POINTS="154 1412 152 1430 922 1432 926 1420 926 1377 154 1373 154 1412"/></Shape>
-	    <String CONTENT="tuo unius iudicio, &amp; autoritate moti, libentißime fa"
+	    <String CONTENT="tuo unius iudicio, &amp; autoritate moti, libentißime fa£"
                     HPOS="152"
                     VPOS="1373"
                     WIDTH="774"
@@ -399,7 +399,7 @@
                     WIDTH="770"
                     HEIGHT="68">
             <Shape><Polygon POINTS="156 1514 154 1524 188 1535 190 1535 192 1535 382 1530 668 1543 670 1543 762 1535 793 1545 795 1545 797 1545 922 1535 924 1526 924 1488 156 1477 156 1514"/></Shape>
-	    <String CONTENT="ctrina, addam etiam probitate, &amp; ſapientia præſtan"
+	    <String CONTENT="ctrina, addam etiam probitate, &amp; ſapientia præſtan£"
                     HPOS="154"
                     VPOS="1477"
                     WIDTH="770"
@@ -521,53 +521,13 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="117"
-                   VPOS="956"
-                   WIDTH="21"
-                   HEIGHT="3"
-                   ID="eSc_textblock_05ecde0c"
-                   >
-          <Shape><Polygon POINTS="124 959 117 956 138 956 138 959"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="131"
-                   VPOS="672"
-                   WIDTH="305"
-                   HEIGHT="287"
-                   ID="eSc_textblock_42747a28"
-                   >
-          <Shape><Polygon POINTS="162 682 131 959 436 959 436 672"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="162"
-                   VPOS="672"
-                   WIDTH="274"
-                   HEIGHT="287"
-                   ID="eSc_textblock_b948ee8c"
-                   >
-          <Shape><Polygon POINTS="162 682 162 956 436 959 436 672"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="131"
-                   VPOS="672"
-                   WIDTH="305"
-                   HEIGHT="287"
-                   ID="eSc_textblock_dcb1561a"
-                   >
-          <Shape><Polygon POINTS="131 672 131 959 436 959 436 672"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="162"
                    VPOS="682"
                    WIDTH="274"
                    HEIGHT="277"
-                   ID="eSc_textblock_2d4a20c2"
-                   >
-          <Shape><Polygon POINTS="162 682 162 956 436 959 436 686"/></Shape>
+                   ID="eSc_textblock_b948ee8c"
+                   TAGREFS="BT650">
+          <Shape><Polygon POINTS="162 682 162 956 436 959 436 693"/></Shape>
           
         </TextBlock>
         
