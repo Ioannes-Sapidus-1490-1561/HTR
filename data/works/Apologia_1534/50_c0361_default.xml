@@ -50,6 +50,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="172.0"
+                   VPOS="492.0"
+                   WIDTH="788.0"
+                   HEIGHT="1330.0"
+                   ID="eSc_textblock_87100342"
+                   TAGREFS="BT651">
+          <Shape><Polygon POINTS="960 509 929 1822 688 1822 172 1800 180 501 215 492 215 497 916 497"/></Shape>
+          
           
           <TextLine ID="eSc_line_71aff8b9"
                     TAGREFS="LT210"
@@ -425,6 +435,23 @@
 
           
           
+          <TextLine ID="eSc_line_71487e0d"
+                    TAGREFS="LT210"
+                    BASELINE="175 1632 932 1662" 
+                    HPOS="172"
+                    VPOS="1588"
+                    WIDTH="758"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="174 1631 172 1643 926 1671 930 1661 928 1614 883 1622 750 1608 724 1606 723 1606 721 1606 717 1606 683 1616 625 1604 609 1602 607 1602 605 1602 603 1602 601 1604 589 1614 548 1602 532 1598 531 1598 529 1598 483 1600 380 1606 289 1604 270 1594 256 1588 254 1588 252 1588 174 1590 174 1631"/></Shape>
+	    <String CONTENT="remus. At spectate obsecro hominum im¬"
+                    HPOS="172"
+                    VPOS="1588"
+                    WIDTH="758"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_a1dcd220"
                     TAGREFS="LT210"
                     BASELINE="168 1686 938 1710" 
@@ -475,6 +502,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="786"
+                   VPOS="1838"
+                   WIDTH="143"
+                   HEIGHT="40"
+                   ID="eSc_textblock_5dd37489"
+                   TAGREFS="BT674">
+          <Shape><Polygon POINTS="928 1878 789 1878 786 1874 786 1838 929 1838"/></Shape>
+          
           
           <TextLine ID="eSc_line_3fc70f05"
                     TAGREFS="LT210"
@@ -491,43 +528,6 @@
                     HEIGHT="76"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="172.0"
-                   VPOS="492.0"
-                   WIDTH="788.0"
-                   HEIGHT="1330.0"
-                   ID="eSc_textblock_87100342"
-                   TAGREFS="BT651">
-          <Shape><Polygon POINTS="960 509 929 1822 688 1822 172 1800 180 501 215 492 215 497 916 497"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_71487e0d"
-                    TAGREFS="LT210"
-                    BASELINE="175 1632 932 1662" 
-                    HPOS="172"
-                    VPOS="1588"
-                    WIDTH="758"
-                    HEIGHT="83">
-            <Shape><Polygon POINTS="174 1631 172 1643 926 1671 930 1661 928 1614 883 1622 750 1608 724 1606 723 1606 721 1606 717 1606 683 1616 625 1604 609 1602 607 1602 605 1602 603 1602 601 1604 589 1614 548 1602 532 1598 531 1598 529 1598 483 1600 380 1606 289 1604 270 1594 256 1588 254 1588 252 1588 174 1590 174 1631"/></Shape>
-	    <String CONTENT="remus. At spectate obsecro hominum im¬"
-                    HPOS="172"
-                    VPOS="1588"
-                    WIDTH="758"
-                    HEIGHT="83"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="786"
-                   VPOS="1838"
-                   WIDTH="143"
-                   HEIGHT="40"
-                   ID="eSc_textblock_5dd37489"
-                   TAGREFS="BT674">
-          <Shape><Polygon POINTS="928 1878 789 1878 786 1874 786 1838 929 1838"/></Shape>
           
         </TextBlock>
         

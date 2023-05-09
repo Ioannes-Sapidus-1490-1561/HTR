@@ -50,6 +50,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="658"
+                   VPOS="485"
+                   WIDTH="822"
+                   HEIGHT="1349"
+                   ID="eSc_textblock_6201c208"
+                   TAGREFS="BT651">
+          <Shape><Polygon POINTS="1425 485 1441 509 1480 1496 1466 1807 1467 1809 1331 1814 1275 1814 1275 1816 1042 1821 1042 1828 948 1828 948 1830 807 1830 807 1834 697 1831 658 517 821 493 822 490 1331 490 1331 487 1393 487 1393 485"/></Shape>
+          
           
           <TextLine ID="eSc_line_c7daf2a6"
                     TAGREFS="LT210"
@@ -492,6 +502,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1303"
+                   VPOS="1807"
+                   WIDTH="174"
+                   HEIGHT="51"
+                   ID="eSc_textblock_5377fac4"
+                   TAGREFS="BT674">
+          <Shape><Polygon POINTS="1477 1858 1477 1807 1303 1807 1303 1858"/></Shape>
+          
           
           <TextLine ID="eSc_line_4511a5a0"
                     TAGREFS="LT210"
@@ -508,26 +528,6 @@
                     HEIGHT="70"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="658"
-                   VPOS="485"
-                   WIDTH="822"
-                   HEIGHT="1349"
-                   ID="eSc_textblock_6201c208"
-                   TAGREFS="BT651">
-          <Shape><Polygon POINTS="1425 485 1441 509 1480 1496 1466 1807 1467 1809 1331 1814 1275 1814 1275 1816 1042 1821 1042 1828 948 1828 948 1830 807 1830 807 1834 697 1831 658 517 821 493 822 490 1331 490 1331 487 1393 487 1393 485"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1303"
-                   VPOS="1807"
-                   WIDTH="174"
-                   HEIGHT="51"
-                   ID="eSc_textblock_5377fac4"
-                   TAGREFS="BT674">
-          <Shape><Polygon POINTS="1477 1858 1477 1807 1303 1807 1303 1858"/></Shape>
           
         </TextBlock>
         

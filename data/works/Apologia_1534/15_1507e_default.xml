@@ -50,6 +50,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="611.0"
+                   VPOS="491.0"
+                   WIDTH="790.0"
+                   HEIGHT="1340.0"
+                   ID="eSc_textblock_8b50baff"
+                   TAGREFS="BT651">
+          <Shape><Polygon POINTS="1231 493 1394 509 1401 1830 1172 1830 1172 1831 627 1823 611 509 774 493 775 491 1230 491"/></Shape>
+          
           
           <TextLine ID="eSc_line_be11fa94"
                     TAGREFS="LT210"
@@ -59,7 +69,7 @@
                     WIDTH="775"
                     HEIGHT="77">
             <Shape><Polygon POINTS="1378 507 1358 505 1339 503 1319 501 1299 499 1280 497 1260 495 1241 493 1233 487 1211 487 1209 487 1021 497 994 487 992 487 990 487 988 487 962 497 925 487 923 487 921 487 919 487 917 487 917 489 907 497 770 491 770 493 750 493 731 495 711 497 692 499 672 501 652 503 633 505 613 507 615 544 615 564 1386 548 1388 538 1384 507 1378 507"/></Shape>
-	    <String CONTENT="aßimilari poßint. Sed ne diutius in re tamn perſpicua"
+	    <String CONTENT="aßimilari poßint. Sed ne diutius in re tam perſpicua"
                     HPOS="613"
                     VPOS="487"
                     WIDTH="775"
@@ -492,6 +502,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1315"
+                   VPOS="1840"
+                   WIDTH="86"
+                   HEIGHT="31"
+                   ID="eSc_textblock_420d7b2c"
+                   TAGREFS="BT674">
+          <Shape><Polygon POINTS="1401 1871 1315 1855 1315 1840 1401 1840 1401 1851"/></Shape>
+          
           
           <TextLine ID="eSc_line_a4914d93"
                     TAGREFS="LT210"
@@ -508,26 +528,6 @@
                     HEIGHT="57"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="611.0"
-                   VPOS="491.0"
-                   WIDTH="790.0"
-                   HEIGHT="1340.0"
-                   ID="eSc_textblock_8b50baff"
-                   TAGREFS="BT651">
-          <Shape><Polygon POINTS="1231 493 1394 509 1401 1830 1172 1830 1172 1831 627 1823 611 509 774 493 775 491 1230 491"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1315"
-                   VPOS="1840"
-                   WIDTH="86"
-                   HEIGHT="31"
-                   ID="eSc_textblock_420d7b2c"
-                   TAGREFS="BT674">
-          <Shape><Polygon POINTS="1401 1871 1315 1855 1315 1840 1401 1840 1401 1851"/></Shape>
           
         </TextBlock>
         

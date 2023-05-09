@@ -50,6 +50,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="596.0"
+                   VPOS="532.0"
+                   WIDTH="770.0"
+                   HEIGHT="1331.0"
+                   ID="eSc_textblock_02f96dd5"
+                   TAGREFS="BT651">
+          <Shape><Polygon POINTS="1284 548 1284 883 1299 977 1354 1003 1354 1040 1299 1065 1331 1159 1323 1306 1245 1332 1245 1432 1323 1449 1339 1549 1268 1583 1237 1675 1307 1708 1299 1784 1366 1853 1205 1853 1205 1863 596 1847 603 556 619 532 839 532 839 539 1175 539 1175 538"/></Shape>
+          
           
           <TextLine ID="eSc_line_82f2b878"
                     TAGREFS="LT210"
@@ -492,6 +502,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1270"
+                   VPOS="1856"
+                   WIDTH="110"
+                   HEIGHT="49"
+                   ID="eSc_textblock_845aff39"
+                   TAGREFS="BT674">
+          <Shape><Polygon POINTS="1270 1856 1270 1905 1380 1905 1380 1856"/></Shape>
+          
           
           <TextLine ID="eSc_line_ad6d8230"
                     TAGREFS="LT210"
@@ -508,26 +528,6 @@
                     HEIGHT="57"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="596.0"
-                   VPOS="532.0"
-                   WIDTH="770.0"
-                   HEIGHT="1331.0"
-                   ID="eSc_textblock_02f96dd5"
-                   TAGREFS="BT651">
-          <Shape><Polygon POINTS="1284 548 1284 883 1299 977 1354 1003 1354 1040 1299 1065 1331 1159 1323 1306 1245 1332 1245 1432 1323 1449 1339 1549 1268 1583 1237 1675 1307 1708 1299 1784 1366 1853 1205 1853 1205 1863 596 1847 603 556 619 532 839 532 839 539 1175 539 1175 538"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1270"
-                   VPOS="1856"
-                   WIDTH="110"
-                   HEIGHT="49"
-                   ID="eSc_textblock_845aff39"
-                   TAGREFS="BT674">
-          <Shape><Polygon POINTS="1270 1856 1270 1905 1380 1905 1380 1856"/></Shape>
           
         </TextBlock>
         

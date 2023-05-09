@@ -560,6 +560,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1269"
+                   VPOS="1817"
+                   WIDTH="156"
+                   HEIGHT="61"
+                   ID="eSc_textblock_994eb396"
+                   TAGREFS="BT674">
+          <Shape><Polygon POINTS="1401 1818 1425 1833 1409 1878 1286 1878 1269 1866 1269 1817"/></Shape>
+          
           
           <TextLine ID="eSc_line_e373ffac"
                     TAGREFS="LT210"
@@ -568,7 +578,7 @@
                     VPOS="1816"
                     WIDTH="139"
                     HEIGHT="80">
-            <Shape><Polygon POINTS="1395 1818 1388 1816 1376 1816 1356 1816 1337 1816 1317 1816 1297 1816 1294 1816 1278 1823 1280 1867 1280 1886 1327 1882 1348 1886 1388 1896 1390 1896 1392 1896 1417 1884 1417 1863 1415 1855 1395 1818"/></Shape>
+            <Shape><Polygon POINTS="1388 1816 1376 1816 1356 1816 1337 1816 1317 1816 1297 1816 1294 1816 1278 1823 1280 1867 1280 1886 1327 1882 1348 1886 1388 1896 1390 1896 1392 1896 1417 1884 1417 1863 1415 1855 1395 1818"/></Shape>
 	    <String CONTENT="Vidiſſet,"
                     HPOS="1278"
                     VPOS="1816"
@@ -586,16 +596,6 @@
                    ID="eSc_textblock_c51f673a"
                    TAGREFS="BT654">
           <Shape><Polygon POINTS="862 454 1096 462 1089 500 1029 500 1029 495 865 495"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1269"
-                   VPOS="1817"
-                   WIDTH="156"
-                   HEIGHT="61"
-                   ID="eSc_textblock_994eb396"
-                   TAGREFS="BT674">
-          <Shape><Polygon POINTS="1401 1818 1425 1833 1409 1878 1286 1878 1269 1866 1269 1817"/></Shape>
           
         </TextBlock>
         

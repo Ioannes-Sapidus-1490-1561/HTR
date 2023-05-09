@@ -25,6 +25,33 @@
                   WIDTH="1546"
                   HEIGHT="2351">
         
+        <TextBlock HPOS="334"
+                   VPOS="410"
+                   WIDTH="402"
+                   HEIGHT="60"
+                   ID="eSc_textblock_2f3b7ec1"
+                   TAGREFS="BT654">
+          <Shape><Polygon POINTS="334 410 334 462 736 470 736 410"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_46e2e47c"
+                    TAGREFS="LT210"
+                    BASELINE="337 452 728 458" 
+                    HPOS="335"
+                    VPOS="415"
+                    WIDTH="393"
+                    HEIGHT="53">
+            <Shape><Polygon POINTS="709 419 689 415 670 415 650 415 630 415 611 415 591 415 572 415 552 415 532 415 513 415 493 415 474 415 454 415 434 415 415 415 395 415 376 415 356 415 337 415 337 452 335 468 726 468 728 458 721 438 709 419"/></Shape>
+	    <String CONTENT="IOANNIS SAPIDI"
+                    HPOS="335"
+                    VPOS="415"
+                    WIDTH="393"
+                    HEIGHT="53"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="143"
                    VPOS="470"
                    WIDTH="857"
@@ -472,33 +499,6 @@
                     VPOS="1735"
                     WIDTH="662"
                     HEIGHT="83"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="334"
-                   VPOS="410"
-                   WIDTH="402"
-                   HEIGHT="60"
-                   ID="eSc_textblock_2f3b7ec1"
-                   TAGREFS="BT654">
-          <Shape><Polygon POINTS="334 410 334 462 736 470 736 410"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_46e2e47c"
-                    TAGREFS="LT210"
-                    BASELINE="337 452 728 458" 
-                    HPOS="335"
-                    VPOS="415"
-                    WIDTH="393"
-                    HEIGHT="53">
-            <Shape><Polygon POINTS="709 419 689 415 670 415 650 415 630 415 611 415 591 415 572 415 552 415 532 415 513 415 493 415 474 415 454 415 434 415 415 415 395 415 376 415 356 415 337 415 337 452 335 468 726 468 728 458 721 438 709 419"/></Shape>
-	    <String CONTENT="IOANNIS SAPIDI"
-                    HPOS="335"
-                    VPOS="415"
-                    WIDTH="393"
-                    HEIGHT="53"></String>
           </TextLine>
 
           

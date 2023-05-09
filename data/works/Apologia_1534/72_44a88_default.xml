@@ -25,13 +25,13 @@
                   WIDTH="1546"
                   HEIGHT="2351">
         
-        <TextBlock HPOS="148.0"
-                   VPOS="493.0"
-                   WIDTH="768.0"
-                   HEIGHT="1346.0"
-                   ID="eSc_textblock_d5971ef3"
-                   TAGREFS="BT651">
-          <Shape><Polygon POINTS="756 546 881 564 811 728 795 869 842 924 834 1001 916 1022 916 1062 890 1062 890 1192 819 1191 819 1667 783 1780 735 1780 721 1839 172 1800 148 517 164 493 310 493 310 502 736 502"/></Shape>
+        <TextBlock HPOS="325.0"
+                   VPOS="431.0"
+                   WIDTH="431.0"
+                   HEIGHT="50.0"
+                   ID="eSc_textblock_42fcac15"
+                   TAGREFS="BT654">
+          <Shape><Polygon POINTS="352 431 756 438 737 481 325 481"/></Shape>
           
           
           <TextLine ID="eSc_line_a4cae89f"
@@ -49,6 +49,16 @@
                     HEIGHT="60"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="148.0"
+                   VPOS="493.0"
+                   WIDTH="768.0"
+                   HEIGHT="1346.0"
+                   ID="eSc_textblock_d5971ef3"
+                   TAGREFS="BT651">
+          <Shape><Polygon POINTS="756 546 881 564 811 728 795 869 842 924 834 1001 916 1022 916 1062 890 1062 890 1192 819 1191 819 1667 783 1780 735 1780 721 1839 172 1800 148 517 164 493 310 493 310 502 736 502"/></Shape>
           
           
           <TextLine ID="eSc_line_80057e3f"
@@ -255,23 +265,6 @@
 
           
           
-          <TextLine ID="eSc_line_347997dc"
-                    TAGREFS="LT210"
-                    BASELINE="950 1106 1111 1106 1223 1120" 
-                    HPOS="946"
-                    VPOS="1040"
-                    WIDTH="276"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="948 1104 946 1126 1116 1120 1218 1136 1222 1118 1222 1077 1118 1071 1107 1059 1091 1048 1089 1048 1087 1048 1085 1048 1032 1050 999 1052 950 1040 948 1104"/></Shape>
-	    <String CONTENT="Cõmoda nu¬"
-                    HPOS="946"
-                    VPOS="1040"
-                    WIDTH="276"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_fd2cc574"
                     TAGREFS="LT210"
                     BASELINE="160 1136 758 1151" 
@@ -285,23 +278,6 @@
                     VPOS="1091"
                     WIDTH="600"
                     HEIGHT="78"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_9a25cbe9"
-                    TAGREFS="LT210"
-                    BASELINE="952 1163 1193 1167" 
-                    HPOS="950"
-                    VPOS="1114"
-                    WIDTH="243"
-                    HEIGHT="81">
-            <Shape><Polygon POINTS="952 1163 950 1175 1011 1193 1013 1193 1014 1193 1075 1187 1138 1179 1187 1195 1193 1167 1189 1114 1128 1126 1109 1116 1103 1114 1101 1114 1099 1114 952 1122 952 1163"/></Shape>
-	    <String CONTENT="tritæ Barbę"
-                    HPOS="950"
-                    VPOS="1114"
-                    WIDTH="243"
-                    HEIGHT="81"></String>
           </TextLine>
 
           
@@ -525,16 +501,6 @@
                     HEIGHT="88"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="325.0"
-                   VPOS="431.0"
-                   WIDTH="431.0"
-                   HEIGHT="50.0"
-                   ID="eSc_textblock_42fcac15"
-                   TAGREFS="BT654">
-          <Shape><Polygon POINTS="352 431 756 438 737 481 325 481"/></Shape>
           
         </TextBlock>
         

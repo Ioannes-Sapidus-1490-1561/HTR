@@ -492,6 +492,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1264"
+                   VPOS="1826"
+                   WIDTH="145"
+                   HEIGHT="45"
+                   ID="eSc_textblock_b14b51d4"
+                   TAGREFS="BT674">
+          <Shape><Polygon POINTS="1409 1863 1270 1871 1264 1859 1264 1826 1405 1826"/></Shape>
+          
           
           <TextLine ID="eSc_line_f9f6cdd6"
                     TAGREFS="LT210"
@@ -500,7 +510,7 @@
                     VPOS="1796"
                     WIDTH="151"
                     HEIGHT="82">
-            <Shape><Polygon POINTS="1258 1843 1258 1847 1258 1876 1327 1869 1346 1871 1388 1878 1390 1878 1392 1878 1394 1878 1409 1869 1409 1847 1409 1810 1343 1796 1341 1796 1339 1796 1337 1796 1323 1810 1264 1810 1258 1843"/></Shape>
+            <Shape><Polygon POINTS="1258 1847 1258 1876 1327 1869 1346 1871 1388 1878 1390 1878 1392 1878 1394 1878 1409 1869 1409 1847 1409 1810 1343 1796 1341 1796 1339 1796 1337 1796 1323 1810 1264 1810 1258 1843"/></Shape>
 	    <String CONTENT="Rupibus,"
                     HPOS="1258"
                     VPOS="1796"
@@ -518,16 +528,6 @@
                    ID="eSc_textblock_98784eaf"
                    TAGREFS="BT654">
           <Shape><Polygon POINTS="862 431 1135 431 1142 471 855 471"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1264"
-                   VPOS="1826"
-                   WIDTH="145"
-                   HEIGHT="45"
-                   ID="eSc_textblock_b14b51d4"
-                   TAGREFS="BT674">
-          <Shape><Polygon POINTS="1409 1863 1270 1871 1264 1859 1264 1826 1405 1826"/></Shape>
           
         </TextBlock>
         

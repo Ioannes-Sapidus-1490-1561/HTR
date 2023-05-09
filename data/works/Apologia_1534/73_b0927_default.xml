@@ -265,23 +265,6 @@
 
           
           
-          <TextLine ID="eSc_line_be1bfa08"
-                    TAGREFS="LT210"
-                    BASELINE="333 1165 601 1168" 
-                    HPOS="329"
-                    VPOS="1085"
-                    WIDTH="270"
-                    HEIGHT="96">
-            <Shape><Polygon POINTS="331 1163 329 1177 596 1181 599 1167 599 1124 539 1124 537 1122 474 1085 472 1085 470 1085 419 1085 417 1085 415 1085 413 1085 366 1116 331 1118 331 1163"/></Shape>
-	    <String CONTENT="Barba donum"
-                    HPOS="329"
-                    VPOS="1085"
-                    WIDTH="270"
-                    HEIGHT="96"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_5dcf0bb9"
                     TAGREFS="LT210"
                     BASELINE="640 1181 1288 1177" 
@@ -295,23 +278,6 @@
                     VPOS="1126"
                     WIDTH="649"
                     HEIGHT="71"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_a612a41d"
-                    TAGREFS="LT210"
-                    BASELINE="337 1216 584 1222" 
-                    HPOS="335"
-                    VPOS="1167"
-                    WIDTH="249"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="552 1169 533 1169 513 1169 498 1169 490 1173 472 1181 456 1175 437 1167 435 1167 415 1167 407 1175 407 1177 341 1177 337 1183 337 1216 335 1246 582 1238 584 1222 582 1171 556 1169 552 1169"/></Shape>
-	    <String CONTENT="priſy Aroo"
-                    HPOS="335"
-                    VPOS="1167"
-                    WIDTH="249"
-                    HEIGHT="79"></String>
           </TextLine>
 
           

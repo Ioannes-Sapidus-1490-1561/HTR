@@ -526,6 +526,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1249"
+                   VPOS="1807"
+                   WIDTH="174"
+                   HEIGHT="40"
+                   ID="eSc_textblock_811a1bf1"
+                   TAGREFS="BT674">
+          <Shape><Polygon POINTS="1423 1807 1409 1847 1249 1847 1249 1807"/></Shape>
+          
           
           <TextLine ID="eSc_line_eac71284"
                     TAGREFS="LT210"
@@ -534,7 +544,7 @@
                     VPOS="1778"
                     WIDTH="176"
                     HEIGHT="96">
-            <Shape><Polygon POINTS="1399 1794 1380 1786 1374 1782 1346 1778 1345 1778 1343 1778 1341 1778 1341 1780 1339 1780 1335 1788 1321 1786 1321 1788 1301 1788 1282 1788 1262 1790 1260 1790 1243 1796 1246 1841 1246 1853 1311 1874 1313 1874 1315 1874 1317 1874 1419 1843 1419 1831 1411 1810 1399 1794"/></Shape>
+            <Shape><Polygon POINTS="1380 1786 1374 1782 1346 1778 1345 1778 1343 1778 1341 1778 1341 1780 1339 1780 1335 1788 1321 1786 1321 1788 1301 1788 1282 1788 1262 1790 1260 1790 1243 1796 1246 1841 1246 1853 1311 1874 1313 1874 1315 1874 1317 1874 1419 1843 1419 1831 1411 1810 1399 1794"/></Shape>
 	    <String CONTENT="Sleſtadium"
                     HPOS="1243"
                     VPOS="1778"
@@ -552,16 +562,6 @@
                    ID="eSc_textblock_2dee1fbb"
                    TAGREFS="BT654">
           <Shape><Polygon POINTS="877 421 1127 423 1135 473 869 478"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1249"
-                   VPOS="1807"
-                   WIDTH="174"
-                   HEIGHT="40"
-                   ID="eSc_textblock_811a1bf1"
-                   TAGREFS="BT674">
-          <Shape><Polygon POINTS="1423 1807 1409 1847 1249 1847 1249 1807"/></Shape>
           
         </TextBlock>
         

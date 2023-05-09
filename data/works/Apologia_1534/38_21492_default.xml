@@ -50,6 +50,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="148.0"
+                   VPOS="501.0"
+                   WIDTH="788.0"
+                   HEIGHT="1329.0"
+                   ID="eSc_textblock_fd141a28"
+                   TAGREFS="BT651">
+          <Shape><Polygon POINTS="936 509 936 1823 642 1823 580 1830 164 1800 148 525 172 501 875 501"/></Shape>
+          
           
           <TextLine ID="eSc_line_a9681536"
                     TAGREFS="LT210"
@@ -518,16 +528,6 @@
                     HEIGHT="63"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="148.0"
-                   VPOS="501.0"
-                   WIDTH="788.0"
-                   HEIGHT="1329.0"
-                   ID="eSc_textblock_fd141a28"
-                   TAGREFS="BT651">
-          <Shape><Polygon POINTS="936 509 936 1823 642 1823 580 1830 164 1800 148 525 172 501 875 501"/></Shape>
           
         </TextBlock>
         
