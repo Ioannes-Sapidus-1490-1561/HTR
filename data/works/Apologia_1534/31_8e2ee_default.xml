@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -375,7 +375,7 @@
                     WIDTH="774"
                     HEIGHT="80">
             <Shape><Polygon POINTS="599 1488 599 1500 1370 1473 1372 1459 1366 1420 598 1447 599 1488"/></Shape>
-	    <String CONTENT="ſim contaminata in imperitorum manibus computre"
+	    <String CONTENT="ſim contaminata in imperitorum manibus computre£"
                     HPOS="598"
                     VPOS="1420"
                     WIDTH="774"
@@ -392,7 +392,7 @@
                     WIDTH="773"
                     HEIGHT="86">
             <Shape><Polygon POINTS="603 1535 603 1551 1372 1518 1374 1510 1368 1465 601 1494 603 1535"/></Shape>
-	    <String CONTENT="ſcerent, uitia tamen illa pro legibus accepta, ſuos ſin"
+	    <String CONTENT="ſcerent, uitia tamen illa pro legibus accepta, ſuos ſin£"
                     HPOS="601"
                     VPOS="1465"
                     WIDTH="773"

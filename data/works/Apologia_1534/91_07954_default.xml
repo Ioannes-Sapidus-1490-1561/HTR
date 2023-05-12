@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -25,44 +25,34 @@
                   WIDTH="1545"
                   HEIGHT="2351">
         
-        <TextBlock HPOS="823.0"
-                   VPOS="1559.0"
-                   WIDTH="327.0"
-                   HEIGHT="45.0"
-                   ID="eSc_textblock_307f8c3d"
+        <TextBlock HPOS="674"
+                   VPOS="1561"
+                   WIDTH="696"
+                   HEIGHT="176"
+                   ID="eSc_textblock_ae7a96b9"
                    TAGREFS="BT651">
-          <Shape><Polygon POINTS="1143 1567 1150 1596 823 1604 831 1559"/></Shape>
+          <Shape><Polygon POINTS="721 1737 674 1690 674 1645 729 1630 811 1561 1151 1562 1362 1630 1370 1675 1294 1690 1260 1737"/></Shape>
           
           
           <TextLine ID="eSc_line_52340475"
                     TAGREFS="LT213"
                     BASELINE="823 1596 1145 1592" 
-                    HPOS="823.0"
-                    VPOS="1559.0"
-                    WIDTH="322.0"
-                    HEIGHT="49.0">
+                    HPOS="823"
+                    VPOS="1559"
+                    WIDTH="322"
+                    HEIGHT="49">
             <Shape><Polygon POINTS="1115 1565 1096 1565 1076 1565 1056 1563 1037 1563 1017 1563 997 1563 978 1561 958 1561 939 1561 919 1561 899 1559 880 1559 860 1559 841 1559 831 1567 823 1596 823 1608 1143 1608 1145 1592 1143 1586 1135 1565"/></Shape>
 	    <String CONTENT="Maternus Hattenus."
-                    HPOS="823.0"
-                    VPOS="1559.0"
-                    WIDTH="322.0"
-                    HEIGHT="49.0"></String>
+                    HPOS="823"
+                    VPOS="1559"
+                    WIDTH="322"
+                    HEIGHT="49"></String>
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="674.0"
-                   VPOS="1622.0"
-                   WIDTH="696.0"
-                   HEIGHT="115.0"
-                   ID="eSc_textblock_ae7a96b9"
-                   TAGREFS="BT651">
-          <Shape><Polygon POINTS="721 1737 674 1690 674 1645 729 1630 1160 1622 1362 1630 1370 1675 1294 1690 1260 1737"/></Shape>
-          
           
           <TextLine ID="eSc_line_46a70145"
-                    TAGREFS="LT210"
+                    TAGREFS="LT410"
                     BASELINE="678 1682 897 1671 1356 1665" 
                     HPOS="676"
                     VPOS="1622"
@@ -79,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_2368811d"
-                    TAGREFS="LT210"
+                    TAGREFS="LT410"
                     BASELINE="719 1729 1262 1716" 
                     HPOS="717"
                     VPOS="1671"

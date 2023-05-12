@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -102,6 +102,23 @@
 
           
           
+          <TextLine ID="eSc_line_87609112"
+                    TAGREFS="LT211"
+                    BASELINE="172 945 435 950" 
+                    HPOS="158"
+                    VPOS="684"
+                    WIDTH="276"
+                    HEIGHT="287">
+            <Shape><Polygon POINTS="168 969 431 971 434 948 429 901 427 897 430 684 158 696 166 689 172 689 169 685 176 707 170 692 172 691 175 883 170 916 170 944"/></Shape>
+	    <String CONTENT="A"
+                    HPOS="158"
+                    VPOS="684"
+                    WIDTH="276"
+                    HEIGHT="287"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_c0abd100"
                     TAGREFS="LT210"
                     BASELINE="444 715 924 711" 
@@ -187,23 +204,6 @@
 
           
           
-          <TextLine ID="eSc_line_87609112"
-                    TAGREFS="LT211"
-                    BASELINE="172 945 435 950" 
-                    HPOS="158"
-                    VPOS="684"
-                    WIDTH="276"
-                    HEIGHT="287">
-            <Shape><Polygon POINTS="168 969 431 971 434 948 429 901 427 897 430 684 158 696 166 689 172 689 169 685 176 707 170 692 172 691 175 883 170 916 170 944"/></Shape>
-	    <String CONTENT="A"
-                    HPOS="158"
-                    VPOS="684"
-                    WIDTH="276"
-                    HEIGHT="287"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_8518b036"
                     TAGREFS="LT210"
                     BASELINE="450 956 922 961" 
@@ -212,7 +212,7 @@
                     WIDTH="474"
                     HEIGHT="57">
             <Shape><Polygon POINTS="450 956 448 969 918 971 922 961 920 926 450 914 450 956"/></Shape>
-	    <String CONTENT="boratam, anteacta ætate per an"
+	    <String CONTENT="boratam, anteacta ætate per an£"
                     HPOS="448"
                     VPOS="914"
                     WIDTH="474"
@@ -246,7 +246,7 @@
                     WIDTH="776"
                     HEIGHT="71">
             <Shape><Polygon POINTS="152 1055 150 1063 772 1085 773 1085 924 1073 926 1065 926 1028 152 1014 152 1055"/></Shape>
-	    <String CONTENT="temerè deſtitutam, iterum tentant apud ſummũ Pon"
+	    <String CONTENT="temerè deſtitutam, iterum tentant apud ſummũ Pon£"
                     HPOS="150"
                     VPOS="1014"
                     WIDTH="776"
@@ -263,7 +263,7 @@
                     WIDTH="774"
                     HEIGHT="57">
             <Shape><Polygon POINTS="152 1108 150 1126 920 1128 924 1118 922 1079 152 1071 152 1108"/></Shape>
-	    <String CONTENT="tificem, nulla eius, qua nunc grauißime uexatur, uale"
+	    <String CONTENT="tificem, nulla eius, qua nunc grauißime uexatur, uale£"
                     HPOS="150"
                     VPOS="1071"
                     WIDTH="774"
@@ -314,7 +314,7 @@
                     WIDTH="776"
                     HEIGHT="63">
             <Shape><Polygon POINTS="150 1261 148 1275 920 1285 924 1271 924 1232 150 1222 150 1261"/></Shape>
-	    <String CONTENT="tuis uiuimus, incipiamus, at ita exemplo reliquis fu"
+	    <String CONTENT="tuis uiuimus, incipiamus, at ita exemplo reliquis fu£"
                     HPOS="148"
                     VPOS="1222"
                     WIDTH="776"
@@ -365,7 +365,7 @@
                     WIDTH="774"
                     HEIGHT="59">
             <Shape><Polygon POINTS="154 1412 152 1430 922 1432 926 1420 926 1377 154 1373 154 1412"/></Shape>
-	    <String CONTENT="tuo unius iudicio, &amp; autoritate moti, libentißime fa"
+	    <String CONTENT="tuo unius iudicio, &amp; autoritate moti, libentißime fa£"
                     HPOS="152"
                     VPOS="1373"
                     WIDTH="774"
@@ -399,7 +399,7 @@
                     WIDTH="770"
                     HEIGHT="68">
             <Shape><Polygon POINTS="156 1514 154 1524 188 1535 190 1535 192 1535 382 1530 668 1543 670 1543 762 1535 793 1545 795 1545 797 1545 922 1535 924 1526 924 1488 156 1477 156 1514"/></Shape>
-	    <String CONTENT="ctrina, addam etiam probitate, &amp; ſapientia præſtan"
+	    <String CONTENT="ctrina, addam etiam probitate, &amp; ſapientia præſtan£"
                     HPOS="154"
                     VPOS="1477"
                     WIDTH="770"

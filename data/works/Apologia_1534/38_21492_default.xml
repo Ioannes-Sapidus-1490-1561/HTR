@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -137,7 +137,7 @@
                     WIDTH="776"
                     HEIGHT="71">
             <Shape><Polygon POINTS="154 734 152 750 924 760 928 748 928 711 821 699 819 699 634 705 601 705 599 705 579 695 578 695 576 695 413 701 384 701 366 699 268 689 266 689 154 695 154 734"/></Shape>
-	    <String CONTENT="ſilio, uel de plenitudine poteſtatis corrigit, tollit, con"
+	    <String CONTENT="ſilio, uel de plenitudine poteſtatis corrigit, tollit, con£"
                     HPOS="152"
                     VPOS="689"
                     WIDTH="776"
@@ -171,7 +171,7 @@
                     WIDTH="770"
                     HEIGHT="61">
             <Shape><Polygon POINTS="160 832 158 850 924 856 928 846 928 809 160 795 160 832"/></Shape>
-	    <String CONTENT="ea pro lege habẽtur. Summi uero Legumlatoris præ"
+	    <String CONTENT="ea pro lege habẽtur. Summi uero Legumlatoris præ£"
                     HPOS="158"
                     VPOS="795"
                     WIDTH="770"
@@ -273,7 +273,7 @@
                     WIDTH="774"
                     HEIGHT="76">
             <Shape><Polygon POINTS="158 1134 156 1153 656 1155 699 1159 844 1171 846 1171 928 1161 930 1151 930 1114 158 1095 158 1134"/></Shape>
-	    <String CONTENT="ximi pontifices exhibuere. Placuit enim Iulio aliquan"
+	    <String CONTENT="ximi pontifices exhibuere. Placuit enim Iulio aliquan£"
                     HPOS="156"
                     VPOS="1095"
                     WIDTH="774"
@@ -324,7 +324,7 @@
                     WIDTH="774"
                     HEIGHT="80">
             <Shape><Polygon POINTS="158 1285 156 1304 926 1320 930 1302 930 1267 158 1240 158 1285"/></Shape>
-	    <String CONTENT="libus alijs, placet maioribus, at minoribus Sacerdo"
+	    <String CONTENT="libus alijs, placet maioribus, at minoribus Sacerdo£"
                     HPOS="156"
                     VPOS="1240"
                     WIDTH="774"
@@ -341,7 +341,7 @@
                     WIDTH="780"
                     HEIGHT="78">
             <Shape><Polygon POINTS="154 1338 152 1351 821 1371 822 1371 930 1361 932 1351 932 1316 387 1295 386 1295 384 1295 360 1304 270 1293 268 1293 154 1300 154 1338"/></Shape>
-	    <String CONTENT="tibus. Et nos alia Concilia, quæ tamen nulla ſunt, mo"
+	    <String CONTENT="tibus. Et nos alia Concilia, quæ tamen nulla ſunt, mo£"
                     HPOS="152"
                     VPOS="1293"
                     WIDTH="780"

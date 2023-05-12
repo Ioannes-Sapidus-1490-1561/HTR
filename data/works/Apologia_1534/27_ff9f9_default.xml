@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -120,7 +120,7 @@
                     WIDTH="773"
                     HEIGHT="63">
             <Shape><Polygon POINTS="656 693 656 705 1423 709 1427 687 1423 650 654 646 656 693"/></Shape>
-	    <String CONTENT="Iege ſancitum, receptum à maioribus, uſu inſuper ac"
+	    <String CONTENT="Iege ſancitum, receptum à maioribus, uſu inſuper ac£"
                     HPOS="654"
                     VPOS="646"
                     WIDTH="773"
@@ -375,7 +375,7 @@
                     WIDTH="776"
                     HEIGHT="47">
             <Shape><Polygon POINTS="645 1453 645 1465 1421 1465 1421 1453 1421 1418 645 1418 645 1453"/></Shape>
-	    <String CONTENT="cus reliquetur. Sed nimium ceſſamus. Age age nos no"
+	    <String CONTENT="cus reliquetur. Sed nimium ceſſamus. Age age nos no£"
                     HPOS="645"
                     VPOS="1418"
                     WIDTH="776"
@@ -392,7 +392,7 @@
                     WIDTH="782"
                     HEIGHT="53">
             <Shape><Polygon POINTS="643 1504 641 1516 1421 1516 1423 1508 1421 1467 643 1463 643 1504"/></Shape>
-	    <String CONTENT="ſtras cõtra copias inducamus, tormentũ́ illud prin"
+	    <String CONTENT="ſtras cõtra copias inducamus, tormentũ́ illud prin£"
                     HPOS="641"
                     VPOS="1463"
                     WIDTH="782"
@@ -460,7 +460,7 @@
                     WIDTH="778"
                     HEIGHT="55">
             <Shape><Polygon POINTS="645 1706 643 1720 1419 1720 1421 1710 1419 1673 645 1665 645 1706"/></Shape>
-	    <String CONTENT="negare poſſumus, propterea quod aliquot ab hinc an"
+	    <String CONTENT="negare poſſumus, propterea quod aliquot ab hinc an£"
                     HPOS="643"
                     VPOS="1665"
                     WIDTH="778"

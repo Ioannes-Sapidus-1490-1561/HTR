@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -25,17 +25,17 @@
                   WIDTH="1546"
                   HEIGHT="2351">
         
-        <TextBlock HPOS="181"
-                   VPOS="515"
-                   WIDTH="863"
-                   HEIGHT="1321"
-                   ID="eSc_textblock_b6dff66a"
+        <TextBlock HPOS="138"
+                   VPOS="559"
+                   WIDTH="895"
+                   HEIGHT="1176"
+                   ID="eSc_textblock_841e2149"
                    TAGREFS="BT655">
-          <Shape><Polygon POINTS="181 515 181 1836 1044 1836 1044 515"/></Shape>
+          <Shape><Polygon POINTS="138 559 138 1735 1033 1735 1033 559"/></Shape>
           
           
           <TextLine ID="eSc_line_91e9d09a"
-                    TAGREFS="LT210"
+                    TAGREFS="LT213"
                     BASELINE="220 702 983 704" 
                     HPOS="217"
                     VPOS="583"
@@ -52,14 +52,14 @@
           
           
           <TextLine ID="eSc_line_9fa561fa"
-                    TAGREFS="LT210"
+                    TAGREFS="LT213"
                     BASELINE="264 748 924 754" 
                     HPOS="260"
                     VPOS="703"
                     WIDTH="662"
                     HEIGHT="68">
             <Shape><Polygon POINTS="262 746 260 754 918 771 922 752 920 709 262 703 262 746"/></Shape>
-	    <String CONTENT="IOAN. PIERII VALERIANI BE"
+	    <String CONTENT="IOAN. PIERII VALERIANI BE£"
                     HPOS="260"
                     VPOS="703"
                     WIDTH="662"
@@ -69,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_b0ab3a16"
-                    TAGREFS="LT210"
+                    TAGREFS="LT213"
                     BASELINE="321 801 883 805" 
                     HPOS="317"
                     VPOS="750"
@@ -86,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_5f94e22c"
-                    TAGREFS="LT210"
+                    TAGREFS="LT213"
                     BASELINE="442 856 762 856" 
                     HPOS="440"
                     VPOS="807"
@@ -103,7 +103,7 @@
           
           
           <TextLine ID="eSc_line_4f114672"
-                    TAGREFS="LT210"
+                    TAGREFS="LT213"
                     BASELINE="237 1108 971 1118" 
                     HPOS="233"
                     VPOS="1059"
@@ -120,7 +120,7 @@
           
           
           <TextLine ID="eSc_line_f81d1577"
-                    TAGREFS="LT210"
+                    TAGREFS="LT213"
                     BASELINE="344 1167 869 1173" 
                     HPOS="340"
                     VPOS="1124"
@@ -137,7 +137,7 @@
           
           
           <TextLine ID="eSc_line_631b308c"
-                    TAGREFS="LT210"
+                    TAGREFS="LT213"
                     BASELINE="433 1224 764 1224" 
                     HPOS="431"
                     VPOS="1177"
@@ -160,7 +160,7 @@
                     VPOS="1418"
                     WIDTH="660"
                     HEIGHT="82">
-            <Shape><Polygon POINTS="272 1477 270 1498 926 1500 930 1483 930 1432 676 1420 674 1420 534 1430 495 1432 485 1430 448 1418 446 1418 444 1418 442 1418 413 1430 409 1430 272 1430 272 1477"/></Shape>
+            <Shape><Polygon POINTS="270 1498 926 1500 930 1483 930 1432 676 1420 674 1420 534 1430 495 1432 485 1430 448 1418 446 1418 444 1418 442 1418 413 1430 409 1430 272 1430 272 1477"/></Shape>
 	    <String CONTENT="ARGENTINAE EX OFFICINA"
                     HPOS="270"
                     VPOS="1418"
@@ -177,7 +177,7 @@
                     VPOS="1485"
                     WIDTH="388"
                     HEIGHT="60">
-            <Shape><Polygon POINTS="413 1534 411 1545 797 1545 799 1537 799 1496 772 1485 770 1485 768 1485 413 1490 413 1534"/></Shape>
+            <Shape><Polygon POINTS="411 1545 797 1545 799 1537 799 1496 772 1485 770 1485 768 1485 413 1490 413 1534"/></Shape>
 	    <String CONTENT="IOAN. ALBERTI."
                     HPOS="411"
                     VPOS="1485"
@@ -194,7 +194,7 @@
                     VPOS="1541"
                     WIDTH="540"
                     HEIGHT="77">
-            <Shape><Polygon POINTS="337 1594 337 1608 875 1618 877 1594 875 1545 640 1555 630 1549 621 1543 619 1543 617 1543 615 1543 613 1543 611 1543 603 1551 597 1557 505 1557 499 1553 482 1541 480 1541 478 1541 384 1541 382 1541 380 1541 337 1555 337 1594"/></Shape>
+            <Shape><Polygon POINTS="337 1608 875 1618 877 1594 875 1545 640 1555 630 1549 621 1543 619 1543 617 1543 615 1543 613 1543 611 1543 603 1551 597 1557 505 1557 499 1553 482 1541 480 1541 478 1541 384 1541 382 1541 380 1541 337 1555 337 1594"/></Shape>
 	    <String CONTENT="ANNO M. D. XXXIIII."
                     HPOS="337"
                     VPOS="1541"
@@ -211,7 +211,7 @@
                     VPOS="1600"
                     WIDTH="319"
                     HEIGHT="69">
-            <Shape><Polygon POINTS="456 1645 456 1659 773 1669 775 1645 775 1606 456 1600 456 1645"/></Shape>
+            <Shape><Polygon POINTS="456 1659 773 1669 775 1645 775 1606 456 1600 456 1645"/></Shape>
 	    <String CONTENT="MENSE FEBR."
                     HPOS="456"
                     VPOS="1600"

@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -222,7 +222,7 @@
                     WIDTH="775"
                     HEIGHT="70">
             <Shape><Polygon POINTS="605 1046 605 1055 1378 1036 1378 1030 1372 985 603 1007 605 1046"/></Shape>
-	    <String CONTENT="tauerimus, maxime uereor, ne atrocius, &amp; implaca"
+	    <String CONTENT="tauerimus, maxime uereor, ne atrocius, &amp; implaca£"
                     HPOS="603"
                     VPOS="985"
                     WIDTH="775"
@@ -239,7 +239,7 @@
                     WIDTH="777"
                     HEIGHT="65">
             <Shape><Polygon POINTS="605 1095 605 1103 1378 1087 1380 1079 1374 1038 603 1048 605 1095"/></Shape>
-	    <String CONTENT="bilius ille mox indignatus nobis ita ſuccenſeat, ut nul"
+	    <String CONTENT="bilius ille mox indignatus nobis ita ſuccenſeat, ut nul£"
                     HPOS="603"
                     VPOS="1038"
                     WIDTH="777"
@@ -273,7 +273,7 @@
                     WIDTH="777"
                     HEIGHT="68">
             <Shape><Polygon POINTS="1307 1136 1288 1136 1268 1136 1248 1136 1229 1136 1209 1138 1196 1138 1190 1142 1162 1138 1150 1138 1131 1138 1111 1138 1109 1138 1105 1144 1103 1144 1031 1140 1013 1140 994 1140 974 1140 954 1140 946 1140 939 1148 903 1140 896 1142 876 1142 874 1142 852 1150 850 1150 847 1150 799 1142 797 1142 778 1142 768 1151 766 1151 762 1151 701 1144 699 1144 680 1144 674 1144 617 1153 603 1199 603 1204 1378 1193 1380 1181 1376 1140 1311 1136 1307 1136"/></Shape>
-	    <String CONTENT="à nobis luminibus, ſit omnes calamitatum habenas re"
+	    <String CONTENT="à nobis luminibus, ſit omnes calamitatum habenas re£"
                     HPOS="603"
                     VPOS="1136"
                     WIDTH="777"

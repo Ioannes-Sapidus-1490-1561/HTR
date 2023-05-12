@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -25,40 +25,13 @@
                   WIDTH="1545"
                   HEIGHT="2351">
         
-        <TextBlock HPOS="615"
-                   VPOS="623"
-                   WIDTH="111"
-                   HEIGHT="107"
-                   ID="eSc_textblock_5b59733e"
-                   TAGREFS="BT650">
-          <Shape><Polygon POINTS="615 623 615 730 726 730 726 623"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_1df54763"
-                    TAGREFS="LT211"
-                    BASELINE="632 723 718 724" 
-                    HPOS="631"
-                    VPOS="623"
-                    WIDTH="86"
-                    HEIGHT="119">
-            <Shape><Polygon POINTS="690 623 670 623 650 623 631 623 631 722 631 742 717 742 717 722 715 623 709 623"/></Shape>
-	    <String CONTENT="H"
-                    HPOS="631"
-                    VPOS="623"
-                    WIDTH="86"
-                    HEIGHT="119"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="621"
+        <TextBlock HPOS="620"
                    VPOS="493"
-                   WIDTH="788"
+                   WIDTH="789"
                    HEIGHT="1033"
                    ID="eSc_textblock_a8b9df02"
                    TAGREFS="BT651">
-          <Shape><Polygon POINTS="1215 562 1197 601 1394 611 1409 1291 1378 1369 1254 1439 1205 1518 862 1526 815 1494 805 1447 666 1392 627 1330 621 740 725 739 728 623 839 609 813 570 721 562 737 493 1276 493 1284 546"/></Shape>
+          <Shape><Polygon POINTS="1215 562 1197 601 1394 611 1409 1291 1378 1369 1254 1439 1205 1518 862 1526 815 1494 805 1447 666 1392 627 1330 621 740 620 623 728 623 839 609 813 570 721 562 737 493 1276 493 1284 546"/></Shape>
           
           
           <TextLine ID="eSc_line_05efbd06"
@@ -95,6 +68,23 @@
 
           
           
+          <TextLine ID="eSc_line_1df54763"
+                    TAGREFS="LT211"
+                    BASELINE="632 723 718 724" 
+                    HPOS="631"
+                    VPOS="623"
+                    WIDTH="86"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="690 623 670 623 650 623 631 623 631 722 631 742 717 742 717 722 715 623 709 623"/></Shape>
+	    <String CONTENT="H"
+                    HPOS="631"
+                    VPOS="623"
+                    WIDTH="86"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_b7ce276d"
                     TAGREFS="LT210"
                     BASELINE="713 664 1384 650" 
@@ -103,7 +93,7 @@
                     WIDTH="673"
                     HEIGHT="72">
             <Shape><Polygon POINTS="1358 609 1339 607 1319 607 1299 605 1280 605 1272 607 1266 609 811 609 809 611 790 613 770 615 750 619 731 621 711 623 713 664 713 677 1384 658 1384 650 1380 609 1378 609"/></Shape>
-	    <String CONTENT="Abe tibi tandẽ, mi ſuauißime Hattene, Barbã,"
+	    <String CONTENT="abe tibi tandẽ, mi suauißime Hattene, Barbã,"
                     HPOS="711"
                     VPOS="605"
                     WIDTH="673"
@@ -137,7 +127,7 @@
                     WIDTH="771"
                     HEIGHT="78">
             <Shape><Polygon POINTS="719 722 699 728 680 728 660 730 641 730 639 722 621 722 623 764 623 779 1390 758 1392 750 1384 701 1350 711 1225 705 1199 705 1197 705 1196 705 1190 707 1164 715 1117 709 1099 707 1097 707 1084 709 1050 717 1013 711 988 709 986 709 723 719 719 722"/></Shape>
-	    <String CONTENT="tuarum à me impetratas: quas octauo abhinc, ut opi"
+	    <String CONTENT="tuarum à me impetratas: quas octauo abhinc, ut opi£"
                     HPOS="621"
                     VPOS="701"
                     WIDTH="771"
@@ -171,7 +161,7 @@
                     WIDTH="769"
                     HEIGHT="82">
             <Shape><Polygon POINTS="621 867 621 883 1388 863 1388 848 1382 801 619 820 621 867"/></Shape>
-	    <String CONTENT="ſem, ad Paulum Volſium mihi longo tempore mul"
+	    <String CONTENT="ſem, ad Paulum Volſium mihi longo tempore mul£"
                     HPOS="619"
                     VPOS="801"
                     WIDTH="769"
@@ -239,7 +229,7 @@
                     WIDTH="772"
                     HEIGHT="70">
             <Shape><Polygon POINTS="1054 1008 1043 1008 1027 1016 715 1014 713 1014 623 1026 625 1065 625 1077 1395 1055 1395 1048 1392 1010 1070 1007 1054 1008"/></Shape>
-	    <String CONTENT="adieci, quod ideo feci, ne tu tibi ex alienis ineptijs ma"
+	    <String CONTENT="adieci, quod ideo feci, ne tu tibi ex alienis ineptijs ma£"
                     HPOS="623"
                     VPOS="1007"
                     WIDTH="772"
@@ -511,6 +501,16 @@
                     HEIGHT="76"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="604"
+                   VPOS="622"
+                   WIDTH="123"
+                   HEIGHT="109"
+                   ID="eSc_textblock_f8209e9f"
+                   TAGREFS="BT650">
+          <Shape><Polygon POINTS="604 622 604 731 727 731 727 622"/></Shape>
           
         </TextBlock>
         

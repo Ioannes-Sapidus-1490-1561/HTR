@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -103,7 +103,7 @@
                     WIDTH="777"
                     HEIGHT="69">
             <Shape><Polygon POINTS="850 597 848 597 811 607 805 607 794 607 678 599 676 599 674 599 654 607 656 650 656 660 1429 658 1431 640 1425 591 933 605 913 603 852 597 850 597"/></Shape>
-	    <String CONTENT="ribus́ figuramus Paulo, qui noſtræ dubio procul ui"
+	    <String CONTENT="ribus́ figuramus Paulo, qui noſtræ dubio procul ui£"
                     HPOS="654"
                     VPOS="591"
                     WIDTH="777"
@@ -120,7 +120,7 @@
                     WIDTH="779"
                     HEIGHT="65">
             <Shape><Polygon POINTS="1194 644 1192 644 1166 654 980 646 978 646 956 646 946 648 931 648 652 658 654 699 654 709 1429 703 1431 693 1427 654 1196 644 1194 644"/></Shape>
-	    <String CONTENT="tæ magiſter fuit, cuius́ ſapientißimis inſtitutis liben"
+	    <String CONTENT="tæ magiſter fuit, cuius́ ſapientißimis inſtitutis liben£"
                     HPOS="652"
                     VPOS="644"
                     WIDTH="779"
@@ -188,7 +188,7 @@
                     WIDTH="777"
                     HEIGHT="62">
             <Shape><Polygon POINTS="656 903 656 912 1431 905 1431 897 1425 850 884 862 848 862 709 854 707 854 654 863 656 903"/></Shape>
-	    <String CONTENT="At leue dicent argumentum eſt, Chriſti &amp; eius comi"
+	    <String CONTENT="At leue dicent argumentum eſt, Chriſti &amp; eius comi£"
                     HPOS="654"
                     VPOS="850"
                     WIDTH="777"
@@ -256,7 +256,7 @@
                     WIDTH="775"
                     HEIGHT="65">
             <Shape><Polygon POINTS="658 1106 658 1120 1429 1112 1431 1103 1425 1055 656 1067 658 1106"/></Shape>
-	    <String CONTENT="quere, non negabitis tamen communem hunc morta"
+	    <String CONTENT="quere, non negabitis tamen communem hunc morta£"
                     HPOS="656"
                     VPOS="1055"
                     WIDTH="775"
@@ -375,7 +375,7 @@
                     WIDTH="777"
                     HEIGHT="69">
             <Shape><Polygon POINTS="652 1465 652 1473 1229 1479 1231 1479 1399 1477 1401 1477 1427 1465 1427 1457 1423 1420 1231 1410 1229 1410 1227 1410 1203 1420 1199 1420 1037 1412 1035 1412 1033 1412 1013 1422 1001 1422 843 1414 841 1414 650 1424 652 1465"/></Shape>
-	    <String CONTENT="namentũ afferre. Ita gentiles, Deos quiſ ſuos eo ha"
+	    <String CONTENT="namentũ afferre. Ita gentiles, Deos quiſ ſuos eo ha£"
                     HPOS="650"
                     VPOS="1410"
                     WIDTH="777"
@@ -426,7 +426,7 @@
                     WIDTH="775"
                     HEIGHT="59">
             <Shape><Polygon POINTS="650 1616 650 1624 1423 1622 1425 1612 1421 1575 1035 1565 1033 1565 984 1575 980 1577 662 1577 650 1616"/></Shape>
-	    <String CONTENT="non Martem tantum, ſed &amp; alios Deos, Deas́ ple"
+	    <String CONTENT="non Martem tantum, ſed &amp; alios Deos, Deas́ ple£"
                     HPOS="650"
                     VPOS="1565"
                     WIDTH="775"

@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -25,10 +25,10 @@
                   WIDTH="1545"
                   HEIGHT="2351">
         
-        <TextBlock HPOS="619.0"
-                   VPOS="438.0"
-                   WIDTH="814.0"
-                   HEIGHT="1338.0"
+        <TextBlock HPOS="619"
+                   VPOS="438"
+                   WIDTH="814"
+                   HEIGHT="1338"
                    ID="eSc_textblock_0e7a9020"
                    TAGREFS="BT651">
           <Shape><Polygon POINTS="1394 438 1409 462 1433 1612 1394 1667 1221 1769 878 1776 650 1628 619 493 635 462 1215 438"/></Shape>
@@ -93,7 +93,7 @@
                     WIDTH="772"
                     HEIGHT="96">
             <Shape><Polygon POINTS="1272 583 1252 585 1250 585 1241 593 1199 589 1178 587 1174 587 1154 589 1141 589 1129 593 1105 599 1054 597 1017 595 997 595 978 597 966 597 954 603 946 605 941 603 929 599 919 599 905 599 899 605 896 609 817 611 811 609 797 605 782 605 770 605 758 613 756 615 627 619 629 660 629 675 696 666 788 670 801 670 803 670 1397 636 1399 628 1394 579 1341 589 1292 583 1272 583"/></Shape>
-	    <String CONTENT="poti Pontificis: an ultrò cauſæ acceſſerit neſcio:exiſti"
+	    <String CONTENT="poti Pontificis: an ultrò cauſæ acceſſerit neſcio:exiſti£"
                     HPOS="627"
                     VPOS="579"
                     WIDTH="772"
@@ -127,7 +127,7 @@
                     WIDTH="774"
                     HEIGHT="92">
             <Shape><Polygon POINTS="633 760 633 771 1223 758 1401 740 1403 726 1397 679 629 719 633 760"/></Shape>
-	    <String CONTENT="tiam, quid ſibi ſequendum ſuper barba uideretur, ui"
+	    <String CONTENT="tiam, quid ſibi ſequendum ſuper barba uideretur, ui£"
                     HPOS="629"
                     VPOS="679"
                     WIDTH="774"
@@ -144,7 +144,7 @@
                     WIDTH="770"
                     HEIGHT="100">
             <Shape><Polygon POINTS="635 809 639 834 654 824 711 830 721 830 723 830 725 830 727 830 727 828 747 818 762 828 764 828 766 828 768 828 770 828 772 828 774 826 790 816 858 822 888 824 890 824 1029 818 1031 818 1046 813 1060 807 1072 811 1086 816 1088 816 1090 816 1092 816 1094 816 1094 815 1096 815 1099 809 1103 805 1148 807 1217 811 1219 811 1221 811 1241 803 1250 799 1264 801 1295 807 1297 807 1299 807 1331 797 1333 797 1346 807 1348 807 1350 807 1352 807 1354 807 1403 793 1403 779 1397 734 633 766 635 809"/></Shape>
-	    <String CONTENT="ſus́ eſt præſtitiſſe, quod Pontifex &amp; Cardinales bar"
+	    <String CONTENT="ſus́ eſt præſtitiſſe, quod Pontifex &amp; Cardinales bar£"
                     HPOS="633"
                     VPOS="734"
                     WIDTH="770"
@@ -195,7 +195,7 @@
                     WIDTH="776"
                     HEIGHT="84">
             <Shape><Polygon POINTS="635 963 635 971 778 975 780 975 829 963 837 961 890 961 1203 958 1205 958 1207 958 1207 956 1215 948 1217 948 1221 948 1260 956 1262 956 1407 940 1409 932 1403 891 633 922 635 963"/></Shape>
-	    <String CONTENT="uti offenſus uideretur. Debebit oratio ea tanto gra"
+	    <String CONTENT="uti offenſus uideretur. Debebit oratio ea tanto gra£"
                     HPOS="633"
                     VPOS="891"
                     WIDTH="776"
@@ -331,7 +331,7 @@
                     WIDTH="780"
                     HEIGHT="86">
             <Shape><Polygon POINTS="1131 1300 1111 1300 1105 1304 1099 1312 1054 1312 1041 1308 1025 1302 1013 1304 1011 1304 1003 1310 997 1314 984 1310 958 1304 954 1306 937 1306 868 1316 843 1320 829 1318 776 1312 774 1312 772 1312 731 1324 727 1324 723 1324 656 1316 654 1316 652 1316 650 1316 641 1322 645 1369 645 1377 1419 1347 1421 1340 1415 1291 1209 1306 1162 1302 1135 1298 1131 1300"/></Shape>
-	    <String CONTENT="liabit lectori, quod ille octauo ab hinc anno poſt occi"
+	    <String CONTENT="liabit lectori, quod ille octauo ab hinc anno poſt occi£"
                     HPOS="641"
                     VPOS="1291"
                     WIDTH="780"

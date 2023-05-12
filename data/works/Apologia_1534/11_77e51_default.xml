@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT650" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT651" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT652" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT653" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT654" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT655" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT673" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT674" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT786" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
-    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT210" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT211" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT212" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT213" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT410" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
   <Layout>
@@ -171,7 +171,7 @@
                     WIDTH="776"
                     HEIGHT="71">
             <Shape><Polygon POINTS="648 844 648 854 1421 840 1423 830 1417 783 647 803 648 844"/></Shape>
-	    <String CONTENT="quartum eorumn uſus reperitur. Adduxit hos ex Sici"
+	    <String CONTENT="quartum eorumn uſus reperitur. Adduxit hos ex Sici£"
                     HPOS="647"
                     VPOS="783"
                     WIDTH="776"
@@ -273,7 +273,7 @@
                     WIDTH="777"
                     HEIGHT="70">
             <Shape><Polygon POINTS="652 1150 652 1155 1427 1140 1427 1134 1421 1085 650 1104 652 1150"/></Shape>
-	    <String CONTENT="caruit, de́ cultu eius, non modo Romano, ſed ne mi"
+	    <String CONTENT="caruit, de́ cultu eius, non modo Romano, ſed ne mi£"
                     HPOS="650"
                     VPOS="1085"
                     WIDTH="777"
@@ -324,7 +324,7 @@
                     WIDTH="773"
                     HEIGHT="67">
             <Shape><Polygon POINTS="892 1247 872 1247 852 1247 833 1247 813 1249 794 1249 774 1249 760 1249 656 1257 658 1298 658 1314 1427 1296 1429 1287 1425 1247 911 1247 892 1247"/></Shape>
-	    <String CONTENT="nulla unquàm Romano populo maioris momenti cre"
+	    <String CONTENT="nulla unquàm Romano populo maioris momenti cre£"
                     HPOS="656"
                     VPOS="1247"
                     WIDTH="773"
@@ -460,7 +460,7 @@
                     WIDTH="773"
                     HEIGHT="79">
             <Shape><Polygon POINTS="666 1706 666 1722 1435 1708 1437 1692 1435 1653 1407 1643 1405 1643 1403 1643 664 1661 666 1706"/></Shape>
-	    <String CONTENT="paratus, luxum́  frequentißimis Antiquorum auda"
+	    <String CONTENT="paratus, luxum́  frequentißimis Antiquorum auda£"
                     HPOS="664"
                     VPOS="1643"
                     WIDTH="773"
