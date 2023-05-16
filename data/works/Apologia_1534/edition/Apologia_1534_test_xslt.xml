@@ -5,40 +5,39 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Édition numérique de la <span rend="italic">Sylua epistolaris seu Barba</span> de <persName ref="#Sap" full="yes">Johann Sapidus</persName>.
-                        </title>
+            <title>Édition numérique de la <span rend="italic">Sylua epistolaris seu Barba</span> de <persName ref="#Sap">Johann Sapidus</persName>.</title>
             <author xml:id="MJT">
-               <persName full="yes">
-                  <forename full="yes">Marie</forename>
-                  <surname full="yes">Jeannot-Tirole</surname>
+               <persName>
+                  <forename>Marie</forename>
+                  <surname>Jeannot-Tirole</surname>
                   <ptr type="orcid" target="0000-0002-6607-653X"/>
                </persName>
             </author>
             <respStmt>
                <resp>Transcription, segmentation, édition</resp>
-               <persName ref="#MJT" full="yes"/>
+               <persName ref="#MJT"/>
             </respStmt>
             <respStmt>
                <resp>Scripts de conversion du format ALTO vers TEI</resp>
-               <persName xml:id="PJ" full="yes">
-                  <forename full="yes">Pauline</forename>
-                  <surname full="yes">Jacsont</surname>
+               <persName xml:id="PJ">
+                  <forename>Pauline</forename>
+                  <surname>Jacsont</surname>
                   <ptr type="orcid" target="0000-0002-6296-3246"/>
                </persName>
-               <persName xml:id="EP" full="yes">
-                  <forename full="yes">Elodie</forename>
-                  <surname full="yes">Paupe</surname>
+               <persName xml:id="EP">
+                  <forename>Elodie</forename>
+                  <surname>Paupe</surname>
                </persName>
-               <persName xml:id="SG" full="yes">
-                  <forename full="yes">Simon</forename>
-                  <surname full="yes">Gabay</surname>
+               <persName xml:id="SG">
+                  <forename>Simon</forename>
+                  <surname>Gabay</surname>
                   <ptr type="orcid" target="0000-0001-9094-4475"/>
                </persName>
-               <persName ref="#MJT" full="yes"/>
+               <persName ref="#MJT"/>
             </respStmt>
             <respStmt>
                <resp>Scripts de conversion du format TEI vers txt et HTML</resp>
-               <persName ref="#MJT" full="yes"/>
+               <persName ref="#MJT"/>
             </respStmt>
          </titleStmt>
          <extent>
@@ -62,24 +61,24 @@
             <bibl default="false" status="draft">
                <ptr target="https://opendata2.uni-halle.de//handle/1516514412012/177"/>
                <author xml:id="Sapidus">
-                  <persName full="yes">
-                     <forename full="yes" xml:lang="lat">Ioannes</forename>
-                     <surname full="yes" xml:lang="lat">Sapidus</surname>
-                     <forename full="yes" xml:lang="all">Hans</forename>
-                     <surname full="yes" xml:lang="all">Witz</surname>
+                  <persName>
+                     <forename xml:lang="lat">Ioannes</forename>
+                     <surname xml:lang="lat">Sapidus</surname>
+                     <forename xml:lang="all">Hans</forename>
+                     <surname xml:lang="all">Witz</surname>
                      <ptr type="isni" target="0000 0000 7244 0292"/>
                   </persName>
                </author>
                <title>APOLOGIA IOAN. PIERII VALERIANI BElunen. Medicum famniliæ Rhetoris. Pro Sacerdotum Barbis. SYLVA EPISTOLARIS SEV BARba loan. Sapidi, propter argumenti cognationem adiecta.</title>
                <pubPlace ref="#GeoNames:2973783">Strasbourg</pubPlace>
                <publisher xml:id="Albrecht">
-                  <persName full="yes">
-                     <forename full="yes" xml:lang="lat">Ioannes</forename>
-                     <surname full="yes" xml:lang="lat">Albertus</surname>
-                     <forename full="yes" xml:lang="all">Hans</forename>
-                     <surname full="yes" xml:lang="all">Geisser</surname>
-                     <forename full="yes" xml:lang="fr">Johann</forename>
-                     <surname full="yes" xml:lang="fr">Albrecht</surname>
+                  <persName>
+                     <forename xml:lang="lat">Ioannes</forename>
+                     <surname xml:lang="lat">Albertus</surname>
+                     <forename xml:lang="all">Hans</forename>
+                     <surname xml:lang="all">Geisser</surname>
+                     <forename xml:lang="fr">Johann</forename>
+                     <surname xml:lang="fr">Albrecht</surname>
                      <ptr type="isni" target="0000 0000 7244 0292"/>
                   </persName>
                </publisher>
@@ -139,7 +138,7 @@
          <change when="2023-05-12" who="#MJT" status="draft">Conversion ALTO to TEI</change>
       </revisionDesc>
    </teiHeader>
-   <sourceDoc>
+   <sourceDoc> <!-- comme iiif mal conçu, je dois mettre chaque url à la main, attention, fausses url pour le moment -->
       <surface xml:id="f4_93d6d_default"
                ulx="0"
                uly="0"
