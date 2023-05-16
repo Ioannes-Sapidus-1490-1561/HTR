@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Apologia_1534">
-   <teiHeader>
+   <teiHeader>     <!-- pour PART="N" enlever TEI xmlns quand on transforme et modifier xslt en conséquence, sinon script en BASH avec rechercher-remplacer dans le fichier -->
       <fileDesc>
          <titleStmt>
             <title>Édition numérique de la <span rend="italic">Sylua epistolaris seu Barba</span> de <persName ref="#Sap">Johann Sapidus</persName>.</title>
@@ -41,7 +41,7 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="images" n="87">87 pages avec du contenu textuel. Nous n'avons pas intégré les pages vierges de l'édition.</measure>
+            <measure unit="images" n="88">88 pages, dont 86 seulement avec du contenu textuel (le folio A i v° ne comprend qu'une StampZone et le folio .</measure>
             <measure unit="XML-line" n=""/>
          </extent>
          <publicationStmt>
@@ -138,7 +138,7 @@
          <change when="2023-05-12" who="#MJT" status="draft">Conversion ALTO to TEI</change>
       </revisionDesc>
    </teiHeader>
-   <sourceDoc> <!-- comme iiif mal conçu, je dois mettre chaque url à la main, attention, fausses url pour le moment -->
+   <sourceDoc> <!-- comme iiif mal conçu, je dois mettre chaque url à la main, attention, fausses url pour le moment-->
       <surface xml:id="f4_93d6d_default"
                ulx="0"
                uly="0"
@@ -288,6 +288,19 @@
                <line xml:id="f4_93d6d_default_eSc_line_eb6afc4d12">MENSE FEBR.</line>
             </zone>
          </zone>
+      </surface>
+      <surface xml:id="f05" ulx="0" uly="0" lrx="657" lry="999">
+         <graphic url="https://opendata2.uni-halle.de//iiif-imgsrv/ark:/fdefault/full/full/0/native.jpg"/>
+         <zone xml:id="f05_eSc_textblock_eefa5012"
+            type="StampZone"
+            n="1"
+            ulx="336"
+            uly="475"
+            lrx="124"
+            lry="110"
+            points="336,475 336,585 460,585 460,475 "
+            source="https://opendata2.uni-halle.de//iiif-imgsrv//336,475,124,110/full/0/default.jpg"
+            rotate="0"/>
       </surface>
       <surface xml:id="f6_55c4f_default"
                ulx="0"
@@ -31419,43 +31432,31 @@
                   <orig>APOLOGIA</orig>
                   <reg>APOLOGIA</reg>
                </choice>
-            </hi>
-            <hi>
                <lb corresp="#f4_93d6d_default_eSc_line_9fa561fa3" type="OCRline"/>
                <choice>
                   <orig>IOAN. PIERII VALERIANI BE£</orig>
                   <reg>IOAN. PIERII VALERIANI BE£</reg>
                </choice>
-            </hi>
-            <hi>
                <lb corresp="#f4_93d6d_default_eSc_line_b0ab3a164" type="OCRline"/>
                <choice>
                   <orig>lunen. Medicum famniliæ Rhetoris. Pro</orig>
                   <reg>lunen. Medicum famniliæ Rhetoris. Pro</reg>
                </choice>
-            </hi>
-            <hi>
                <lb corresp="#f4_93d6d_default_eSc_line_5f94e22c5" type="OCRline"/>
                <choice>
                   <orig>Sacerdotum Barbis.</orig>
                   <reg>Sacerdotum Barbis.</reg>
                </choice>
-            </hi>
-            <hi>
                <lb corresp="#f4_93d6d_default_eSc_line_4f1146726" type="OCRline"/>
                <choice>
                   <orig>SYLVA EPISTOLARIS SEV BAR¬</orig>
                   <reg>SYLVA EPISTOLARIS SEV BAR¬</reg>
                </choice>
-            </hi>
-            <hi>
                <lb corresp="#f4_93d6d_default_eSc_line_f81d15777" type="OCRline"/>
                <choice>
                   <orig>ba loan. Sapidi, propter argumenti</orig>
                   <reg>ba loan. Sapidi, propter argumenti</reg>
                </choice>
-            </hi>
-            <hi>
                <lb corresp="#f4_93d6d_default_eSc_line_631b308c8" type="OCRline"/>
                <choice>
                   <orig>cognationem adiecta.</orig>
@@ -39038,7 +39039,7 @@
                <reg>D 3</reg>
             </choice>
          </fw>
-         <graphic corresp="#f56_bd994_default_eSc_textblock_9cc4f27c" type="GraphicZone"/>
+         <graphic corresp="#f56_bd994_default_eSc_textblock_9cc4f27c" type="GraphicZone" url="https://opendata2.uni-halle.de//iiif-imgsrv//308,692,521,904/full/0/default.jpg"/>
          <pb corresp="f57_1757c_default"/>
          <ab corresp="#f57_1757c_default_eSc_textblock_a8b9df02"
              type="MainZone"
@@ -39220,7 +39221,7 @@
          <ab corresp="#f58_f831b_default_eSc_textblock_abed43ef"
              type="MainZone"
              part="N">
-            <l n="1" xml:id="v1" part="N">
+            <l n="1" xml:id="v1">
                <hi>
                   <lb corresp="#f58_f831b_default_eSc_line_5c4a057d2" type="OCRline"/>
                   <choice>
@@ -45021,7 +45022,32 @@
                </choice>
             </l>
          </ab>
-         <fw corresp="#f86_74215_default_eSc_textblock_629fec51"
+         <ab corresp="#f86_74215_default_eSc_textblock_7253212a"
+               type="MainZone"
+               part="N">
+               <hi>
+                  <lb corresp="#f86_74215_default_eSc_line_706ff5d12" type="OCRline"/>
+                  <choice>
+                     <orig>BARBA LOQVITVR.</orig>
+                     <reg instant="false">BARBA LOQVITVR.</reg>
+                  </choice>
+               </hi>
+               <l n="1" xml:id="p2v1" part="N">
+                  <lb corresp="#f86_74215_default_eSc_line_161e55d93" type="OCRline"/>
+                  <choice>
+                     <orig>A Sapido tanta ſum dexteritate probata,</orig>
+                     <reg instant="false">A Sapido tanta ſum dexteritate probata,</reg>
+                  </choice>
+               </l>
+               <l n="2" xml:id="p2v2" part="N">
+                  <lb corresp="#f86_74215_default_eSc_line_635a878d5" type="OCRline"/>
+                  <choice>
+                     <orig>Vt me fœminæus ferre uel ordo uelit.</orig>
+                     <reg instant="false">Vt me fœminæus ferre uel ordo uelit.</reg>
+                  </choice>
+               </l>
+            </ab>
+            <fw corresp="#f86_74215_default_eSc_textblock_629fec51"
              type="QuireMarksZone">
             <lb corresp="#f86_74215_default_eSc_line_bdfd7d372" type="OCRline"/>
             <choice>
@@ -45031,9 +45057,6 @@
          </fw>
          <fw corresp="#f86_74215_default_eSc_textblock_aa8328a8"
              type="RunningTitleZone"/>
-         <ab corresp="#f86_74215_default_eSc_textblock_440923b1"
-             type="MainZone"
-             part="N"/>
          <pb corresp="f87_98050_default"/>
          <ab corresp="#f87_98050_default_eSc_textblock_624fac75"
              type="MainZone"
@@ -45605,7 +45628,7 @@
                </choice>
             </l>
          </ab>
-         <graphic corresp="#f91_07954_default_eSc_textblock_2afddcde" type="GraphicZone"/>
+         <graphic corresp="#f91_07954_default_eSc_textblock_2afddcde" type="GraphicZone" url="https://opendata2.uni-halle.de//iiif-imgsrv//710,606,609,940/full/0/default.jpg"/>
       </body>
    </text>
 </TEI>
