@@ -1,45 +1,12 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: Data repository for HTR model training
-url: https://github.com/Johann-Sapidus-1490-1561/HTR
 authors:
 - name: Marie
-  surname: Jeannot-Tirole
   orcid: 0000-0002-6607-653X
   roles:
   - transcriber
   - aligner
   - project-manager
-institutions: []
-description: HTR dataset about Johann Sapidus (1490-1561)
-language:
-- lat
-production-software: eScriptorium + Kraken
-script:
-- iso: Latn
-script-type: mainly-typed
-time:
-  notBefore: '1500'
-  notAfter: '1567'
-hands:
-  count: 1-per-folder
-  precision: exact
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-volume:
-- metric: characters
-  count: 199532
-- metric: files
-  count: 199
-- metric: lines
-  count: 5341
-- metric: regions
-  count: 609
-citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
-transcription-guidelines: "\xE0 compl\xE9ter\nMettre donn\xE9es"
+  surname: Jeannot-Tirole
 characters:
-  mode: NFD
   members:
   - i
   - e
@@ -50,7 +17,7 @@ characters:
   - n
   - o
   - m
-  - "\u017F"
+  - ſ
   - s
   - c
   - l
@@ -63,83 +30,111 @@ characters:
   - g
   - f
   - h
-  - "\xE6"
-  - "\uE8BF"
-  - A
+  - æ
+  - 
   - I
-  - "\u0303"
-  - "\xAC"
+  - A
   - S
+  - ̃
+  - ¬
   - x
-  - "\u0301"
-  - '&'
   - E
+  - ́
+  - '&'
   - N
-  - "\u0300"
   - P
+  - ̀
   - C
-  - D
   - Q
+  - D
   - V
   - R
-  - "\xA3"
-  - "\xDF"
   - O
-  - j
-  - B
+  - £
   - M
   - H
-  - ':'
+  - ß
+  - j
+  - B
   - T
-  - "\u0153"
+  - ':'
+  - œ
   - L
   - '?'
   - y
   - F
   - G
+  - v
   - (
   - )
-  - X
-  - v
   - '1'
-  - '3'
-  - '4'
-  - "\uE68B"
-  - "\u0308"
-  - '5'
-  - '2'
+  - X
   - '0'
+  - 
+  - '3'
+  - '5'
+  - '4'
+  - '2'
   - z
   - '9'
-  - "\u0302"
+  - ̂
+  - ̈
+  - ̨
   - '7'
-  - "\u0328"
+  - ̧
+  - ꝵ
   - Y
-  - J
-  - "\u0327"
-  - "\uA751"
-  - k
   - '6'
   - '8'
+  - J
+  - ꝑ
+  - k
   - '-'
   - Z
-  - "\uA775"
-  - "\uA759"
-  - "\u2019"
-  - ;
-  - "\u03B1"
-  - "\uA757"
-  - "\u0304"
-  - "\uA753"
-  - "\u2079"
+  - α
+  - ꝓ
+  - ⁹
   - W
   - K
-  - "\u03B4"
-  - "\u03B9"
-  - "\u03C0"
-  - "\u03C3"
-  - "\u03C9"
-  - "\u03BD"
-  - "\u03C2"
-  - "\uA770"
-  - "\u0127"
+  - ’
+  - ꝙ
+  - ;
+  - δ
+  - ι
+  - π
+  - σ
+  - ω
+  - ν
+  mode: NFD
+citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
+description: HTR dataset about Johann Sapidus (1490-1561)
+format: Alto-XML
+hands:
+  count: 1-per-folder
+  precision: exact
+institutions: []
+language:
+- lat
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+script:
+- iso: Latn
+script-type: mainly-typed
+time:
+  notAfter: '1567'
+  notBefore: '1500'
+title: Data repository for HTR model training
+transcription-guidelines: "à compléter\nMettre données"
+url: https://github.com/Johann-Sapidus-1490-1561/HTR
+volume:
+- count: 110325
+  metric: characters
+- count: 111
+  metric: files
+- count: 2981
+  metric: lines
+- count: 334
+  metric: regions
