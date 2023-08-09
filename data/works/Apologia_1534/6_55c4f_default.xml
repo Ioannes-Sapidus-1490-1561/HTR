@@ -59,7 +59,7 @@
                     WIDTH="648"
                     HEIGHT="80">
             <Shape><Polygon POINTS="789 462 787 462 728 472 724 472 721 472 674 460 672 460 670 460 574 470 509 458 507 458 505 458 476 468 376 456 260 456 258 456 256 456 254 456 252 456 237 501 237 505 235 521 540 521 564 527 579 532 581 532 723 534 724 536 826 536 826 534 828 534 830 534 846 525 877 534 883 513 881 474 805 474 805 472 793 462 791 462"/></Shape>
-	    <String CONTENT="ſis Iacobo Schenckio luriſconſulto, Impe¬"
+	    <String CONTENT="ſis Iacobo Schenckio Iuriſconſulto, Impe¬"
                     HPOS="235"
                     VPOS="456"
                     WIDTH="648"
@@ -382,7 +382,7 @@
                     WIDTH="774"
                     HEIGHT="78">
             <Shape><Polygon POINTS="168 1420 166 1430 323 1445 936 1457 940 1441 940 1400 168 1379 168 1420"/></Shape>
-	    <String CONTENT="menti. Sed quum paulò poſt profectio lmperatoris in"
+	    <String CONTENT="menti. Sed quum paulò poſt profectio Imperatoris in"
                     HPOS="166"
                     VPOS="1379"
                     WIDTH="774"
