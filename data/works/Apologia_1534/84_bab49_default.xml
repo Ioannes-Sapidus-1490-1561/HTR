@@ -188,7 +188,7 @@
                     WIDTH="717"
                     HEIGHT="55">
             <Shape><Polygon POINTS="866 840 846 826 842 822 160 820 160 860 158 875 873 875 875 863 866 840 866 840"/></Shape>
-	    <String CONTENT="Nam, die promißum abitum præuerterat una,"
+                  <String CONTENT="Nam die promißum abitum præuerterat una,"
                     HPOS="158"
                     VPOS="820"
                     WIDTH="717"

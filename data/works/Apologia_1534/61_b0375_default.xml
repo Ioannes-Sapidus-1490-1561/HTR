@@ -205,7 +205,7 @@
                     WIDTH="687"
                     HEIGHT="59">
             <Shape><Polygon POINTS="1268 934 1248 934 1233 934 1088 940 1076 934 1072 934 1052 934 1033 934 1025 934 978 942 915 934 915 934 896 934 876 934 870 934 862 942 843 934 837 934 817 934 815 934 796 944 601 934 603 983 603 993 1286 989 1288 977 1282 934 1268 934"/></Shape>
-	    <String CONTENT="Ad nomen pallor ſubit ora ſed hæc ea certe eſt"
+	    <String CONTENT="Ad nomen pallor ſubit ora : ſed hæc ea certe eſt"
                     HPOS="601"
                     VPOS="934"
                     WIDTH="687"
@@ -392,7 +392,7 @@
                     WIDTH="741"
                     HEIGHT="61">
             <Shape><Polygon POINTS="1327 1496 964 1488 962 1488 960 1488 931 1498 680 1490 678 1490 594 1500 596 1539 596 1549 1333 1545 1335 1535 1333 1520 1327 1496"/></Shape>
-	    <String CONTENT="Quæ longum memorare foret, nimium́, moleſtũ."
+	    <String CONTENT="Quæ longum memorare foret, nimium́ moleſtũ."
                     HPOS="594"
                     VPOS="1488"
                     WIDTH="741"
