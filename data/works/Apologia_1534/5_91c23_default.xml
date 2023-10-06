@@ -5,8 +5,8 @@
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
-      <fileName>default.jpg</fileName>
-      
+      <fileName>5_91c23_default.jpg</fileName>
+      <fileIdentifier>https://opendata2.uni-halle.de//iiif-imgsrv/88aba62c-7082-4bca-a480-036698a07f35/!0!41!51!59!41515946091772900069199377957358146866/full/full/0/default.jpg</fileIdentifier>
     </sourceImageInformation>
   </Description>
   
@@ -16,22 +16,22 @@
   </Tags>
   
   <Layout>
-    <Page WIDTH="657"
-          HEIGHT="999"
+    <Page WIDTH="1545"
+          HEIGHT="2351"
           PHYSICAL_IMG_NR="1"
           ID="eSc_dummypage_">
       <PrintSpace HPOS="0"
                   VPOS="0"
-                  WIDTH="657"
-                  HEIGHT="999">
+                  WIDTH="1545"
+                  HEIGHT="2351">
         
-        <TextBlock HPOS="336"
-                   VPOS="475"
-                   WIDTH="124"
-                   HEIGHT="110"
-                   ID="eSc_textblock_eefa5012"
+        <TextBlock HPOS="807"
+                   VPOS="1125"
+                   WIDTH="267"
+                   HEIGHT="257"
+                   ID="eSc_textblock_20fb4d8f"
                    TAGREFS="BT786">
-          <Shape><Polygon POINTS="336 475 336 585 460 585 460 475"/></Shape>
+          <Shape><Polygon POINTS="807 1125 807 1382 1074 1382 1074 1125"/></Shape>
           
         </TextBlock>
         
