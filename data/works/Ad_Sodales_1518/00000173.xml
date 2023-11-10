@@ -34,23 +34,6 @@
           <Shape><Polygon POINTS="1117 298 1101 349 1115 437 1247 468 1262 517 1093 563 1137 656 1101 722 1035 759 1095 790 1306 804 1291 912 1174 993 1020 1044 475 1037 241 912 182 832 226 738 168 642 168 212 278 119 1099 142 1112 147 1210 145 1203 268"/></Shape>
           
           
-          <TextLine ID="eSc_line_dbc0db5e"
-                    TAGREFS="LT543"
-                    BASELINE="279 109 1079 120" 
-                    HPOS="278"
-                    VPOS="65"
-                    WIDTH="801"
-                    HEIGHT="64">
-            <Shape><Polygon POINTS="1064 65 1046 65 1028 65 1009 65 991 65 973 65 954 65 936 65 918 65 899 65 881 65 863 65 845 65 826 65 808 65 790 65 771 65 753 65 735 65 717 65 698 65 680 65 662 65 643 65 625 65 607 65 589 65 570 65 552 65 534 65 515 65 497 65 479 65 460 65 442 65 424 65 406 65 387 65 369 65 351 65 332 65 314 65 296 65 279 65 279 109 278 115 1075 129 1079 120 1077 71 1064 65"/></Shape>
-	    <String CONTENT="IO. SAPIDVS AD SODALES."
-                    HPOS="278"
-                    VPOS="65"
-                    WIDTH="801"
-                    HEIGHT="64"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_f85507ba"
                     TAGREFS="LT544"
                     BASELINE="234 182 1205 201" 
@@ -290,6 +273,33 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="275"
+                   VPOS="53"
+                   WIDTH="808"
+                   HEIGHT="72"
+                   ID="eSc_textblock_eb6a7c56"
+                   TAGREFS="BT1483">
+          <Shape><Polygon POINTS="275 53 275 125 1083 125 1083 53"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_dbc0db5e"
+                    TAGREFS="LT543"
+                    BASELINE="279 109 1079 120" 
+                    HPOS="278"
+                    VPOS="65"
+                    WIDTH="801"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1046 65 1028 65 1009 65 991 65 973 65 954 65 936 65 918 65 899 65 881 65 863 65 845 65 826 65 808 65 790 65 771 65 753 65 735 65 717 65 698 65 680 65 662 65 643 65 625 65 607 65 589 65 570 65 552 65 534 65 515 65 497 65 479 65 460 65 442 65 424 65 406 65 387 65 369 65 351 65 332 65 314 65 296 65 279 65 279 109 278 115 1075 129 1079 120 1077 71 1064 65"/></Shape>
+	    <String CONTENT="IO. SAPIDVS AD SODALES."
+                    HPOS="278"
+                    VPOS="65"
+                    WIDTH="801"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
         <TextBlock HPOS="150"
                    VPOS="1080"
                    WIDTH="1192"
@@ -333,23 +343,6 @@
 
           
           
-          <TextLine ID="eSc_line_b29e6122"
-                    
-                    BASELINE="428 1287 1333 1302" 
-                    HPOS="426"
-                    VPOS="1220"
-                    WIDTH="907"
-                    HEIGHT="109">
-            <Shape><Polygon POINTS="1306 1232 1293 1227 1265 1238 1254 1229 1254 1227 1253 1227 1251 1227 1170 1225 1168 1225 1167 1225 1165 1225 1165 1227 1152 1238 1150 1240 1146 1238 1121 1231 1119 1231 1117 1231 1115 1231 1113 1231 1113 1232 1108 1238 1106 1238 1104 1238 1086 1223 1084 1223 1082 1223 971 1221 969 1221 967 1221 965 1221 958 1225 958 1229 953 1229 947 1232 940 1238 881 1238 517 1223 501 1223 482 1223 481 1221 428 1220 428 1287 426 1300 506 1295 541 1304 565 1311 567 1311 568 1311 596 1306 632 1296 643 1306 649 1311 651 1311 653 1311 654 1311 695 1307 764 1298 799 1307 835 1318 837 1318 839 1318 903 1309 947 1304 998 1311 1028 1315 1029 1315 1031 1315 1033 1315 1037 1311 1044 1307 1053 1311 1084 1324 1086 1324 1088 1324 1139 1313 1143 1313 1145 1313 1220 1329 1221 1329 1331 1315 1333 1302 1333 1262 1324 1240"/></Shape>
-	    <String CONTENT="Heluetiæ decus æternũ Glareane, ꝓbatis"
-                    HPOS="426"
-                    VPOS="1220"
-                    WIDTH="907"
-                    HEIGHT="109"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_0f1d9c66"
                     TAGREFS="LT546"
                     BASELINE="175 1343 420 1353" 
@@ -363,6 +356,23 @@
                     VPOS="1101"
                     WIDTH="256"
                     HEIGHT="259"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b29e6122"
+                    
+                    BASELINE="428 1287 1333 1302" 
+                    HPOS="426"
+                    VPOS="1220"
+                    WIDTH="907"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1306 1232 1293 1227 1265 1238 1254 1229 1254 1227 1253 1227 1251 1227 1170 1225 1168 1225 1167 1225 1165 1225 1165 1227 1152 1238 1150 1240 1146 1238 1121 1231 1119 1231 1117 1231 1115 1231 1113 1231 1113 1232 1108 1238 1106 1238 1104 1238 1086 1223 1084 1223 1082 1223 971 1221 969 1221 967 1221 965 1221 958 1225 958 1229 953 1229 947 1232 940 1238 881 1238 517 1223 501 1223 482 1223 481 1221 428 1220 428 1287 426 1300 506 1295 541 1304 565 1311 567 1311 568 1311 596 1306 632 1296 643 1306 649 1311 651 1311 653 1311 654 1311 695 1307 764 1298 799 1307 835 1318 837 1318 839 1318 903 1309 947 1304 998 1311 1028 1315 1029 1315 1031 1315 1033 1315 1037 1311 1044 1307 1053 1311 1084 1324 1086 1324 1088 1324 1139 1313 1143 1313 1145 1313 1220 1329 1221 1329 1331 1315 1333 1302 1333 1262 1324 1240"/></Shape>
+	    <String CONTENT="Heluetiæ decus æternũ Glareane, ꝓbatis"
+                    HPOS="426"
+                    VPOS="1220"
+                    WIDTH="907"
+                    HEIGHT="109"></String>
           </TextLine>
 
           
@@ -502,6 +512,43 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1278"
+                   VPOS="73"
+                   WIDTH="115"
+                   HEIGHT="64"
+                   ID="eSc_textblock_1553a3e9"
+                   TAGREFS="BT1485">
+          <Shape><Polygon POINTS="1386 80 1393 137 1278 137 1293 73"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_857e06dd"
+                    TAGREFS="LT543"
+                    BASELINE="1289 124 1384 124" 
+                    HPOS="1289"
+                    VPOS="73"
+                    WIDTH="95"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1362 78 1344 76 1326 74 1318 73 1304 73 1289 85 1289 124 1289 153 1382 164 1384 124 1382 85 1381 78"/></Shape>
+	    <String CONTENT="167"
+                    HPOS="1289"
+                    VPOS="73"
+                    WIDTH="95"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1083"
+                   VPOS="1824"
+                   WIDTH="250"
+                   HEIGHT="66"
+                   ID="eSc_textblock_5f781ccb"
+                   TAGREFS="BT1486">
+          <Shape><Polygon POINTS="1333 1890 1333 1824 1083 1824 1083 1890"/></Shape>
+          
           
           <TextLine ID="eSc_line_b3e465a4"
                     TAGREFS="LT543"
@@ -521,43 +568,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1278"
-                   VPOS="73"
-                   WIDTH="115"
-                   HEIGHT="64"
-                   ID="eSc_textblock_1553a3e9"
-                   TAGREFS="BT1485">
-          <Shape><Polygon POINTS="1386 80 1393 137 1278 137 1293 73"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_857e06dd"
-                    TAGREFS="LT543"
-                    BASELINE="1289 124 1384 124" 
-                    HPOS="1289"
-                    VPOS="73"
-                    WIDTH="95"
-                    HEIGHT="91">
-            <Shape><Polygon POINTS="1381 78 1362 78 1344 76 1326 74 1318 73 1304 73 1289 85 1289 124 1289 153 1382 164 1384 124 1382 85 1381 78"/></Shape>
-	    <String CONTENT="167"
-                    HPOS="1289"
-                    VPOS="73"
-                    WIDTH="95"
-                    HEIGHT="91"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="275"
-                   VPOS="53"
-                   WIDTH="808"
-                   HEIGHT="72"
-                   ID="eSc_textblock_eb6a7c56"
-                   TAGREFS="BT1483">
-          <Shape><Polygon POINTS="275 53 275 125 1083 125 1083 53"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="164"
                    VPOS="1092"
                    WIDTH="267"
@@ -565,16 +575,6 @@
                    ID="eSc_textblock_a163ad56"
                    TAGREFS="BT1484">
           <Shape><Polygon POINTS="164 1092 164 1369 431 1369 431 1092"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1083"
-                   VPOS="1824"
-                   WIDTH="250"
-                   HEIGHT="66"
-                   ID="eSc_textblock_5f781ccb"
-                   TAGREFS="BT1486">
-          <Shape><Polygon POINTS="1333 1890 1333 1824 1083 1824 1083 1890"/></Shape>
           
         </TextBlock>
         
