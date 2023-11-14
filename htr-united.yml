@@ -133,11 +133,11 @@ title: Data repository for HTR model training
 transcription-guidelines: "à compléter\nMettre données"
 url: https://github.com/Johann-Sapidus-1490-1561/HTR
 volume:
-- count: 116297
+- count: 116401
   metric: characters
-- count: 118
+- count: 119
   metric: files
-- count: 3212
+- count: 3219
   metric: lines
-- count: 361
+- count: 364
   metric: regions
