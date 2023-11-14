@@ -95,23 +95,6 @@
 
           
           
-          <TextLine ID="eSc_line_58f0a6df"
-                    TAGREFS="LT272"
-                    BASELINE="563 417 862 423" 
-                    HPOS="561"
-                    VPOS="356"
-                    WIDTH="301"
-                    HEIGHT="91">
-            <Shape><Polygon POINTS="561 433 734 431 742 435 770 447 772 447 774 447 776 447 815 435 831 447 833 447 835 447 837 447 839 447 841 447 860 433 862 423 862 372 770 360 768 360 715 368 689 370 681 366 663 356 661 356 659 356 563 362 563 417"/></Shape>
-	    <String CONTENT="gonis curiæ."
-                    HPOS="561"
-                    VPOS="356"
-                    WIDTH="301"
-                    HEIGHT="91"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_3eabc858"
                     TAGREFS="LT573"
                     BASELINE="143 500 1241 506" 
@@ -125,6 +108,23 @@
                     VPOS="427"
                     WIDTH="1100"
                     HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58f0a6df"
+                    TAGREFS="LT272"
+                    BASELINE="563 417 862 423" 
+                    HPOS="561"
+                    VPOS="356"
+                    WIDTH="301"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="561 433 734 431 742 435 770 447 772 447 774 447 776 447 815 435 831 447 833 447 835 447 837 447 839 447 841 447 860 433 862 423 862 372 770 360 768 360 715 368 689 370 681 366 663 356 661 356 659 356 563 362 563 417"/></Shape>
+	    <String CONTENT="gonis curiæ."
+                    HPOS="561"
+                    VPOS="356"
+                    WIDTH="301"
+                    HEIGHT="91"></String>
           </TextLine>
 
           
