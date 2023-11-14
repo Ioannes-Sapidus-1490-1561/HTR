@@ -26,12 +26,12 @@
                   HEIGHT="2356">
         
         <TextBlock HPOS="319"
-                   VPOS="70"
+                   VPOS="72"
                    WIDTH="753"
-                   HEIGHT="103"
+                   HEIGHT="101"
                    ID="eSc_textblock_bc3ef044"
                    TAGREFS="BT783">
-          <Shape><Polygon POINTS="353 70 1033 86 1072 173 319 147 319 72"/></Shape>
+          <Shape><Polygon POINTS="342 74 1033 86 1072 173 319 166 319 72"/></Shape>
           
           
           <TextLine ID="eSc_line_7b2ca924"
