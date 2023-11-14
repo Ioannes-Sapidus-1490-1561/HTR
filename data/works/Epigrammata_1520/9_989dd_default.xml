@@ -453,16 +453,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1343"
-                   VPOS="1933"
-                   WIDTH="22"
-                   HEIGHT="22"
-                   ID="eSc_textblock_3ea8bf20"
-                   >
-          <Shape><Polygon POINTS="1343 1955 1351 1933 1365 1941 1365 1955"/></Shape>
-          
-        </TextBlock>
-        
 
         
       </PrintSpace>
