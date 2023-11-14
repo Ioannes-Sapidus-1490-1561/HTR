@@ -25,49 +25,49 @@ characters:
   - ','
   - p
   - b
+  - q
   - .
   - g
-  - q
   - f
   - h
   - æ
-  - S
   - I
+  - S
   - A
   - 
-  - E
   - ̃
+  - E
   - x
-  - N
-  - P
-  - '&'
-  - D
   - ¬
-  - V
-  - C
-  - Q
-  - M
+  - N
+  - '&'
+  - P
   - ́
-  - R
+  - D
+  - C
+  - V
+  - Q
   - O
+  - R
+  - M
+  - ̀
   - T
   - H
-  - ̀
-  - j
   - £
+  - j
   - B
-  - L
   - ß
-  - œ
   - ':'
+  - L
+  - œ
   - y
   - G
-  - F
   - '?'
-  - ̨
-  - v
+  - F
   - ̧
+  - ̨
   - '1'
+  - v
   - (
   - )
   - '2'
@@ -78,44 +78,37 @@ characters:
   - '5'
   - '4'
   - '9'
-  - z
   - ̂
+  - z
   - '7'
   - ̈
   - J
   - '6'
-  - Æ
   - ꝵ
   - '8'
   - ꝑ
-  - Z
   - α
   - ꝓ
   - ⁹
   - Y
   - δ
   - ι
+  - Æ
   - ̆
   - k
   - '-'
+  - Z
   - π
   - σ
   - ω
   - ν
-  - ς
   - ←
   - W
   - K
   - ’
   - ꝙ
   - ;
-  - κ
-  - υ
-  - ͂
-  - λ
-  - ο
-  - ꝗ
-  - ꝟ
+  - ς
   - ƀ
   mode: NFD
 citation-file-link: https://github.com/Johann-Sapidus-1490-1561/HTR/blob/main/CITATION.cff
@@ -142,11 +135,11 @@ title: Data repository for HTR model training
 transcription-guidelines: "à compléter\nMettre données"
 url: https://github.com/Johann-Sapidus-1490-1561/HTR
 volume:
-- count: 158960
+- count: 134627
   metric: characters
-- count: 177
+- count: 144
   metric: files
-- count: 4626
+- count: 3824
   metric: lines
-- count: 498
+- count: 422
   metric: regions
