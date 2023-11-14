@@ -9,7 +9,7 @@ My thesis work concerns the Alsatian poem _Sylua epistolaris seu Barba_ written 
 ## Data
 
 The data is based on transcriptions that I have made. 
-I used the [eScriptorium](https://gitlab.com/scripta/escriptorium) interface from the [FoNDUE](https://github.com/FoNDUE-HTR/) project (University of Geneva) and the controlled segmentation vocabulary [Segmonto](https://segmonto.github.io/).
+I used  the controlled segmentation vocabulary [Segmonto](https://segmonto.github.io/) and the [eScriptorium](https://gitlab.com/scripta/escriptorium) interface from the [FoNDUE](https://github.com/FoNDUE-HTR/) project (University of Geneva). The computations were performed at University of Geneva using Baobab HPC service.
 For my aim, it was necessary to distinguish prose lines from verse. I therefore indicated the verses using the CustomLine.
 As long as my work is not finished, the repository will evolve. Please do not use the data until the repository has been finalised. If you want to use some datasets, please contact me.
 
