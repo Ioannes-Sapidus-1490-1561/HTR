@@ -463,13 +463,13 @@
           
           
           <TextLine ID="eSc_line_74b69a51"
-                    TAGREFS="LT573"
+                    TAGREFS="LT273"
                     BASELINE="1033 2001 1132 2005" 
                     HPOS="1029"
                     VPOS="1928"
                     WIDTH="102"
                     HEIGHT="102">
-            <Shape><Polygon POINTS="1031 1999 1029 2021 1078 2013 1125 2030 1131 2003 1129 1928 1089 1946 1033 1936 1031 1999"/></Shape>
+            <Shape><Polygon POINTS="1029 2021 1078 2013 1125 2030 1131 2003 1129 1928 1089 1946 1033 1936 1031 1999"/></Shape>
 	    <String CONTENT="b ij"
                     HPOS="1029"
                     VPOS="1928"

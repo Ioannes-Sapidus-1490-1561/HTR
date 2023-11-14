@@ -197,23 +197,6 @@
 
           
           
-          <TextLine ID="eSc_line_b2f9b8d5"
-                    
-                    BASELINE="678 850 1005 854" 
-                    HPOS="676"
-                    VPOS="783"
-                    WIDTH="329"
-                    HEIGHT="92">
-            <Shape><Polygon POINTS="676 869 838 864 870 868 924 875 926 875 1003 864 1005 854 1003 807 907 807 897 799 887 791 885 791 883 791 881 791 879 791 868 797 854 805 846 795 836 785 836 783 834 783 833 783 831 783 829 783 811 793 801 799 790 791 776 783 774 783 772 783 770 783 678 783 678 850"/></Shape>
-	    <String CONTENT="AD Lucam."
-                    HPOS="676"
-                    VPOS="783"
-                    WIDTH="329"
-                    HEIGHT="92"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_1e85e80a"
                     TAGREFS="LT573"
                     BASELINE="340 932 1186 932" 
@@ -226,6 +209,23 @@
                     HPOS="340"
                     VPOS="869"
                     WIDTH="846"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2f9b8d5"
+                    TAGREFS="LT272"
+                    BASELINE="678 850 1005 854" 
+                    HPOS="676"
+                    VPOS="783"
+                    WIDTH="329"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="676 869 838 864 870 868 924 875 926 875 1003 864 1005 854 1003 807 907 807 897 799 887 791 885 791 883 791 881 791 879 791 868 797 854 805 846 795 836 785 836 783 834 783 833 783 831 783 829 783 811 793 801 799 790 791 776 783 774 783 772 783 770 783 678 783 678 850"/></Shape>
+	    <String CONTENT="AD Lucam."
+                    HPOS="676"
+                    VPOS="783"
+                    WIDTH="329"
                     HEIGHT="92"></String>
           </TextLine>
 
@@ -283,7 +283,7 @@
           
           
           <TextLine ID="eSc_line_ad26a524"
-                    
+                    TAGREFS="LT272"
                     BASELINE="508 1259 1329 1262" 
                     HPOS="506"
                     VPOS="1186"
@@ -300,7 +300,7 @@
           
           
           <TextLine ID="eSc_line_d063fff0"
-                    
+                    TAGREFS="LT272"
                     BASELINE="498 1321 1263 1329" 
                     HPOS="496"
                     VPOS="1260"
@@ -312,23 +312,6 @@
                     VPOS="1260"
                     WIDTH="767"
                     HEIGHT="90"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_0c6ce998"
-                    
-                    BASELINE="641 1401 1093 1409" 
-                    HPOS="639"
-                    VPOS="1335"
-                    WIDTH="454"
-                    HEIGHT="92">
-            <Shape><Polygon POINTS="639 1419 1089 1427 1093 1409 1093 1360 991 1360 987 1358 960 1343 958 1343 956 1343 954 1343 919 1356 917 1356 915 1356 848 1337 846 1337 719 1335 717 1335 641 1350 641 1401"/></Shape>
-	    <String CONTENT="AD MAtutinum."
-                    HPOS="639"
-                    VPOS="1335"
-                    WIDTH="454"
-                    HEIGHT="92"></String>
           </TextLine>
 
           
@@ -346,6 +329,23 @@
                     VPOS="1419"
                     WIDTH="733"
                     HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c6ce998"
+                    TAGREFS="LT272"
+                    BASELINE="641 1401 1093 1409" 
+                    HPOS="639"
+                    VPOS="1335"
+                    WIDTH="454"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="639 1419 1089 1427 1093 1409 1093 1360 991 1360 987 1358 960 1343 958 1343 956 1343 954 1343 919 1356 917 1356 915 1356 848 1337 846 1337 719 1335 717 1335 641 1350 641 1401"/></Shape>
+	    <String CONTENT="AD MAtutinum."
+                    HPOS="639"
+                    VPOS="1335"
+                    WIDTH="454"
+                    HEIGHT="92"></String>
           </TextLine>
 
           
@@ -402,7 +402,7 @@
           
           
           <TextLine ID="eSc_line_7bc8809f"
-                    
+                    TAGREFS="LT272"
                     BASELINE="629 1796 960 1796" 
                     HPOS="629"
                     VPOS="1732"

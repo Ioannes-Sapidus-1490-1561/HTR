@@ -469,7 +469,7 @@
                     VPOS="1942"
                     WIDTH="106"
                     HEIGHT="85">
-            <Shape><Polygon POINTS="1086 2003 1086 2025 1186 2027 1188 1999 1184 1942 1082 1942 1086 2003"/></Shape>
+            <Shape><Polygon POINTS="1086 2025 1186 2027 1188 1999 1184 1942 1082 1942 1086 2003"/></Shape>
 	    <String CONTENT="c iij"
                     HPOS="1082"
                     VPOS="1942"
