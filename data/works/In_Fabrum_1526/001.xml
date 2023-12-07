@@ -391,7 +391,24 @@
 
           
           
-          <TextLine ID="eSc_line_a3e1dbe4"
+                <TextLine ID="eSc_line_b4de68c9"
+                        TAGREFS="LT548"
+                        BASELINE="363 1189 508 1187" 
+                        HPOS="362"
+                        VPOS="1145"
+                        WIDTH="146"
+                        HEIGHT="55">
+                        <Shape><Polygon POINTS="464 1147 452 1146 439 1146 426 1146 424 1145 362 1151 363 1189 363 1200 508 1196 508 1187 505 1150 482 1147 477 1147"/></Shape>
+                        <String CONTENT="ALIVD"
+                                HPOS="362"
+                                VPOS="1145"
+                                WIDTH="146"
+                                HEIGHT="55"></String>
+                </TextLine>
+                
+                
+                
+                <TextLine ID="eSc_line_a3e1dbe4"
                     TAGREFS="LT574"
                     BASELINE="159 1223 446 1234 785 1231" 
                     HPOS="158"
@@ -404,23 +421,6 @@
                     VPOS="1183"
                     WIDTH="627"
                     HEIGHT="65"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_b4de68c9"
-                    TAGREFS="LT548"
-                    BASELINE="363 1189 508 1187" 
-                    HPOS="362"
-                    VPOS="1145"
-                    WIDTH="146"
-                    HEIGHT="55">
-            <Shape><Polygon POINTS="464 1147 452 1146 439 1146 426 1146 424 1145 362 1151 363 1189 363 1200 508 1196 508 1187 505 1150 482 1147 477 1147"/></Shape>
-	    <String CONTENT="ALIVD"
-                    HPOS="362"
-                    VPOS="1145"
-                    WIDTH="146"
-                    HEIGHT="55"></String>
           </TextLine>
 
           
