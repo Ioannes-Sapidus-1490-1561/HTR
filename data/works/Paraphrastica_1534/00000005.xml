@@ -5,16 +5,13 @@
   <Description>
     <MeasurementUnit>pixel</MeasurementUnit>
     <sourceImageInformation>
-      <fileName>00000005(1).jpg</fileName>
-      
+      <fileName>00000005.jpg</fileName>
     </sourceImageInformation>
   </Description>
-  
   <Tags>
-    <OtherTag ID="BT1536" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1537" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1540" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
-    <OtherTag ID="LT583" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT584" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT585" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/>
   </Tags>
-  
   <Layout>
     <Page WIDTH="1206"
           HEIGHT="1706"
@@ -24,39 +21,188 @@
                   VPOS="0"
                   WIDTH="1206"
                   HEIGHT="1706">
-        
-        <TextBlock HPOS="302"
-                   VPOS="293"
-                   WIDTH="573"
-                   HEIGHT="830"
-                   ID="eSc_textblock_6f3a4616"
-                   TAGREFS="BT1536">
-          <Shape><Polygon POINTS="302 293 302 1123 875 1123 875 293"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="124"
-                   VPOS="50"
-                   WIDTH="920"
-                   HEIGHT="1451"
-                   ID="eSc_textblock_70051594"
-                   TAGREFS="BT1540">
-          <Shape><Polygon POINTS="124 50 124 1501 1044 1501 1044 50"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="77"
-                   VPOS="17"
-                   WIDTH="1052"
-                   HEIGHT="1454"
+        <TextBlock HPOS="77.0"
+                   VPOS="17.0"
+                   WIDTH="1052.0"
+                   HEIGHT="1454.0"
                    ID="eSc_textblock_f061539f"
-                   TAGREFS="BT1537">
+                   TAGREFS="BT22">
           <Shape><Polygon POINTS="77 17 77 1471 1129 1471 1129 17"/></Shape>
-          
         </TextBlock>
-        
-
-        
+        <TextBlock HPOS="302.0"
+                   VPOS="293.0"
+                   WIDTH="573.0"
+                   HEIGHT="830.0"
+                   ID="eSc_textblock_6f3a4616"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="302 293 302 1123 875 1123 875 293"/></Shape>
+                <TextLine ID="eSc_line_046410b6"
+                        BASELINE="315 423 877 421" 
+                        HPOS="315"
+                        VPOS="421"
+                        WIDTH="562"
+                        HEIGHT="2">
+                        <String CONTENT="IOANNIS"
+                                HPOS="315"
+                                VPOS="421"
+                                WIDTH="562"
+                                HEIGHT="2"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_985ae388"
+                        BASELINE="342 481 865 481" 
+                        HPOS="342"
+                        VPOS="481"
+                        WIDTH="523"
+                        HEIGHT="0">
+                        <String CONTENT="CAMPENSIS PARAPHRA"
+                                HPOS="342"
+                                VPOS="481"
+                                WIDTH="523"
+                                HEIGHT="0"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_60150c04"
+                        BASELINE="388 525 819 532" 
+                        HPOS="388"
+                        VPOS="525"
+                        WIDTH="431"
+                        HEIGHT="7">
+                        <String CONTENT="ſtica interpretatio in Eccleſia¬"
+                                HPOS="388"
+                                VPOS="525"
+                                WIDTH="431"
+                                HEIGHT="7"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_3f2a54b1"
+                        BASELINE="450 569 757 578" 
+                        HPOS="450"
+                        VPOS="569"
+                        WIDTH="307"
+                        HEIGHT="9">
+                        <String CONTENT="ſten, iuxta Hebraicã"
+                                HPOS="450"
+                                VPOS="569"
+                                WIDTH="307"
+                                HEIGHT="9"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_8c357a7b"
+                        BASELINE="532 620 671 622" 
+                        HPOS="532"
+                        VPOS="620"
+                        WIDTH="139"
+                        HEIGHT="2">
+                        <String CONTENT="ueritatem."
+                                HPOS="532"
+                                VPOS="620"
+                                WIDTH="139"
+                                HEIGHT="2"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_6b682880"
+                        BASELINE="422 722 777 722" 
+                        HPOS="422"
+                        VPOS="722"
+                        WIDTH="355"
+                        HEIGHT="0">
+                        <String CONTENT="IOAN. SAPIDVS."
+                                HPOS="422"
+                                VPOS="722"
+                                WIDTH="355"
+                                HEIGHT="0"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_d388fb6b"
+                        BASELINE="335 783 857 788" 
+                        HPOS="335"
+                        VPOS="783"
+                        WIDTH="522"
+                        HEIGHT="5">
+                        <String CONTENT="Vana quod humanis dominetur opi¬"
+                                HPOS="335"
+                                VPOS="783"
+                                WIDTH="522"
+                                HEIGHT="5"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_fb1d173a"
+                        BASELINE="413 832 558 836" 
+                        HPOS="413"
+                        VPOS="832"
+                        WIDTH="145"
+                        HEIGHT="4">
+                        <String CONTENT="nio rebus"
+                                HPOS="413"
+                                VPOS="832"
+                                WIDTH="145"
+                                HEIGHT="4"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_8aeb0044"
+                        BASELINE="368 883 839 885" 
+                        HPOS="368"
+                        VPOS="883"
+                        WIDTH="471"
+                        HEIGHT="2">
+                        <String CONTENT="Diuino, liber hic, ſcriptus ab ore,"
+                                HPOS="368"
+                                VPOS="883"
+                                WIDTH="471"
+                                HEIGHT="2"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_75882ea6"
+                        BASELINE="424 932 521 934" 
+                        HPOS="424"
+                        VPOS="932"
+                        WIDTH="97"
+                        HEIGHT="2">
+                        <String CONTENT="docet"
+                                HPOS="424"
+                                VPOS="932"
+                                WIDTH="97"
+                                HEIGHT="2"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_9ad7b65f"
+                        BASELINE="346 1037 854 1033" 
+                        HPOS="346"
+                        VPOS="1033"
+                        WIDTH="508"
+                        HEIGHT="4">
+                        <String CONTENT="ARGENTORATI, ANNO"
+                                HPOS="346"
+                                VPOS="1033"
+                                WIDTH="508"
+                                HEIGHT="4"
+                                ></String>
+                </TextLine>
+                <TextLine ID="eSc_line_f01960e8"
+                        BASELINE="412 1075 781 1080" 
+                        HPOS="412"
+                        VPOS="1075"
+                        WIDTH="369"
+                        HEIGHT="5">
+                        <String CONTENT="M. D. XXXIIII."
+                                HPOS="412"
+                                VPOS="1075"
+                                WIDTH="369"
+                                HEIGHT="5"
+                                ></String>
+                </TextLine>
+        </TextBlock>
+              
+              
+        <TextBlock HPOS="124.0"
+                   VPOS="50.0"
+                   WIDTH="920.0"
+                   HEIGHT="1451.0"
+                   ID="eSc_textblock_70051594"
+                   TAGREFS="BT11">
+          <Shape><Polygon POINTS="124 50 124 1501 1044 1501 1044 50"/></Shape>
+        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
