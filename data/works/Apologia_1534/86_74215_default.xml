@@ -300,13 +300,14 @@
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="242 1387 724 1387 755 1440 237 1440"/></Shape>
           <TextLine ID="eSc_line_0bd22642"
+                    TAGREFS="LT10"
                     BASELINE="249 1427 731 1432" 
                     HPOS="246"
                     VPOS="1387"
                     WIDTH="484"
                     HEIGHT="54">
             <Shape><Polygon POINTS="719 1387 632 1387 621 1387 601 1387 581 1387 562 1387 542 1387 523 1387 503 1387 483 1387 464 1387 444 1387 425 1387 405 1387 386 1387 366 1387 346 1387 327 1387 307 1387 288 1387 268 1387 248 1387 248 1426 246 1441 728 1441 730 1430 728 1400 719 1387"/></Shape>
-            <String CONTENT="BARBA LOQVITUR."
+            <String CONTENT="BARBA LOQVITVR."
                     HPOS="246"
                     VPOS="1387"
                     WIDTH="484"
@@ -322,13 +323,14 @@
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="153 1458 153 1582 766 1582 766 1458"/></Shape>
           <TextLine ID="eSc_line_2b3b25e7"
+                    TAGREFS="LT7"
                     BASELINE="176 1505 759 1512" 
                     HPOS="172"
                     VPOS="1459"
                     WIDTH="586"
                     HEIGHT="65">
             <Shape><Polygon POINTS="487 1459 468 1459 448 1459 429 1459 409 1459 389 1459 370 1459 350 1459 331 1459 311 1459 291 1459 272 1459 252 1459 233 1459 213 1459 193 1459 174 1459 174 1504 172 1514 754 1524 758 1510 756 1465 505 1459 487 1459"/></Shape>
-            <String CONTENT="A Sapido tanta ſum dexeriae probata,"
+            <String CONTENT="A Sapido tanta ſum dexteritate probata,"
                     HPOS="172"
                     VPOS="1459"
                     WIDTH="586"
@@ -336,6 +338,7 @@
                     ></String>
           </TextLine>
           <TextLine ID="eSc_line_db806596"
+                    TAGREFS="LT7"
                     BASELINE="218 1563 748 1563" 
                     HPOS="217"
                     VPOS="1518"
