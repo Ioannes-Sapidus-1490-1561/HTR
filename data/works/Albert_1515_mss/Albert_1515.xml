@@ -262,14 +262,6 @@
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="152"
-                   VPOS="335"
-                   WIDTH="3"
-                   HEIGHT="3"
-                   ID="eSc_textblock_d6863564"
-                   TAGREFS="BT3509">
-          <Shape><Polygon POINTS="155 338 152 338 152 335 155 335"/></Shape>
-        </TextBlock>
         <TextBlock HPOS="91"
                    VPOS="189"
                    WIDTH="289"
