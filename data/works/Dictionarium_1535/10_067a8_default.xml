@@ -30,13 +30,13 @@
                    TAGREFS="BT12">
           <Shape><Polygon POINTS="1172 897 1189 920 1172 1011 1063 1062 1206 1087 1201 1137 1114 1202 1189 1265 1189 1310 1001 1333 982 1356 379 1344 333 1264 356 1058 423 1044 486 1017 477 1028 460 909 479 886"/></Shape>
           <TextLine ID="eSc_line_02bb6f0a"
-                    TAGREFS="LT1303"
+                    TAGREFS="LT10"
                     BASELINE="481 943 729 942 825 947 858 947 1053 953 1084 955 1173 957" 
                     HPOS="477"
                     VPOS="886"
                     WIDTH="695"
                     HEIGHT="89">
-            <Shape><Polygon POINTS="1170 897 1148 895 1127 895 1105 895 1083 895 1062 895 1040 895 1019 893 997 893 976 893 954 893 932 893 911 893 889 891 868 891 846 891 824 891 803 891 781 891 760 891 738 888 716 888 695 888 673 888 652 888 630 888 608 886 587 886 565 886 544 886 522 886 500 886 479 886 479 942 477 960 1168 975 1172 955 1170 897 1170 897"/></Shape>
+            <Shape><Polygon POINTS="1148 895 1127 895 1105 895 1083 895 1062 895 1040 895 1019 893 997 893 976 893 954 893 932 893 911 893 889 891 868 891 846 891 824 891 803 891 781 891 760 891 738 888 716 888 695 888 673 888 652 888 630 888 608 886 587 886 565 886 544 886 522 886 500 886 479 886 479 942 477 960 1168 975 1172 955 1170 897"/></Shape>
             <String CONTENT="IOANNES SAPIDVS"
                     HPOS="477"
                     VPOS="886"
@@ -45,13 +45,13 @@
                     WC="0.9985064307848612"></String>
           </TextLine>
           <TextLine ID="eSc_line_d101e1bc"
-                    TAGREFS="LT1303"
+                    TAGREFS="LT10"
                     BASELINE="576 999 1063 1009" 
                     HPOS="575"
                     VPOS="950"
                     WIDTH="488"
                     HEIGHT="71">
-            <Shape><Polygon POINTS="576 999 575 1015 1060 1021 1063 1009 1060 962 923 969 873 969 850 955 848 955 847 955 845 955 748 965 707 955 706 955 704 955 660 963 576 950 576 999"/></Shape>
+            <Shape><Polygon POINTS="575 1015 1060 1021 1063 1009 1060 962 923 969 873 969 850 955 848 955 847 955 845 955 748 965 707 955 706 955 704 955 660 963 576 950 576 999"/></Shape>
             <String CONTENT="Iuuentuti Germanicæ"
                     HPOS="575"
                     VPOS="950"
@@ -60,7 +60,7 @@
                     WC="0.9829306351511102"></String>
           </TextLine>
           <TextLine ID="eSc_line_35d1846c"
-                    TAGREFS="LT1303"
+                    TAGREFS="LT7"
                     BASELINE="359 1097 388 1097 412 1097 853 1103 1191 1117" 
                     HPOS="356"
                     VPOS="1048"
@@ -75,7 +75,7 @@
                     WC="0.9858728557825088"></String>
           </TextLine>
           <TextLine ID="eSc_line_905a8db2"
-                    TAGREFS="LT1303"
+                    TAGREFS="LT7"
                     BASELINE="398 1143 972 1152" 
                     HPOS="397"
                     VPOS="1101"
@@ -90,7 +90,7 @@
                     WC="0.9796613261980169"></String>
           </TextLine>
           <TextLine ID="eSc_line_c9ceefd8"
-                    TAGREFS="LT1303"
+                    TAGREFS="LT7"
                     BASELINE="352 1185 1080 1198" 
                     HPOS="351"
                     VPOS="1144"
@@ -105,7 +105,7 @@
                     WC="0.9797034793429904"></String>
           </TextLine>
           <TextLine ID="eSc_line_398766b1"
-                    TAGREFS="LT1303"
+                    TAGREFS="LT7"
                     BASELINE="391 1231 1021 1244" 
                     HPOS="389"
                     VPOS="1189"
@@ -120,7 +120,7 @@
                     WC="0.9663438236012178"></String>
           </TextLine>
           <TextLine ID="eSc_line_b9afe97f"
-                    TAGREFS="LT1303"
+                    TAGREFS="LT7"
                     BASELINE="346 1278 1179 1298" 
                     HPOS="345"
                     VPOS="1235"
@@ -135,7 +135,7 @@
                     WC="0.9867563416128573"></String>
           </TextLine>
           <TextLine ID="eSc_line_3991b4a8"
-                    TAGREFS="LT1303"
+                    TAGREFS="LT7"
                     BASELINE="388 1326 981 1339" 
                     HPOS="386"
                     VPOS="1282"
