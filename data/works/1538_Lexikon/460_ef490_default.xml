@@ -241,14 +241,6 @@
                    TAGREFS="BT3529">
           <Shape><Polygon POINTS="1277 1323 1277 1329 1255 1329 1261 1323"/></Shape>
         </TextBlock>
-        <TextBlock HPOS="357"
-                   VPOS="755"
-                   WIDTH="1096"
-                   HEIGHT="1376"
-                   ID="eSc_textblock_84276efc"
-                   TAGREFS="BT11">
-          <Shape><Polygon POINTS="462 1297 357 2131 1453 2131 1453 755 486 767"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
