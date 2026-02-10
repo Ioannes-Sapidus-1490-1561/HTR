@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>71_61451_default.jpg</fileName>
+      <fileIdentifier>https://api.digitale-sammlungen.de/iiif/image/v2/bsb11221990_00072/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3530" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1314" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1693"
+          HEIGHT="2422"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1693"
+                  HEIGHT="2422">
+        <TextBlock HPOS="640"
+                   VPOS="1527"
+                   WIDTH="808"
+                   HEIGHT="125"
+                   ID="eSc_textblock_27bdcaa7"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="640 1527 640 1652 1448 1652 1448 1527"/></Shape>
+          <TextLine ID="eSc_line_dddc1e87"
+                    TAGREFS="LT7"
+                    BASELINE="671 1572 1419 1572" 
+                    HPOS="671"
+                    VPOS="1529"
+                    WIDTH="748"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="1375 1533 1371 1533 1357 1533 1344 1533 1330 1533 1317 1533 1304 1533 1290 1533 1287 1533 1279 1540 1250 1533 1247 1532 1234 1529 1162 1529 1161 1529 1160 1529 1158 1529 1141 1542 1041 1542 1032 1533 1021 1533 1017 1533 1001 1540 994 1533 981 1533 967 1533 956 1533 923 1540 873 1539 869 1535 859 1536 846 1536 835 1536 823 1540 810 1536 806 1536 792 1536 779 1536 765 1537 752 1537 738 1537 725 1537 711 1537 698 1537 694 1537 680 1537 671 1540 671 1572 671 1587 726 1597 728 1597 788 1589 903 1589 916 1597 917 1597 919 1597 920 1597 970 1589 1086 1597 1087 1598 1149 1598 1149 1597 1150 1597 1151 1597 1166 1589 1201 1589 1209 1595 1209 1597 1211 1597 1212 1597 1213 1597 1215 1597 1236 1589 1418 1595 1419 1572 1418 1559 1413 1540"/></Shape>
+            <String CONTENT="Quod manibus cubitum teneo, quod fræna́ dura,"
+                    HPOS="671"
+                    VPOS="1529"
+                    WIDTH="748"
+                    HEIGHT="69"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2932cae5"
+                    TAGREFS="LT7"
+                    BASELINE="728 1624 1355 1618" 
+                    HPOS="726"
+                    VPOS="1578"
+                    WIDTH="629"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="728 1645 823 1640 838 1650 839 1650 841 1650 842 1650 843 1650 862 1642 928 1648 929 1648 931 1648 952 1640 991 1653 993 1653 994 1653 1057 1642 1091 1648 1108 1663 1110 1663 1111 1663 1112 1664 1197 1664 1197 1663 1239 1661 1240 1661 1281 1641 1329 1645 1330 1645 1332 1645 1355 1634 1355 1618 1352 1589 1298 1589 1278 1578 1277 1578 1275 1578 1274 1578 1273 1578 1273 1579 1263 1589 1231 1589 1197 1578 1196 1578 1195 1578 1143 1589 1095 1582 1094 1582 1060 1589 1041 1579 1040 1579 1038 1579 950 1590 880 1582 878 1582 877 1582 858 1593 837 1593 826 1583 826 1582 824 1582 823 1582 759 1582 757 1582 756 1582 726 1591 728 1624"/></Shape>
+            <String CONTENT="Nil ultra licitum, ſed uolo adeſſe modum."
+                    HPOS="726"
+                    VPOS="1578"
+                    WIDTH="629"
+                    HEIGHT="86"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="675"
+                   VPOS="508"
+                   WIDTH="648"
+                   HEIGHT="1028"
+                   ID="eSc_textblock_a3275d44"
+                   TAGREFS="BT11">
+          <Shape><Polygon POINTS="675 508 675 1536 1323 1536 1323 508"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

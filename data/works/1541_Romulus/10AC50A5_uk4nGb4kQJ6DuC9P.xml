@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>10AC50A5_uk4nGb4kQJ6DuC9P.jpeg</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3531" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1315" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1078"
+          HEIGHT="1797"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1078"
+                  HEIGHT="1797">
+        <TextBlock HPOS="26"
+                   VPOS="81"
+                   WIDTH="962"
+                   HEIGHT="515"
+                   ID="eSc_textblock_666b76cd"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="42 81 26 233 207 235 224 307 149 299 136 596 859 590 826 244 969 246 988 81"/></Shape>
+          <TextLine ID="eSc_line_0b089ffd"
+                    TAGREFS="LT10"
+                    BASELINE="52 189 941 212" 
+                    HPOS="41"
+                    VPOS="83"
+                    WIDTH="907"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="49 206 128 200 236 212 266 203 317 214 338 211 431 215 436 215 448 206 482 215 628 211 750 218 769 223 782 214 794 223 917 224 948 219 948 154 936 84 850 95 818 97 769 87 703 94 637 93 594 88 560 88 518 90 463 86 427 90 379 90 329 90 300 88 253 88 235 89 224 89 201 84 184 85 171 86 157 83 139 85 126 86 45 85 45 145 41 191"/></Shape>
+            <String CONTENT="BVCOLICAE"
+                    HPOS="41"
+                    VPOS="83"
+                    WIDTH="907"
+                    HEIGHT="141"
+                    WC="0.999763548374176"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fb81dfeb"
+                    TAGREFS="LT10"
+                    BASELINE="227 272 753 272" 
+                    HPOS="226"
+                    VPOS="206"
+                    WIDTH="526"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="226 271 226 280 262 289 263 289 323 281 359 289 361 289 362 289 364 289 374 281 451 289 452 289 752 284 752 271 752 224 701 215 700 215 698 215 697 215 685 223 583 223 565 206 563 206 562 206 560 206 559 206 518 217 416 206 415 206 413 206 380 217 346 206 344 206 343 206 341 206 287 223 257 206 256 206 254 206 226 209 226 271"/></Shape>
+            <String CONTENT="QVERELAE."
+                    HPOS="226"
+                    VPOS="206"
+                    WIDTH="526"
+                    HEIGHT="83"
+                    WC="0.9988443520334032"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0767f195"
+                    TAGREFS="LT10"
+                    BASELINE="176 357 432 354 816 359" 
+                    HPOS="175"
+                    VPOS="315"
+                    WIDTH="641"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="808 319 799 318 798 318 797 318 784 324 764 318 763 318 762 318 729 326 720 319 720 318 719 318 718 318 697 318 696 318 695 318 665 326 614 320 613 320 502 325 455 319 454 319 453 319 452 319 446 325 430 317 429 317 428 317 427 317 401 324 369 318 368 318 367 318 354 324 314 316 313 316 262 321 246 315 245 315 244 315 192 322 176 315 176 321 176 357 175 373 204 373 204 372 205 372 206 372 222 361 235 370 236 370 237 370 238 370 239 370 261 361 293 373 294 373 295 373 296 373 311 368 352 373 353 373 354 373 377 362 417 373 418 373 419 373 475 363 542 363 554 373 554 374 555 374 556 374 557 374 558 374 559 374 572 363 589 363 599 371 600 371 601 371 602 371 603 371 627 363 639 374 639 375 640 375 641 375 642 375 673 368 687 375 688 375 689 376 767 376 767 375 768 375 769 375 785 364 814 370 816 359 816 324 808 319"/></Shape>
+            <String CONTENT="EVCHARII SYNESII"
+                    HPOS="175"
+                    VPOS="315"
+                    WIDTH="641"
+                    HEIGHT="61"
+                    WC="0.9776484221220016"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_be25bce4"
+                    TAGREFS="LT10"
+                    BASELINE="375 412 612 415" 
+                    HPOS="374"
+                    VPOS="366"
+                    WIDTH="238"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="375 412 374 432 397 432 397 431 398 431 399 431 399 430 407 423 453 423 484 423 500 433 501 433 502 433 503 433 504 433 532 424 549 434 550 434 551 434 552 435 611 435 612 415 612 378 607 374 606 374 605 374 604 374 556 382 534 368 533 368 532 368 531 368 530 368 529 368 512 381 435 381 421 368 421 367 420 367 419 367 375 366 375 412"/></Shape>
+            <String CONTENT="Romulus."
+                    HPOS="374"
+                    VPOS="366"
+                    WIDTH="238"
+                    HEIGHT="69"
+                    WC="0.9992678090929985"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_756f0426"
+                    TAGREFS="LT10"
+                    BASELINE="179 499 524 498 793 503" 
+                    HPOS="178"
+                    VPOS="458"
+                    WIDTH="615"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="789 466 779 465 769 465 763 464 757 469 722 462 721 462 720 462 698 470 683 465 682 465 681 465 641 470 634 464 633 464 632 464 587 461 586 461 585 461 584 461 570 470 530 470 515 459 514 459 513 459 492 459 491 459 490 459 489 459 475 469 435 459 434 459 433 459 432 459 431 459 431 460 421 470 412 470 403 462 403 461 402 461 401 461 400 461 399 461 378 468 348 458 347 458 346 458 308 464 299 458 298 458 297 458 263 458 262 458 261 458 260 458 249 466 244 461 243 461 242 461 241 461 240 461 220 468 192 458 189 458 183 458 179 459 179 499 178 516 240 517 241 517 242 517 243 517 254 509 264 517 265 517 266 517 267 518 287 518 287 517 288 517 289 517 298 510 329 516 330 516 331 516 332 516 345 508 366 517 367 517 368 518 397 518 397 517 398 517 399 517 399 516 408 508 449 508 459 517 459 518 460 518 461 518 462 519 487 519 487 518 488 518 489 518 489 517 498 509 572 509 583 518 584 518 585 518 586 518 612 514 619 519 620 519 621 519 622 519 694 518 695 518 696 518 705 511 748 519 749 519 750 519 751 519 751 518 760 510 781 518 782 518 783 518 784 518 785 518 792 512 793 503 793 468 789 466"/></Shape>
+            <String CONTENT="BAPTISTAE PERSII"
+                    HPOS="178"
+                    VPOS="458"
+                    WIDTH="615"
+                    HEIGHT="61"
+                    WC="0.9996963515877724"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1956cd95"
+                    TAGREFS="LT10"
+                    BASELINE="419 558 594 558" 
+                    HPOS="419"
+                    VPOS="511"
+                    WIDTH="175"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="419 558 419 570 450 570 465 583 465 584 466 584 467 584 468 585 516 585 516 584 517 584 518 584 540 570 572 582 573 582 574 582 575 582 594 575 594 558 594 529 574 529 551 511 550 511 549 511 530 511 529 511 528 511 527 511 527 512 509 529 487 529 465 511 464 511 463 511 419 511 419 558"/></Shape>
+            <String CONTENT="Thyrſis."
+                    HPOS="419"
+                    VPOS="511"
+                    WIDTH="175"
+                    HEIGHT="74"
+                    WC="0.9977080523967743"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="58"
+                   VPOS="626"
+                   WIDTH="875"
+                   HEIGHT="872"
+                   ID="eSc_textblock_0a497af1"
+                   TAGREFS="BT11">
+          <Shape><Polygon POINTS="58 626 58 1498 933 1498 933 626"/></Shape>
+          <TextLine ID="eSc_line_95b82fd9"
+                    TAGREFS="LT8"
+                    BASELINE="100 822 301 826" 
+                    HPOS="99"
+                    VPOS="792"
+                    WIDTH="214"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="280 792 100 792 100 793 100 822 99 832 305 836 305 823 313 796 290 793"/></Shape>
+            <String CONTENT="ROMVLVS"
+                    HPOS="99"
+                    VPOS="792"
+                    WIDTH="214"
+                    HEIGHT="44"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f3fef259"
+                    TAGREFS="LT8"
+                    BASELINE="641 978 831 981" 
+                    HPOS="633"
+                    VPOS="943"
+                    WIDTH="198"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="638 991 661 990 672 992 685 991 829 995 830 980 831 947 800 949 784 946 738 943 633 943 640 977"/></Shape>
+            <String CONTENT="THYRSIS"
+                    HPOS="633"
+                    VPOS="943"
+                    WIDTH="198"
+                    HEIGHT="52"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="20"
+                   VPOS="32"
+                   WIDTH="976"
+                   HEIGHT="1556"
+                   ID="eSc_textblock_e4c6aef7"
+                   TAGREFS="BT22">
+          <Shape><Polygon POINTS="20 32 31 1581 983 1588 996 32"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
