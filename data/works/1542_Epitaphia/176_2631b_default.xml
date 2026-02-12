@@ -405,18 +405,18 @@
                    ID="eSc_textblock_3e1a72dd"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="872 1529 862 1587 767 1573 770 1529 833 1520"/></Shape>
-          <TextLine ID="eSc_line_2fa85d6a"
-                    TAGREFS="LT8"
-                    BASELINE="771 1572 868 1574" 
-                    HPOS="771"
-                    VPOS="1572"
-                    WIDTH="97"
-                    HEIGHT="2">
-            <String CONTENT=""
-                    HPOS="771"
-                    VPOS="1572"
-                    WIDTH="97"
-                    HEIGHT="2"
+          <TextLine ID="eSc_line_93404dcd"
+                    BASELINE="770 1576 868 1573" 
+                    HPOS="766"
+                    VPOS="1524"
+                    WIDTH="104"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="816 1524 809 1530 805 1526 799 1526 792 1527 769 1527 766 1572 768 1575 768 1582 865 1597 867 1572 870 1559 870 1526"/></Shape>
+            <String CONTENT="B iij"
+                    HPOS="766"
+                    VPOS="1524"
+                    WIDTH="104"
+                    HEIGHT="73"
                     ></String>
           </TextLine>
         </TextBlock>
