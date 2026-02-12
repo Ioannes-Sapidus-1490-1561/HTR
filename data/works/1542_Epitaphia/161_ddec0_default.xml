@@ -451,13 +451,13 @@
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="1099 1509 1141 1543 1128 1556 1044 1559 1048 1509"/></Shape>
           <TextLine ID="eSc_line_70ceb63b"
-                    TAGREFS="LT7"
+                    TAGREFS="LT8"
                     BASELINE="1051 1544 1121 1541" 
                     HPOS="1048"
                     VPOS="1510"
                     WIDTH="72"
                     HEIGHT="52">
-            <Shape><Polygon POINTS="1113 1523 1097 1510 1081 1510 1064 1510 1048 1510 1049 1543 1049 1562 1120 1556 1120 1539 1113 1523 1113 1523"/></Shape>
+            <Shape><Polygon POINTS="1097 1510 1081 1510 1064 1510 1048 1510 1049 1543 1049 1562 1120 1556 1120 1539 1113 1523"/></Shape>
             <String CONTENT="Au¬"
                     HPOS="1048"
                     VPOS="1510"
@@ -465,14 +465,6 @@
                     HEIGHT="52"
                     ></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="430"
-                   VPOS="179"
-                   WIDTH="0"
-                   HEIGHT="0"
-                   ID="eSc_textblock_184613bc"
-                   TAGREFS="BT3532">
-          <Shape><Polygon POINTS="430 179 430 179 430 179"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

@@ -436,14 +436,6 @@
                     ></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="271"
-                   VPOS="186"
-                   WIDTH="5"
-                   HEIGHT="5"
-                   ID="eSc_textblock_4a8be5a3"
-                   TAGREFS="BT3532">
-          <Shape><Polygon POINTS="271 191 276 186 276 191"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

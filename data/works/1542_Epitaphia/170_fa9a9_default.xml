@@ -451,14 +451,6 @@
                     WC="0.999682605266571"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="258"
-                   VPOS="319"
-                   WIDTH="8"
-                   HEIGHT="4"
-                   ID="eSc_textblock_75049ee8"
-                   TAGREFS="BT3532">
-          <Shape><Polygon POINTS="266 319 266 323 258 323 259 319"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

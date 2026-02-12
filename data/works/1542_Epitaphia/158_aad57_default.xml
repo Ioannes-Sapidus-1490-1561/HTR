@@ -105,12 +105,13 @@
                     WC="0.9775483499873768"></String>
           </TextLine>
           <TextLine ID="eSc_line_29fca583"
+                    TAGREFS="LT9"
                     BASELINE="84 665 169 665" 
                     HPOS="83"
                     VPOS="542"
                     WIDTH="84"
                     HEIGHT="139">
-            <Shape><Polygon POINTS="83 550 83 663 83 681 167 670 167 663 166 542 97 545 83 550"/></Shape>
+            <Shape><Polygon POINTS="83 663 83 681 167 670 167 663 166 542 97 545 83 550"/></Shape>
             <String CONTENT="P"
                     HPOS="83"
                     VPOS="542"
