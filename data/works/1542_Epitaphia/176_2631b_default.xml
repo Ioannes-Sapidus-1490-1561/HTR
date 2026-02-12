@@ -22,29 +22,6 @@
                   VPOS="0"
                   WIDTH="1160"
                   HEIGHT="1972">
-        <TextBlock HPOS="339"
-                   VPOS="144"
-                   WIDTH="349"
-                   HEIGHT="55"
-                   ID="eSc_textblock_ed9b4ac5"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="677 148 688 154 688 199 339 199 339 144"/></Shape>
-          <TextLine ID="eSc_line_789d2c43"
-                    TAGREFS="LT8"
-                    BASELINE="346 182 681 181" 
-                    HPOS="345"
-                    VPOS="144"
-                    WIDTH="334"
-                    HEIGHT="58">
-            <Shape><Polygon POINTS="658 147 641 147 625 147 608 147 592 147 575 147 559 146 542 146 526 146 510 146 493 146 477 146 460 146 444 144 427 144 411 144 394 144 378 144 361 144 345 144 345 180 345 202 439 193 677 202 679 180 679 149 674 147"/></Shape>
-            <String CONTENT="EPITAPHIA"
-                    HPOS="345"
-                    VPOS="144"
-                    WIDTH="334"
-                    HEIGHT="58"
-                    ></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="70"
                    VPOS="212"
                    WIDTH="769"
@@ -398,6 +375,29 @@
                     ></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="339"
+                   VPOS="144"
+                   WIDTH="349"
+                   HEIGHT="55"
+                   ID="eSc_textblock_ed9b4ac5"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="677 148 688 154 688 199 339 199 339 144"/></Shape>
+          <TextLine ID="eSc_line_789d2c43"
+                    TAGREFS="LT8"
+                    BASELINE="346 182 681 181" 
+                    HPOS="345"
+                    VPOS="144"
+                    WIDTH="334"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="658 147 641 147 625 147 608 147 592 147 575 147 559 146 542 146 526 146 510 146 493 146 477 146 460 146 444 144 427 144 411 144 394 144 378 144 361 144 345 144 345 180 345 202 439 193 677 202 679 180 679 149 674 147"/></Shape>
+            <String CONTENT="EPITAPHIA"
+                    HPOS="345"
+                    VPOS="144"
+                    WIDTH="334"
+                    HEIGHT="58"
+                    ></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="767"
                    VPOS="1520"
                    WIDTH="105"
@@ -406,6 +406,7 @@
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="872 1529 862 1587 767 1573 770 1529 833 1520"/></Shape>
           <TextLine ID="eSc_line_93404dcd"
+                    TAGREFS="LT8"
                     BASELINE="770 1576 868 1573" 
                     HPOS="766"
                     VPOS="1524"
