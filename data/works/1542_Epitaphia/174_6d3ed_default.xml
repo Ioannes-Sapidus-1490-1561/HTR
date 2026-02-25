@@ -187,6 +187,21 @@
                     HEIGHT="78"
                     WC="0.9980383282122405"></String>
           </TextLine>
+          <TextLine ID="eSc_line_e38b7fd0"
+                    TAGREFS="LT10"
+                    BASELINE="315 709 649 713" 
+                    HPOS="314"
+                    VPOS="657"
+                    WIDTH="335"
+                    HEIGHT="68">
+          <Shape><Polygon POINTS="314 716 347 724 348 725 647 725 649 713 649 681 592 681 581 671 580 671 578 671 577 671 576 671 575 671 569 677 535 658 533 658 493 658 492 658 491 658 451 677 394 677 372 657 371 657 370 657 335 657 334 657 333 657 332 657 315 668 315 709"/></Shape>
+          <String CONTENT="Buceri Sacer."
+                    HPOS="314"
+                    VPOS="657"
+                    WIDTH="335"
+                    HEIGHT="68"
+                    WC="0.9733718312703646"></String>
+          </TextLine>
           <TextLine ID="eSc_line_b51c5a43"
                     TAGREFS="LT7"
                     BASELINE="80 767 748 771" 
@@ -201,21 +216,6 @@
                     WIDTH="668"
                     HEIGHT="61"
                     WC="0.9960265278816223"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_e38b7fd0"
-                    TAGREFS="LT10"
-                    BASELINE="315 709 649 713" 
-                    HPOS="314"
-                    VPOS="657"
-                    WIDTH="335"
-                    HEIGHT="68">
-            <Shape><Polygon POINTS="314 716 347 724 348 725 647 725 649 713 649 681 592 681 581 671 580 671 578 671 577 671 576 671 575 671 569 677 535 658 533 658 493 658 492 658 491 658 451 677 394 677 372 657 371 657 370 657 335 657 334 657 333 657 332 657 315 668 315 709"/></Shape>
-            <String CONTENT="Buceri Sacer."
-                    HPOS="314"
-                    VPOS="657"
-                    WIDTH="335"
-                    HEIGHT="68"
-                    WC="0.9733718312703646"></String>
           </TextLine>
           <TextLine ID="eSc_line_885a6eda"
                     TAGREFS="LT7"
@@ -421,7 +421,7 @@
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="762 1495 757 1545 875 1560 875 1504"/></Shape>
           <TextLine ID="eSc_line_3d6f1642"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="765 1539 870 1543" 
                     HPOS="761"
                     VPOS="1495"

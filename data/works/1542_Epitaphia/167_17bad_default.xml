@@ -239,6 +239,21 @@
                     HEIGHT="91"
                     WC="0.980398576259613"></String>
           </TextLine>
+          <TextLine ID="eSc_line_8b8783d8"
+                    TAGREFS="LT10"
+                    BASELINE="416 984 888 984" 
+                    HPOS="416"
+                    VPOS="930"
+                    WIDTH="472"
+                    HEIGHT="64">
+          <Shape><Polygon POINTS="416 994 888 994 888 984 888 952 787 952 770 941 769 941 768 941 767 941 766 941 748 950 725 930 724 930 723 930 722 930 673 932 672 932 671 932 652 947 619 950 611 945 610 945 609 945 608 945 578 949 552 930 551 930 550 930 549 930 548 930 516 938 504 930 503 930 502 930 416 930 416 984"/></Shape>
+          <String CONTENT="Hedionum Fratrum."
+                    HPOS="416"
+                    VPOS="930"
+                    WIDTH="472"
+                    HEIGHT="64"
+                    WC="0.9683146616991829"></String>
+          </TextLine>
           <TextLine ID="eSc_line_43be87f9"
                     TAGREFS="LT7"
                     BASELINE="249 1037 947 1046" 
@@ -253,21 +268,6 @@
                     WIDTH="699"
                     HEIGHT="69"
                     ></String>
-          </TextLine>
-          <TextLine ID="eSc_line_8b8783d8"
-                    TAGREFS="LT10"
-                    BASELINE="416 984 888 984" 
-                    HPOS="416"
-                    VPOS="930"
-                    WIDTH="472"
-                    HEIGHT="64">
-            <Shape><Polygon POINTS="416 994 888 994 888 984 888 952 787 952 770 941 769 941 768 941 767 941 766 941 748 950 725 930 724 930 723 930 722 930 673 932 672 932 671 932 652 947 619 950 611 945 610 945 609 945 608 945 578 949 552 930 551 930 550 930 549 930 548 930 516 938 504 930 503 930 502 930 416 930 416 984"/></Shape>
-            <String CONTENT="Hedionum Fratrum."
-                    HPOS="416"
-                    VPOS="930"
-                    WIDTH="472"
-                    HEIGHT="64"
-                    WC="0.9683146616991829"></String>
           </TextLine>
           <TextLine ID="eSc_line_a04e6d88"
                     TAGREFS="LT7"
