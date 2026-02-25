@@ -28,6 +28,21 @@
                    ID="eSc_textblock_a48b78b1"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="1446 1659 1446 1607 1297 1607 1297 1659"/></Shape>
+          <TextLine ID="eSc_line_194b2a1c"
+                    TAGREFS="LT1351"
+                    BASELINE="1311 1639 1437 1641" 
+                    HPOS="1308"
+                    VPOS="1583"
+                    WIDTH="128"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="1310 1638 1308 1666 1434 1657 1436 1640 1434 1583 1310 1587 1310 1638"/></Shape>
+            <String CONTENT="can¬"
+                    HPOS="1308"
+                    VPOS="1583"
+                    WIDTH="128"
+                    HEIGHT="83"
+                    WC="0.9912399053573608"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
