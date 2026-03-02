@@ -42,8 +42,8 @@ characters:
   - '&'
   - N
   - P
-  - D
   - C
+  - D
   - V
   - M
   - Q
@@ -82,11 +82,11 @@ characters:
   - ε
   - '3'
   - '9'
+  - Z
   - ̂
   - z
   - τ
   - Y
-  - Z
   - '6'
   - ι
   - ς
@@ -169,11 +169,11 @@ title: Data repository for HTR model training
 transcription-guidelines: "à compléter\nMettre données"
 url: https://github.com/Johann-Sapidus-1490-1561/HTR
 volume:
-- count: 256630
+- count: 258237
   metric: characters
-- count: 300
+- count: 302
   metric: files
-- count: 7562
+- count: 7615
   metric: lines
-- count: 818
+- count: 820
   metric: regions
