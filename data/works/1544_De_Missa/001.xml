@@ -195,6 +195,7 @@
                     ></String>
           </TextLine>
           <TextLine ID="eSc_line_456d63e0"
+                    TAGREFS="LT9"
                     BASELINE="65 708 192 705" 
                     HPOS="61"
                     VPOS="590"
@@ -239,6 +240,7 @@
                     WC="0.9934385120868683"></String>
           </TextLine>
           <TextLine ID="eSc_line_894dff83"
+                    TAGREFS="LT7"
                     BASELINE="234 703 778 689" 
                     HPOS="231"
                     VPOS="650"
