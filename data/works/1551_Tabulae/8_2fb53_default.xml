@@ -668,6 +668,7 @@
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="1550 2925 1550 2840 1393 2840 1393 2925"/></Shape>
           <TextLine ID="eSc_line_b9cae432"
+                    TAGREFS="LT8"
                     BASELINE="1411 2904 1541 2893" 
                     HPOS="1398"
                     VPOS="2842"

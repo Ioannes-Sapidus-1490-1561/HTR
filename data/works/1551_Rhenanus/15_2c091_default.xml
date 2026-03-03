@@ -608,14 +608,6 @@
                     WC="0.9664762037641862"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="806"
-                   VPOS="2816"
-                   WIDTH="14"
-                   HEIGHT="14"
-                   ID="eSc_textblock_9b287377"
-                   TAGREFS="BT3713">
-          <Shape><Polygon POINTS="820 2830 806 2830 806 2824 820 2816"/></Shape>
-        </TextBlock>
         <TextBlock HPOS="582"
                    VPOS="318"
                    WIDTH="1619"
