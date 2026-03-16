@@ -359,21 +359,6 @@
                     HEIGHT="104"
                     WC="0.9702631614424966"></String>
           </TextLine>
-          <TextLine ID="eSc_line_e6ab74c4"
-                    TAGREFS="LT7"
-                    BASELINE="1108 1946 1220 1957 1265 1963" 
-                    HPOS="1102"
-                    VPOS="1867"
-                    WIDTH="165"
-                    HEIGHT="140">
-            <Shape><Polygon POINTS="1106 1945 1102 1988 1152 1984 1254 2007 1263 1962 1267 1899 1171 1893 1157 1873 1154 1873 1154 1871 1152 1871 1150 1871 1112 1867 1106 1945"/></Shape>
-            <String CONTENT="C ij"
-                    HPOS="1102"
-                    VPOS="1867"
-                    WIDTH="165"
-                    HEIGHT="140"
-                    ></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="1094"
                    VPOS="1891"
@@ -382,6 +367,21 @@
                    ID="eSc_textblock_dcd22551"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="1257 1902 1269 1952 1252 1979 1105 1969 1094 1914 1118 1891"/></Shape>
+                <TextLine ID="eSc_line_e6ab74c4"
+                        TAGREFS="LT7"
+                        BASELINE="1108 1946 1220 1957 1265 1963" 
+                        HPOS="1102"
+                        VPOS="1867"
+                        WIDTH="165"
+                        HEIGHT="140">
+                        <Shape><Polygon POINTS="1106 1945 1102 1988 1152 1984 1254 2007 1263 1962 1267 1899 1171 1893 1157 1873 1154 1873 1154 1871 1152 1871 1150 1871 1112 1867 1106 1945"/></Shape>
+                        <String CONTENT="C ij"
+                                HPOS="1102"
+                                VPOS="1867"
+                                WIDTH="165"
+                                HEIGHT="140"
+                                ></String>
+                </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>

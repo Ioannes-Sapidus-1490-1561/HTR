@@ -22,13 +22,13 @@
                   VPOS="0"
                   WIDTH="1208"
                   HEIGHT="2044">
-        <TextBlock HPOS="386"
-                   VPOS="263"
-                   WIDTH="690"
-                   HEIGHT="1243"
-                   ID="eSc_textblock_9b752916"
-                   TAGREFS="BT12">
-          <Shape><Polygon POINTS="953 272 962 466 917 580 985 617 989 662 962 699 980 807 917 853 917 884 971 989 1030 1026 1007 1099 1030 1207 998 1235 994 1311 976 1329 1004 1385 1076 1408 1076 1453 995 1453 995 1497 995 1506 971 1502 436 1502 427 1467 390 1452 386 1394 467 1376 477 1339 513 1321 386 1302 386 263"/></Shape>
+        <TextBlock HPOS="203"
+                   VPOS="108"
+                   WIDTH="1005"
+                   HEIGHT="1666"
+                   ID="eSc_textblock_6e5c9f4b"
+                   TAGREFS="BT11">
+          <Shape><Polygon POINTS="203 108 206 1771 1208 1774 1208 108"/></Shape>
           <TextLine ID="eSc_line_4c7a371e"
                     TAGREFS="LT7"
                     BASELINE="395 294 947 296" 
@@ -405,6 +405,14 @@
                     WC="0.9880151549975077"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="386"
+                   VPOS="263"
+                   WIDTH="690"
+                   HEIGHT="1243"
+                   ID="eSc_textblock_9b752916"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="953 272 962 466 917 580 985 617 989 662 962 699 980 807 917 853 917 884 971 989 1030 1026 1007 1099 1030 1207 998 1235 994 1311 976 1329 1004 1385 1076 1408 1076 1453 995 1453 995 1497 995 1506 971 1502 436 1502 427 1467 390 1452 386 1394 467 1376 477 1339 513 1321 386 1302 386 263"/></Shape>
+        </TextBlock>
         <TextBlock HPOS="1007"
                    VPOS="1497"
                    WIDTH="69"
@@ -412,14 +420,6 @@
                    ID="eSc_textblock_32037f9e"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="1076 1497 1076 1543 1013 1543 1007 1528 1007 1497"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="203"
-                   VPOS="108"
-                   WIDTH="1005"
-                   HEIGHT="1666"
-                   ID="eSc_textblock_6e5c9f4b"
-                   TAGREFS="BT11">
-          <Shape><Polygon POINTS="203 108 206 1771 1208 1774 1208 108"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>

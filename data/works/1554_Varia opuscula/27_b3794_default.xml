@@ -404,21 +404,6 @@
                     HEIGHT="92"
                     ></String>
           </TextLine>
-          <TextLine ID="eSc_line_1b6981cb"
-                    TAGREFS="LT7"
-                    BASELINE="855 1565 980 1565" 
-                    HPOS="855"
-                    VPOS="1521"
-                    WIDTH="139"
-                    HEIGHT="79">
-            <Shape><Polygon POINTS="953 1523 939 1521 938 1521 936 1521 935 1521 910 1529 877 1521 876 1521 875 1521 873 1521 855 1528 855 1565 855 1589 877 1591 884 1599 884 1600 885 1600 886 1600 887 1600 930 1591 956 1600 957 1600 958 1600 980 1598 988 1566 994 1526 977 1529"/></Shape>
-            <String CONTENT="Permo¬"
-                    HPOS="855"
-                    VPOS="1521"
-                    WIDTH="139"
-                    HEIGHT="79"
-                    ></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="856"
                    VPOS="1541"
@@ -427,6 +412,20 @@
                    ID="eSc_textblock_e876352b"
                    TAGREFS="BT17">
           <Shape><Polygon POINTS="980 1588 856 1584 856 1541 988 1541"/></Shape>
+                <TextLine ID="eSc_line_1b6981cb"
+                        TAGREFS="LT7"
+                        BASELINE="855 1565 980 1565" 
+                        HPOS="855"
+                        VPOS="1521"
+                        WIDTH="139"
+                        HEIGHT="79">
+                        <Shape><Polygon POINTS="953 1523 939 1521 938 1521 936 1521 935 1521 910 1529 877 1521 876 1521 875 1521 873 1521 855 1528 855 1565 855 1589 877 1591 884 1599 884 1600 885 1600 886 1600 887 1600 930 1591 956 1600 957 1600 958 1600 980 1598 988 1566 994 1526 977 1529"/></Shape>
+                        <String CONTENT="Permo¬"
+                                HPOS="855"
+                                VPOS="1521"
+                                WIDTH="139"
+                                HEIGHT="79"></String>
+                </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
