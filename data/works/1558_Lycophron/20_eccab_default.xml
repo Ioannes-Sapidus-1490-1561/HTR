@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>20_eccab_default.jpg</fileName>
+      <fileIdentifier>https://api.digitale-sammlungen.de/iiif/image/v2/bsb00014061_00021/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3762" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1393" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1196"
+          HEIGHT="1845"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1196"
+                  HEIGHT="1845">
+        <TextBlock HPOS="468"
+                   VPOS="139"
+                   WIDTH="47"
+                   HEIGHT="40"
+                   ID="eSc_textblock_ca3174ae"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="507 139 515 145 515 179 468 176 468 153 480 139"/></Shape>
+          <TextLine ID="eSc_line_4cf85d7d"
+                    TAGREFS="LT8"
+                    BASELINE="475 170 508 171" 
+                    HPOS="471"
+                    VPOS="139"
+                    WIDTH="36"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="504 139 489 139 474 144 474 169 471 190 504 195 507 170 506 139 504 139"/></Shape>
+            <String CONTENT="15"
+                    HPOS="471"
+                    VPOS="139"
+                    WIDTH="36"
+                    HEIGHT="56"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5715b061"
+                    TAGREFS="LT7"
+                    BASELINE="178 217 623 212" 
+                    HPOS="175"
+                    VPOS="167"
+                    WIDTH="446"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="514 178 512 178 504 181 412 181 401 170 401 169 400 169 398 169 397 169 284 182 267 172 266 172 264 172 263 172 175 173 177 216 177 232 620 226 621 210 614 167 597 178 540 169 538 169 537 169 514 176 514 178"/></Shape>
+            <String CONTENT="Εἶναι δικαίως οἱ πρόγονοι ἔλεγεν."
+                    HPOS="175"
+                    VPOS="167"
+                    WIDTH="446"
+                    HEIGHT="65"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_88013b34"
+                    TAGREFS="LT10"
+                    BASELINE="231 273 773 270" 
+                    HPOS="229"
+                    VPOS="221"
+                    WIDTH="542"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="230 272 230 293 275 284 289 293 297 293 304 285 334 292 363 284 414 293 423 282 504 282 561 293 591 284 606 295 771 295 771 233 735 221 677 233 592 233 578 221 572 221 549 229 483 222 469 233 427 222 403 235 374 235 363 222 314 222 303 233 229 230 230 272"/></Shape>
+            <String CONTENT="Τοῦ αὐτοῦ πρὸς τὸν Ἰσάκιον Τζέζαν"
+                    HPOS="229"
+                    VPOS="221"
+                    WIDTH="542"
+                    HEIGHT="74"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_aee40137"
+                    TAGREFS="LT10"
+                    BASELINE="379 323 610 323" 
+                    HPOS="378"
+                    VPOS="282"
+                    WIDTH="231"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="378 322 378 336 421 338 430 347 430 349 432 349 434 349 435 350 472 350 472 349 474 349 475 349 475 347 484 338 504 349 506 349 507 349 609 336 609 322 609 295 378 282 378 322"/></Shape>
+            <String CONTENT="ἐπίγραμμα."
+                    HPOS="378"
+                    VPOS="282"
+                    WIDTH="231"
+                    HEIGHT="68"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_50f47fa2"
+                    TAGREFS="LT7"
+                    BASELINE="134 376 783 380" 
+                    HPOS="132"
+                    VPOS="329"
+                    WIDTH="649"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="133 375 132 392 778 401 781 379 781 344 641 332 640 332 638 332 637 332 614 345 524 338 523 338 461 344 340 329 287 329 286 329 284 329 283 329 270 339 258 330 258 329 257 329 255 329 253 329 252 329 250 329 233 342 184 335 183 335 181 335 167 342 155 332 153 332 152 332 150 332 149 332 133 338 133 375"/></Shape>
+            <String CONTENT="Κασσανδρᾶς ποίημα πολύγναμπτοις λαβύρινθοις"
+                    HPOS="132"
+                    VPOS="329"
+                    WIDTH="649"
+                    HEIGHT="72"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_7042ffe3"
+                    TAGREFS="LT7"
+                    BASELINE="178 418 667 427" 
+                    HPOS="175"
+                    VPOS="379"
+                    WIDTH="491"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="177 416 175 433 181 439 181 441 183 441 184 441 186 441 187 441 189 441 198 432 230 441 232 441 233 441 323 433 337 444 338 444 340 444 341 444 664 438 666 425 664 399 628 398 618 388 618 387 617 387 615 387 614 387 612 387 591 398 551 387 549 387 547 387 546 387 524 396 477 387 475 387 474 387 452 395 401 387 400 387 344 393 317 381 315 381 250 379 249 379 177 388 177 416"/></Shape>
+            <String CONTENT="πλῆρες ἐπισταμένως δήλοες  Ἰσάκιε."
+                    HPOS="175"
+                    VPOS="379"
+                    WIDTH="491"
+                    HEIGHT="65"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_864c2ef0"
+                    TAGREFS="LT7"
+                    BASELINE="143 463 721 473" 
+                    HPOS="140"
+                    VPOS="427"
+                    WIDTH="580"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="141 462 140 484 717 493 720 472 720 435 678 433 677 433 675 433 649 444 609 433 608 433 606 433 604 433 584 444 529 444 464 441 452 430 451 430 449 430 447 430 446 430 444 430 432 439 423 432 423 430 421 430 420 430 418 430 417 430 415 430 401 441 337 441 317 427 315 427 314 427 312 427 257 438 141 428 141 462"/></Shape>
+            <String CONTENT="Τοῦτο γε ποιήσει παρὰ θνητοῖσι πολυμόχθοις,"
+                    HPOS="140"
+                    VPOS="427"
+                    WIDTH="580"
+                    HEIGHT="66"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_476a3681"
+                    TAGREFS="LT7"
+                    BASELINE="177 511 662 519" 
+                    HPOS="173"
+                    VPOS="472"
+                    WIDTH="488"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="173 524 244 533 266 527 286 539 329 531 390 541 401 530 458 530 491 542 557 535 583 544 660 539 661 488 635 479 569 487 560 478 511 485 466 476 407 484 357 476 277 482 266 473 187 479 178 472 173 524"/></Shape>
+            <String CONTENT="Οὐνόματος &amp; δόξαν ἀθάνάτον γε τεοῦ."
+                    HPOS="173"
+                    VPOS="472"
+                    WIDTH="488"
+                    HEIGHT="72"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0cdfc035"
+                    TAGREFS="LT10"
+                    BASELINE="198 574 785 577" 
+                    HPOS="195"
+                    VPOS="530"
+                    WIDTH="588"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="197 573 195 585 221 595 223 595 224 595 226 595 249 587 780 593 783 576 783 538 729 531 728 531 726 531 724 531 712 542 668 542 648 531 646 531 644 531 583 541 410 530 409 530 367 539 340 530 338 530 337 530 335 530 310 539 290 530 289 530 287 530 286 530 261 539 252 531 252 530 250 530 249 530 197 530 197 573"/></Shape>
+            <String CONTENT="IOAN. SAPIDVS AD"
+                    HPOS="195"
+                    VPOS="530"
+                    WIDTH="588"
+                    HEIGHT="65"
+                    WC="0.9989139139652252"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9ef4b4d6"
+                    TAGREFS="LT10"
+                    BASELINE="397 624 599 626" 
+                    HPOS="394"
+                    VPOS="579"
+                    WIDTH="204"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="395 622 394 634 404 641 406 641 407 641 409 641 597 634 598 625 597 590 494 588 486 581 486 579 484 579 483 579 481 579 395 585 395 622"/></Shape>
+            <String CONTENT="Iectorem."
+                    HPOS="394"
+                    VPOS="579"
+                    WIDTH="204"
+                    HEIGHT="62"
+                    WC="0.9944521917237176"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bb320109"
+                    TAGREFS="LT7"
+                    BASELINE="182 671 727 675" 
+                    HPOS="180"
+                    VPOS="627"
+                    WIDTH="546"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="181 670 180 688 723 696 726 674 723 630 694 638 669 630 668 630 666 630 597 638 511 628 509 628 507 628 474 636 384 628 383 628 381 628 363 636 335 627 334 627 332 627 181 631 181 670"/></Shape>
+            <String CONTENT="Si uarietas parit animis &amp; ſenſibus"
+                    HPOS="180"
+                    VPOS="627"
+                    WIDTH="546"
+                    HEIGHT="69"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_78fd6856"
+                    TAGREFS="LT7"
+                    BASELINE="135 723 741 726" 
+                    HPOS="132"
+                    VPOS="681"
+                    WIDTH="608"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="133 722 132 734 223 736 232 745 263 738 360 745 374 738 380 745 509 739 544 747 566 739 578 748 631 748 680 739 737 747 740 725 738 693 701 693 689 682 577 691 435 681 400 690 380 681 349 690 310 682 281 690 261 681 192 690 133 685 133 722"/></Shape>
+            <String CONTENT="Iucunditatem plauſibilem &amp; amabilem,"
+                    HPOS="132"
+                    VPOS="681"
+                    WIDTH="608"
+                    HEIGHT="67"
+                    WC="0.9870422333478928"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_01f3f3d7"
+                    TAGREFS="LT7"
+                    BASELINE="138 775 698 777" 
+                    HPOS="135"
+                    VPOS="733"
+                    WIDTH="562"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="136 774 135 787 153 794 155 794 157 794 695 788 697 776 695 742 577 733 575 733 537 741 506 733 504 733 503 733 443 741 404 733 403 733 136 739 136 774"/></Shape>
+            <String CONTENT="Quæ ueteris eſt parœmiæ ſententia,"
+                    HPOS="135"
+                    VPOS="733"
+                    WIDTH="562"
+                    HEIGHT="61"
+                    WC="0.9926416260354659"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cb6660ba"
+                    TAGREFS="LT7"
+                    BASELINE="138 823 705 828" 
+                    HPOS="135"
+                    VPOS="781"
+                    WIDTH="569"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="136 822 135 833 160 842 161 842 163 844 703 844 704 827 703 784 601 784 600 784 598 784 597 784 597 785 589 791 469 791 460 782 458 782 457 782 455 782 329 790 314 781 312 781 310 781 309 781 307 781 290 788 220 781 218 781 136 787 136 822"/></Shape>
+            <String CONTENT="Celebrata Peripateticorum principi,"
+                    HPOS="135"
+                    VPOS="781"
+                    WIDTH="569"
+                    HEIGHT="63"
+                    WC="0.9952599355152675"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_62770fa5"
+                    TAGREFS="LT7"
+                    BASELINE="138 873 727 876" 
+                    HPOS="135"
+                    VPOS="837"
+                    WIDTH="591"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="136 871 135 887 164 887 173 894 173 896 175 896 177 896 178 897 264 897 264 896 266 896 267 896 280 888 300 896 301 896 303 896 350 887 432 896 434 896 435 896 451 888 512 897 514 897 515 897 543 888 567 897 569 897 571 897 724 887 726 874 723 837 136 837 136 871"/></Shape>
+            <String CONTENT="Alijs́ paßim inſignibus ſcriptoribus:"
+                    HPOS="135"
+                    VPOS="837"
+                    WIDTH="591"
+                    HEIGHT="60"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3e1a2564"
+                    TAGREFS="LT7"
+                    BASELINE="137 921 739 925" 
+                    HPOS="135"
+                    VPOS="880"
+                    WIDTH="603"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="136 920 135 934 735 944 738 924 737 882 664 891 632 882 631 882 629 882 628 882 597 893 497 893 480 882 478 882 477 882 475 882 420 888 404 880 403 880 401 880 400 880 398 880 386 890 341 880 340 880 286 888 275 880 273 880 272 880 270 880 269 880 244 890 136 884 136 920"/></Shape>
+            <String CONTENT="Ea maximè hoc ſpectatur in uolumine."
+                    HPOS="135"
+                    VPOS="880"
+                    WIDTH="603"
+                    HEIGHT="64"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_84ebed3c"
+                    TAGREFS="LT7"
+                    BASELINE="141 971 656 977" 
+                    HPOS="138"
+                    VPOS="931"
+                    WIDTH="517"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="140 970 138 980 161 990 163 990 164 990 267 984 652 994 655 976 654 942 140 931 140 970"/></Shape>
+            <String CONTENT="Variat enim rerum uicißitudines,"
+                    HPOS="138"
+                    VPOS="931"
+                    WIDTH="517"
+                    HEIGHT="63"
+                    WC="0.9652194641530514"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_d5e941d8"
+                    TAGREFS="LT7"
+                    BASELINE="138 1019 686 1028" 
+                    HPOS="135"
+                    VPOS="974"
+                    WIDTH="549"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="136 1017 135 1030 170 1040 172 1040 173 1040 483 1037 498 1047 500 1047 501 1047 503 1047 649 1040 680 1048 684 1027 684 987 230 987 136 974 136 1017"/></Shape>
+            <String CONTENT="Hac gratia oblectatione́ præditas,"
+                    HPOS="135"
+                    VPOS="974"
+                    WIDTH="549"
+                    HEIGHT="74"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b86da811"
+                    TAGREFS="LT7"
+                    BASELINE="144 1069 602 1072" 
+                    HPOS="141"
+                    VPOS="1028"
+                    WIDTH="460"
+                    HEIGHT="59">
+            <Shape><Polygon POINTS="143 1068 141 1077 180 1087 181 1087 600 1080 601 1071 600 1039 478 1030 477 1030 475 1030 460 1037 443 1030 441 1030 440 1030 375 1037 363 1028 361 1028 360 1028 358 1028 143 1034 143 1068"/></Shape>
+            <String CONTENT="Vt nulla poßit exoriri nauſea"
+                    HPOS="141"
+                    VPOS="1028"
+                    WIDTH="460"
+                    HEIGHT="59"
+                    WC="0.9786018400356687"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1cc0249f"
+                    TAGREFS="LT7"
+                    BASELINE="140 1122 654 1122" 
+                    HPOS="138"
+                    VPOS="1080"
+                    WIDTH="514"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="138 1120 138 1136 651 1142 652 1120 652 1083 138 1080 138 1120"/></Shape>
+            <String CONTENT="Lectoribus, res utiles cupientibus"
+                    HPOS="138"
+                    VPOS="1080"
+                    WIDTH="514"
+                    HEIGHT="62"
+                    WC="0.958215618834776"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_9d862904"
+                    TAGREFS="LT7"
+                    BASELINE="143 1172 752 1175" 
+                    HPOS="140"
+                    VPOS="1126"
+                    WIDTH="611"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="141 1171 140 1182 169 1193 170 1193 172 1194 267 1194 267 1193 269 1193 270 1193 280 1185 324 1193 326 1193 511 1186 527 1194 529 1194 531 1194 749 1186 751 1174 751 1128 655 1128 654 1128 652 1128 635 1136 615 1128 614 1128 612 1128 611 1128 609 1128 609 1130 600 1137 420 1126 418 1126 352 1137 287 1137 275 1126 273 1126 272 1126 270 1126 141 1134 141 1171"/></Shape>
+            <String CONTENT="Cognoſcere, &amp; fructus capere ſtudij ſui:"
+                    HPOS="140"
+                    VPOS="1126"
+                    WIDTH="611"
+                    HEIGHT="68"
+                    WC="0.9799439504742622"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5397c62d"
+                    TAGREFS="LT7"
+                    BASELINE="147 1220 852 1225" 
+                    HPOS="144"
+                    VPOS="1179"
+                    WIDTH="707"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="146 1219 144 1236 848 1243 851 1223 848 1180 671 1188 663 1182 663 1180 661 1180 660 1180 658 1180 426 1186 401 1179 400 1179 398 1179 397 1179 395 1179 389 1185 381 1179 380 1179 378 1179 146 1179 146 1219"/></Shape>
+            <String CONTENT="Quin quo magis progreßi erunt, hoc blandior"
+                    HPOS="144"
+                    VPOS="1179"
+                    WIDTH="707"
+                    HEIGHT="64"
+                    WC="0.993549409300782"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_87d9a73b"
+                    TAGREFS="LT7"
+                    BASELINE="141 1271 692 1273" 
+                    HPOS="138"
+                    VPOS="1228"
+                    WIDTH="553"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="140 1269 138 1282 170 1293 172 1293 173 1293 175 1293 177 1293 189 1285 206 1293 207 1293 209 1293 689 1288 691 1271 689 1239 632 1228 597 1228 595 1228 594 1228 592 1228 592 1230 583 1237 554 1228 552 1228 500 1228 498 1228 497 1228 495 1228 495 1230 486 1237 140 1231 140 1269"/></Shape>
+            <String CONTENT="Et amœnior ſe campus ipſis offeret."
+                    HPOS="138"
+                    VPOS="1228"
+                    WIDTH="553"
+                    HEIGHT="65"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_275cce1d"
+                    TAGREFS="LT7"
+                    BASELINE="146 1321 805 1326" 
+                    HPOS="143"
+                    VPOS="1279"
+                    WIDTH="660"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="144 1320 143 1333 167 1342 169 1342 170 1342 218 1334 363 1343 364 1343 483 1336 800 1342 803 1325 801 1291 700 1282 698 1282 586 1289 567 1280 566 1280 564 1280 563 1280 538 1288 454 1280 452 1280 289 1286 281 1280 281 1279 280 1279 278 1279 277 1279 144 1285 144 1320"/></Shape>
+            <String CONTENT="Quod hoc opus ſermo Latinus nunc habet,"
+                    HPOS="143"
+                    VPOS="1279"
+                    WIDTH="660"
+                    HEIGHT="64"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bced6eac"
+                    TAGREFS="LT7"
+                    BASELINE="141 1371 796 1373" 
+                    HPOS="138"
+                    VPOS="1334"
+                    WIDTH="657"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="140 1369 138 1385 149 1392 150 1392 152 1392 153 1392 195 1385 238 1392 240 1392 443 1385 455 1392 457 1392 458 1392 460 1392 592 1386 618 1394 620 1394 621 1394 623 1394 624 1394 634 1386 643 1394 644 1394 646 1394 648 1394 649 1394 680 1386 688 1394 689 1394 691 1394 692 1396 794 1396 795 1372 792 1334 140 1334 140 1369"/></Shape>
+            <String CONTENT="Bernardus eſt Bertrandus author impiger:"
+                    HPOS="138"
+                    VPOS="1334"
+                    WIDTH="657"
+                    HEIGHT="62"
+                    WC="0.9877304613590241"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c1ea8d59"
+                    TAGREFS="LT7"
+                    BASELINE="142 1422 708 1422" 
+                    HPOS="141"
+                    VPOS="1379"
+                    WIDTH="565"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="141 1420 141 1432 200 1442 201 1443 289 1443 289 1442 290 1442 292 1442 292 1440 300 1434 694 1442 695 1442 697 1442 698 1442 706 1434 706 1420 706 1389 660 1389 644 1379 643 1379 641 1379 640 1379 638 1379 615 1388 563 1379 489 1379 487 1379 486 1379 484 1379 471 1388 386 1379 384 1379 349 1386 326 1379 324 1379 323 1379 141 1385 141 1420"/></Shape>
+            <String CONTENT="Nam ſuaſu amicorum fideli traditam"
+                    HPOS="141"
+                    VPOS="1379"
+                    WIDTH="565"
+                    HEIGHT="64"
+                    WC="0.9892295108121985"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_86d6d4fd"
+                    TAGREFS="LT7"
+                    BASELINE="141 1470 718 1474" 
+                    HPOS="138"
+                    VPOS="1428"
+                    WIDTH="579"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="140 1469 138 1483 160 1494 161 1494 163 1494 164 1494 183 1486 269 1494 270 1494 272 1494 304 1485 372 1494 374 1494 375 1494 415 1485 714 1495 717 1472 712 1429 684 1436 598 1428 597 1428 595 1428 571 1440 514 1440 503 1429 503 1428 501 1428 500 1428 498 1428 497 1428 495 1428 484 1437 451 1428 449 1428 447 1428 446 1428 444 1428 426 1439 140 1429 140 1469"/></Shape>
+            <String CONTENT="Libenter hanc prouinciam cæpit ſibi,"
+                    HPOS="138"
+                    VPOS="1428"
+                    WIDTH="579"
+                    HEIGHT="67"
+                    WC="0.9699520601166619"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_bbe7d315"
+                    TAGREFS="LT7"
+                    BASELINE="145 1522 660 1526" 
+                    HPOS="143"
+                    VPOS="1476"
+                    WIDTH="515"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="144 1520 143 1540 223 1542 249 1554 250 1554 252 1554 314 1546 340 1555 341 1555 343 1555 484 1545 512 1555 514 1555 515 1555 580 1549 611 1557 612 1557 614 1559 614 1557 615 1557 657 1545 658 1525 657 1491 589 1480 587 1480 586 1480 574 1486 566 1479 564 1479 563 1479 561 1479 503 1489 487 1477 486 1477 484 1477 483 1477 481 1477 446 1486 386 1477 384 1477 383 1477 381 1477 367 1488 315 1476 314 1476 312 1476 281 1486 144 1479 144 1520"/></Shape>
+            <String CONTENT="Vt unus eſſet uſui quàm plurimis."
+                    HPOS="143"
+                    VPOS="1476"
+                    WIDTH="515"
+                    HEIGHT="83"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2bf90ea9"
+                    TAGREFS="LT8"
+                    BASELINE="781 1577 874 1580" 
+                    HPOS="778"
+                    VPOS="1528"
+                    WIDTH="94"
+                    HEIGHT="75">
+            <Shape><Polygon POINTS="780 1575 778 1600 869 1603 872 1579 872 1531 780 1528 780 1575"/></Shape>
+            <String CONTENT="Quod"
+                    HPOS="778"
+                    VPOS="1528"
+                    WIDTH="94"
+                    HEIGHT="75"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="771"
+                   VPOS="1534"
+                   WIDTH="113"
+                   HEIGHT="68"
+                   ID="eSc_textblock_de2c742f"
+                   TAGREFS="BT17">
+          <Shape><Polygon POINTS="871 1537 884 1549 884 1602 771 1602 771 1534"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="127"
+                   VPOS="184"
+                   WIDTH="736"
+                   HEIGHT="1367"
+                   ID="eSc_textblock_c5b910b0"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="643 217 740 225 781 245 789 396 740 454 748 515 793 545 793 589 744 639 752 745 736 847 748 929 699 992 683 1101 756 1139 782 1176 855 1193 863 1228 818 1279 822 1343 806 1392 752 1414 736 1434 732 1491 726 1500 683 1500 683 1551 151 1544 135 1524 127 725 135 684 160 675 168 646 155 634 168 578 164 504 139 486 131 449 131 352 204 340 225 310 209 250 176 228 180 184 412 184 412 190 630 190"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

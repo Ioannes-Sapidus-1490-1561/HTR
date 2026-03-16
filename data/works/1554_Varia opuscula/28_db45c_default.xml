@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>28_db45c_default.jpg</fileName>
+      <fileIdentifier>https://api.digitale-sammlungen.de/iiif/image/v2/bsb10183658_00029/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3758" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1389" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1259"
+          HEIGHT="1896"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1259"
+                  HEIGHT="1896">
+        <TextBlock HPOS="96"
+                   VPOS="172"
+                   WIDTH="695"
+                   HEIGHT="429"
+                   ID="eSc_textblock_72a7c473"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="614 176 643 185 665 227 728 231 753 365 715 445 787 497 791 584 117 601 96 521 101 231 109 189 130 172"/></Shape>
+          <TextLine ID="eSc_line_75dbf74c"
+                    TAGREFS="LT7"
+                    BASELINE="115 220 624 214" 
+                    HPOS="114"
+                    VPOS="173"
+                    WIDTH="510"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="620 179 610 175 599 175 588 175 578 175 567 175 557 175 546 175 540 175 536 180 520 180 503 175 494 175 483 174 473 174 465 174 448 180 438 174 430 174 420 174 418 174 408 181 368 173 367 173 357 173 346 173 345 173 313 180 304 173 304 173 293 173 292 173 238 182 217 176 215 176 214 176 213 176 212 176 205 183 121 178 114 183 115 220 115 230 144 230 152 236 153 236 154 236 155 236 231 229 268 229 274 234 274 235 276 235 277 235 278 235 344 234 345 234 360 228 386 228 396 234 397 234 398 234 399 234 400 234 415 228 441 233 442 233 489 227 623 230 624 214 623 180 620 179"/></Shape>
+            <String CONTENT="Permotus haſce lucubratiunculas"
+                    HPOS="114"
+                    VPOS="173"
+                    WIDTH="510"
+                    HEIGHT="63"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_feb2fdc2"
+                    TAGREFS="LT7"
+                    BASELINE="115 269 729 266" 
+                    HPOS="114"
+                    VPOS="225"
+                    WIDTH="615"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="725 234 715 230 710 229 676 234 648 225 647 225 617 225 616 225 615 225 614 225 599 234 560 226 559 226 558 226 522 235 503 226 502 226 501 226 500 226 499 226 492 233 417 235 395 226 394 226 329 226 328 226 327 226 326 226 311 236 274 227 273 227 272 227 271 227 246 235 232 228 231 228 230 228 167 232 153 227 152 227 151 227 150 227 114 238 115 269 115 281 228 289 229 289 230 289 248 281 262 289 263 289 264 289 265 289 266 289 267 289 281 281 304 289 305 289 306 289 350 280 374 288 375 288 376 288 377 288 407 280 447 286 448 286 449 286 467 280 488 288 489 288 490 288 492 288 493 288 502 280 521 288 522 288 523 288 524 288 540 283 576 287 577 287 578 287 579 287 579 286 587 279 626 279 635 285 635 286 636 286 637 286 638 286 639 286 655 279 697 279 707 287 709 287 710 287 711 288 728 288 729 266 728 246 725 234"/></Shape>
+            <String CONTENT="A celebribus ſcriptas uiris, in publicum,"
+                    HPOS="114"
+                    VPOS="225"
+                    WIDTH="615"
+                    HEIGHT="64"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_a8d90d11"
+                    TAGREFS="LT7"
+                    BASELINE="116 320 672 315" 
+                    HPOS="115"
+                    VPOS="277"
+                    WIDTH="557"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="116 320 116 333 253 339 254 339 297 331 303 337 303 338 304 338 305 338 306 338 307 338 328 332 349 338 350 338 351 338 352 338 353 338 363 331 417 336 418 336 419 336 433 330 448 337 449 337 450 337 451 337 453 337 453 336 459 330 508 334 509 334 549 329 596 336 597 336 598 336 617 329 670 336 672 315 667 282 654 285 633 277 632 277 631 277 630 277 628 277 615 285 586 279 585 279 584 279 569 285 560 281 559 281 558 281 468 286 459 279 459 278 458 278 457 278 440 278 439 278 438 278 437 278 437 279 428 287 383 287 372 279 371 279 370 279 337 279 336 279 335 279 333 279 333 280 328 284 320 279 319 279 318 279 254 279 253 279 156 288 148 281 148 280 147 280 146 280 145 280 115 280 116 320"/></Shape>
+            <String CONTENT="Non deſpicabilibus adornatas notis,"
+                    HPOS="115"
+                    VPOS="277"
+                    WIDTH="557"
+                    HEIGHT="62"
+                    WC="0.998102559362139"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_1eec16fe"
+                    TAGREFS="LT7"
+                    BASELINE="111 371 738 366" 
+                    HPOS="110"
+                    VPOS="323"
+                    WIDTH="628"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="111 371 111 382 169 382 178 388 178 389 179 389 180 389 181 389 182 389 205 383 220 389 221 389 222 389 223 389 224 389 237 381 248 387 249 387 250 387 251 387 252 387 261 381 280 387 281 387 282 387 337 381 359 389 360 389 361 389 362 389 383 380 425 388 426 388 427 388 455 380 464 388 465 388 466 388 467 389 485 389 485 388 486 388 508 379 532 387 533 387 534 388 581 388 581 387 608 382 684 386 685 386 686 386 687 386 699 378 716 386 717 386 718 386 719 386 738 377 738 366 734 323 717 331 695 324 694 324 693 324 647 330 635 324 634 324 633 324 632 324 608 332 558 325 485 325 484 325 483 325 482 325 482 326 473 333 431 326 430 326 348 334 267 328 266 328 265 328 264 328 257 334 211 334 206 329 206 328 205 328 204 328 203 328 202 328 171 336 135 328 134 328 110 331 111 371"/></Shape>
+            <String CONTENT="Dedit, huius ut proſint ſtudij amatoribus"
+                    HPOS="110"
+                    VPOS="323"
+                    WIDTH="628"
+                    HEIGHT="66"
+                    WC="0.9852212943681856"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_c4646cd4"
+                    TAGREFS="LT7"
+                    BASELINE="110 420 566 416" 
+                    HPOS="109"
+                    VPOS="378"
+                    WIDTH="457"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="110 420 110 432 213 440 214 440 215 440 238 431 270 439 271 439 272 439 299 431 336 439 337 439 338 439 361 432 381 438 382 438 383 438 384 438 385 438 397 430 438 438 439 438 489 429 565 429 566 416 563 386 542 386 529 378 528 378 527 378 495 378 494 378 493 378 492 378 483 384 459 378 458 378 457 378 411 388 328 388 289 380 288 380 287 380 264 388 164 381 163 381 109 389 110 420"/></Shape>
+            <String CONTENT="At ipſe concinnator iſtius libri"
+                    HPOS="109"
+                    VPOS="378"
+                    WIDTH="457"
+                    HEIGHT="62"
+                    WC="0.9834306538105011"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_b3cc3a77"
+                    TAGREFS="LT7"
+                    BASELINE="110 471 666 467" 
+                    HPOS="109"
+                    VPOS="426"
+                    WIDTH="557"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="110 471 111 491 138 482 191 488 192 488 193 488 205 482 212 489 212 490 213 490 214 490 215 491 248 491 248 490 288 481 308 487 309 487 310 487 342 481 352 489 353 489 355 489 356 490 386 490 386 489 421 488 422 488 438 480 454 488 455 488 456 488 457 488 485 480 525 487 526 487 527 487 553 479 640 487 641 487 642 487 666 478 666 467 664 438 644 438 623 426 622 426 595 426 594 426 593 426 592 426 575 437 544 430 543 430 542 430 522 439 451 439 434 431 433 431 431 431 372 439 351 427 350 427 349 427 348 427 328 438 306 427 305 427 285 427 284 427 283 427 282 427 282 428 274 435 265 427 264 427 263 427 262 427 231 428 230 428 229 428 212 440 159 428 158 428 109 430 110 471"/></Shape>
+            <String CONTENT="Sibi non haberi gratiam cupit aliam"
+                    HPOS="109"
+                    VPOS="426"
+                    WIDTH="557"
+                    HEIGHT="65"
+                    WC="0.9890889474323817"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_76e684b0"
+                    TAGREFS="LT7"
+                    BASELINE="109 524 765 517" 
+                    HPOS="89"
+                    VPOS="477"
+                    WIDTH="676"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="362 539 363 539 364 539 379 531 401 538 402 538 403 538 439 531 521 538 522 538 523 538 541 531 640 537 641 537 684 530 736 537 737 537 738 537 765 529 765 517 763 486 731 486 722 478 722 477 721 477 720 477 655 477 654 477 653 477 637 484 620 477 619 477 618 477 617 477 600 485 588 477 587 477 586 477 585 477 512 478 510 478 494 487 397 487 389 480 388 480 387 480 386 480 385 480 368 487 355 481 353 481 352 481 351 481 339 487 321 479 320 479 319 479 318 479 294 488 199 488 106 490 89 525 118 540"/></Shape>
+            <String CONTENT="Quàm quod labor gratus ſit hic lectoribus"
+                    HPOS="89"
+                    VPOS="477"
+                    WIDTH="676"
+                    HEIGHT="63"
+                    WC="0.9751582486288888"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_db0bc8f0"
+                    TAGREFS="LT7"
+                    BASELINE="117 571 780 568" 
+                    HPOS="116"
+                    VPOS="528"
+                    WIDTH="664"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="117 571 117 619 161 619 161 618 162 618 163 618 192 598 249 618 250 618 251 618 252 618 253 618 253 617 270 601 307 618 308 618 309 618 310 618 311 618 340 597 447 597 489 603 490 603 492 603 493 603 493 602 499 597 518 597 546 617 547 617 548 617 549 617 642 611 675 616 676 616 677 616 678 616 699 602 726 614 728 614 729 614 730 614 755 602 780 602 780 568 778 537 711 537 702 529 702 528 701 528 700 528 699 528 698 528 674 537 552 537 503 529 502 529 412 535 366 529 365 529 364 529 337 538 320 530 319 530 318 530 317 530 316 530 306 538 284 531 283 531 282 531 226 538 197 530 195 530 194 530 158 537 116 531 117 571"/></Shape>
+            <String CONTENT="Quibus hæc opuſcula ſe́ totum conſecrat."
+                    HPOS="116"
+                    VPOS="528"
+                    WIDTH="664"
+                    HEIGHT="91"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

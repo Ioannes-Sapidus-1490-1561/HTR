@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1_ede5d_default.jpg</fileName>
+      <fileIdentifier>https://api.digitale-sammlungen.de/iiif/image/v2/bsb00015647_00002/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3780" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1398" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1354"
+          HEIGHT="2043"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1354"
+                  HEIGHT="2043">
+        <TextBlock HPOS="481"
+                   VPOS="553"
+                   WIDTH="640"
+                   HEIGHT="462"
+                   ID="eSc_textblock_be89722b"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="1121 572 1121 598 1067 616 1062 635 1080 711 1057 738 1107 835 1093 988 753 1011 545 1015 499 1002 481 888 490 685 662 671 613 652 608 581 627 562 967 553"/></Shape>
+          <TextLine ID="eSc_line_ec5d9262"
+                    TAGREFS="LT10"
+                    BASELINE="621 608 1109 595" 
+                    HPOS="618"
+                    VPOS="555"
+                    WIDTH="490"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="1078 566 1061 563 1044 561 1026 560 1009 558 1003 556 923 555 921 555 919 555 917 555 904 563 868 556 866 556 618 572 619 607 619 621 1108 607 1108 594 1105 568 1095 568"/></Shape>
+            <String CONTENT="IOANNES SAPIDVS"
+                    HPOS="618"
+                    VPOS="555"
+                    WIDTH="490"
+                    HEIGHT="66"
+                    WC="0.9996633688608806"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f5b9a57e"
+                    TAGREFS="LT10"
+                    BASELINE="776 650 926 648" 
+                    HPOS="773"
+                    VPOS="602"
+                    WIDTH="151"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="790 604 773 604 774 648 774 670 923 662 924 646 921 607 808 602 807 602"/></Shape>
+            <String CONTENT="Lectori."
+                    HPOS="773"
+                    VPOS="602"
+                    WIDTH="151"
+                    HEIGHT="68"
+                    WC="0.95170097053051"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5e2b28e9"
+                    TAGREFS="LT7"
+                    BASELINE="488 716 917 701 1057 701" 
+                    HPOS="487"
+                    VPOS="650"
+                    WIDTH="568"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="655 672 638 674 621 674 604 675 587 677 570 679 553 679 536 681 519 682 502 684 490 691 487 715 487 732 858 716 906 723 907 723 979 713 1054 718 1055 699 1052 660 963 650 962 650 960 650 958 650 958 652 957 652 952 658 751 657 749 657 747 657 693 670 655 665 655 672"/></Shape>
+            <String CONTENT="Hippocrates Cous medicæ doctiſsimus artis,"
+                    HPOS="487"
+                    VPOS="650"
+                    WIDTH="568"
+                    HEIGHT="82"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_07638f44"
+                    TAGREFS="LT7"
+                    BASELINE="532 750 1010 738" 
+                    HPOS="529"
+                    VPOS="708"
+                    WIDTH="480"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="531 749 531 772 1009 752 1009 737 1004 708 558 715 556 715 529 723 531 749"/></Shape>
+            <String CONTENT="Qui ſummis fuerat cura ſalus́ uiris:"
+                    HPOS="529"
+                    VPOS="708"
+                    WIDTH="480"
+                    HEIGHT="64"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_08bfbc24"
+                    TAGREFS="LT7"
+                    BASELINE="487 793 1003 775" 
+                    HPOS="483"
+                    VPOS="742"
+                    WIDTH="518"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="485 791 485 805 1001 788 1001 774 996 742 483 759 485 791"/></Shape>
+            <String CONTENT="Corporis humani quæ ſit natura, libello"
+                    HPOS="483"
+                    VPOS="742"
+                    WIDTH="518"
+                    HEIGHT="63"
+                    WC="0.9736753090834006"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_25aef8e3"
+                    TAGREFS="LT7"
+                    BASELINE="528 830 1055 814" 
+                    HPOS="526"
+                    VPOS="783"
+                    WIDTH="528"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="527 829 527 841 1054 827 1054 813 1049 783 526 801 527 829"/></Shape>
+            <String CONTENT="Hoc, tamen arguta cum breuitate, docet."
+                    HPOS="526"
+                    VPOS="783"
+                    WIDTH="528"
+                    HEIGHT="58"
+                    WC="0.9889213259403522"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_81558013"
+                    TAGREFS="LT7"
+                    BASELINE="488 871 1097 851" 
+                    HPOS="485"
+                    VPOS="815"
+                    WIDTH="611"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="487 869 487 888 1096 871 1096 849 1091 815 737 834 642 827 640 827 579 839 558 830 556 830 555 830 485 842 487 869"/></Shape>
+            <String CONTENT="Hinc nimis obſcuros ſenſus manifeſtat abundè,"
+                    HPOS="485"
+                    VPOS="815"
+                    WIDTH="611"
+                    HEIGHT="73"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_37824760"
+                    TAGREFS="LT7"
+                    BASELINE="533 909 984 897" 
+                    HPOS="529"
+                    VPOS="863"
+                    WIDTH="453"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="531 907 531 931 982 909 982 895 977 863 529 878 531 907"/></Shape>
+            <String CONTENT="Blaſius Hollerius, dexteritate ſua."
+                    HPOS="529"
+                    VPOS="863"
+                    WIDTH="453"
+                    HEIGHT="68"
+                    WC="0.9690347671508789"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_3b07b551"
+                    TAGREFS="LT7"
+                    BASELINE="494 953 1073 931" 
+                    HPOS="492"
+                    VPOS="898"
+                    WIDTH="580"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="493 951 493 968 894 960 1072 943 1072 929 1069 907 994 898 992 898 933 910 780 907 778 907 776 907 756 917 727 909 725 909 723 909 722 909 720 909 708 919 669 910 667 910 665 910 664 910 652 922 492 922 493 951"/></Shape>
+            <String CONTENT="Propterea qui uis bene ſanum corpus habere,"
+                    HPOS="492"
+                    VPOS="898"
+                    WIDTH="580"
+                    HEIGHT="70"
+                    WC="0.9786759781283002"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_6ab7cc00"
+                    TAGREFS="LT7"
+                    BASELINE="532 991 1072 972" 
+                    HPOS="529"
+                    VPOS="941"
+                    WIDTH="542"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="531 990 531 1011 568 1019 570 1019 572 1019 573 1019 573 1018 575 1018 580 1011 616 1018 618 1018 619 1018 643 1007 710 1014 711 1014 802 1001 843 1009 844 1009 846 1009 866 1001 887 1007 889 1007 890 1007 1071 992 1071 970 1066 941 798 953 757 946 756 946 662 958 628 951 626 951 625 951 623 951 623 953 614 960 582 953 580 953 529 963 531 990"/></Shape>
+            <String CONTENT="Sæpius hunc uigili mente reuolue librum."
+                    HPOS="529"
+                    VPOS="941"
+                    WIDTH="542"
+                    HEIGHT="78"
+                    ></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
